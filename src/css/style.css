@@ -38,6 +38,7 @@ body {
   border-image-repeat: stretch stretch;
   font-family: "Gwent";
   font-size: 24px;
+  color: black;
 }
 .main-button:hover {
   cursor: pointer;
