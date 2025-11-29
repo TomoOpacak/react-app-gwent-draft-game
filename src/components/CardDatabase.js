@@ -90,7 +90,7 @@ function CardDatabase() {
         {filteredCards.map((card, index) => (
           <div className="card-item" key={index}>
             <img
-              src={card.image}
+              src={process.env.PUBLIC_URL + card.image}
               alt={card.name}
               loading="lazy"
               onClick={() => setZoomed(card)}
@@ -100,7 +100,11 @@ function CardDatabase() {
       </div>
       {zoomed && (
         <div className="zoom-overlay" onClick={() => setZoomed(null)}>
-          <img src={zoomed.image} alt={zoomed.name} className="zoom-image" />
+          <img
+            src={process.env.PUBLIC_URL + zoomed.image}
+            alt={zoomed.name}
+            className="zoom-image"
+          />
         </div>
       )}
     </div>

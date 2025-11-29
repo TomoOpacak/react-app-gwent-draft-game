@@ -1,8 +1,7 @@
-export default function MonsterFactionGuide() {
+export default function NilfgaardFactionGuide() {
   return (
     <div>
-      <h1>Monsters</h1>
-      <p>This is the Monsters faction page.</p>
+      <h1>Nilfgaard</h1>
     </div>
   );
 }

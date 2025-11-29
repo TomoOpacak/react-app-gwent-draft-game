@@ -1,8 +1,7 @@
-export default function MonsterFactionGuide() {
+export default function SkelligeFactionGuide() {
   return (
     <div>
-      <h1>Monsters</h1>
-      <p>This is the Monsters faction page.</p>
+      <h1>Skellige</h1>
     </div>
   );
 }

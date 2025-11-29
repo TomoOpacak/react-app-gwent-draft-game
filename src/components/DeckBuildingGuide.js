@@ -1,4 +1,4 @@
-import { Routes, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function DeckBuildGuide() {
   const buttons = [
@@ -20,7 +20,11 @@ export default function DeckBuildGuide() {
       <div className="factions">
         {buttons.map((btn) => (
           <Link key={btn.to} to={btn.to} className="">
-            <img src={btn.img} alt={btn.label} className="faction-buttons" />
+            <img
+              src={process.env.PUBLIC_URL + btn.img}
+              alt={btn.label}
+              className="faction-buttons"
+            />
           </Link>
         ))}
       </div>
