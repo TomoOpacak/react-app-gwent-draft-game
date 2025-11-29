@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Gwent";
+}
+.guide-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.factions {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 15px;
+}
+.faction-buttons:active {
+  transform: scale(0.95);
+}

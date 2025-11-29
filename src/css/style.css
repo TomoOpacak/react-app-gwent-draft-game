@@ -1,0 +1,55 @@
+@import "card-database.css";
+@import "deck-building-guide.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Light", sans-serif;
+}
+@font-face {
+  font-family: "Gwent";
+  src: local("GwentExtraBold"),
+    url("/src/fonts/GWENTExtraBold.ttf") format("truetype");
+}
+body {
+  background-color: #18191d;
+  color: #d9d8cb;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  gap: 20px;
+}
+.main-logo {
+  width: 400px;
+  height: auto;
+}
+
+.main-button {
+  width: 200px;
+  height: 60px;
+  border-image-source: url("/public/assets/images/button_strong.png");
+  border-image-slice: 11 fill;
+  border-image-width: 11px;
+  border-image-repeat: stretch stretch;
+  font-family: "Gwent";
+  font-size: 24px;
+}
+.main-button:hover {
+  cursor: pointer;
+  border-image-source: url("/public/assets/images/button_strong_hover.png");
+}
+.main-button:active {
+  transform: scale(0.95);
+}
+footer {
+  width: 80%;
+  text-align: center;
+  margin: 20px auto;
+  font-size: 14px;
+  color: #bebaba;
+}
