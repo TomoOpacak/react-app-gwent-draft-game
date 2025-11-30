@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ciri",
+    "image": "/assets/cards/ciri.webp",
+    "faction": "Neutral",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": ["Witcher"]
+  },
+  {
+    "name": "Geralt of Rivia",
+    "image": "/assets/cards/geralt_of_rivia.webp",
+    "faction": "Neutral",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy"]
+  },
+  {
+    "name": "Ciri Nova",
+    "image": "/assets/cards/ciri_nova.webp",
+    "faction": "Neutral",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
+  }
+]

@@ -1,31 +1,7 @@
 [
   {
-    "name": "Ciri",
-    "image": "/assets/cards/ciri.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher"]
-  },
-  {
-    "name": "Geralt of Rivia",
-    "image": "/assets/cards/geralt_of_rivia.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy"]
-  },
-  {
-    "name": "Ciri Nova",
-    "image": "/assets/cards/ciri_nova.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
-  },
-  {
     "name": "Ard Gaeth",
-    "image": "/assets/cards/ard_gaeth.webp",
+    "image": "/assets/cards/monsters/ard_gaeth.webp",
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Legendary",
@@ -33,7 +9,7 @@
   },
   {
     "name": "Arachas Nest",
-    "image": "/assets/cards/arachas_nest.webp",
+    "image": "/assets/cards/monsters/arachas_nest.webp",
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Common",
@@ -41,7 +17,7 @@
   },
   {
     "name": "Archespore",
-    "image": "/assets/cards/archespore.webp",
+    "image": "/assets/cards/monsters/archespore.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
@@ -49,7 +25,7 @@
   },
   {
     "name": "Caranthir Ar-Feiniel",
-    "image": "/assets/cards/caranthir.webp",
+    "image": "/assets/cards/monsters/caranthir.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
@@ -65,7 +41,7 @@
   },
   {
     "name": "Barghest",
-    "image": "/assets/cards/barghest.webp",
+    "image": "/assets/cards/monsters/barghest.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Rare",
@@ -73,7 +49,7 @@
   },
   {
     "name": "Desert Banshee",
-    "image": "/assets/cards/desert_banshee.webp",
+    "image": "/assets/cards/monsters/desert_banshee.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
@@ -81,7 +57,7 @@
   },
   {
     "name": "Endrega Warrior",
-    "image": "/assets/cards/endrega_warrior.webp",
+    "image": "/assets/cards/monsters/endrega_warrior.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",

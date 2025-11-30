@@ -1,5 +1,21 @@
 import { useState, useEffect } from "react";
-import cardsData from "../data/cards.json";
+import monsters from "../data/monsters.json";
+import nilfgaard from "../data/nilfgaard.json";
+import northernRealms from "../data/northern_realms.json";
+import scoiatael from "../data/scoiatael.json";
+import skellige from "../data/skellige.json";
+import syndicate from "../data/syndicate.json";
+import neutral from "../data/neutral.json";
+
+const cardsData = [
+  ...monsters,
+  ...nilfgaard,
+  ...northernRealms,
+  ...scoiatael,
+  ...skellige,
+  ...syndicate,
+  ...neutral,
+];
 
 function CardDatabase() {
   const [search, setSearch] = useState("");
@@ -14,12 +30,24 @@ function CardDatabase() {
   const filteredCards = cardsData
     .filter((card) => {
       const searchTerm = search.toLowerCase();
+
       const matchesName = card.name.toLowerCase().includes(searchTerm);
       const matchesTag = card.tags.some((tag) =>
         tag.toLowerCase().includes(searchTerm)
       );
-      const matchesFaction = faction === "All" || card.faction === faction;
-      return (matchesName || matchesTag) && matchesFaction;
+      const matchesType = card.type.toLowerCase().includes(searchTerm);
+      const matchesFaction = card.faction.toLowerCase().includes(searchTerm);
+      const matchesRarity = card.rarity.toLowerCase().includes(searchTerm);
+      const filterFaction = faction === "All" || card.faction === faction;
+
+      return (
+        (matchesName ||
+          matchesTag ||
+          matchesType ||
+          matchesFaction ||
+          matchesRarity) &&
+        filterFaction
+      );
     })
     .sort((a, b) => {
       if (sortBy === "rarity")

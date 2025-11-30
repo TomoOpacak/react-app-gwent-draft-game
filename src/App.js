@@ -105,7 +105,7 @@ function App() {
         </Routes>
 
         {/* Footer */}
-        <footer className="main-footer">
+        <footer>
           <p>
             GWENT Board Game Project 2025 made by Reattera. All rights reserved
             by CD Projekt Red.
