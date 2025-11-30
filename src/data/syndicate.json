@@ -1,26 +1,18 @@
 [
   {
-    "name": "Ciri",
-    "image": "/assets/cards/ciri.webp",
-    "faction": "Neutral",
+    "name": "Beggar",
+    "image": "/assets/cards/syndicate/beggar.webp",
+    "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher"]
+    "rarity": "Common",
+    "tags": ["Human", "Agent", "Blindeyes", "Profit"]
   },
   {
-    "name": "Geralt of Rivia",
-    "image": "/assets/cards/geralt_of_rivia.webp",
-    "faction": "Neutral",
+    "name": "Temple Guard",
+    "image": "/assets/cards/syndicate/temple_guard.webp",
+    "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy"]
-  },
-  {
-    "name": "Ciri Nova",
-    "image": "/assets/cards/ciri_nova.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
+    "rarity": "Common",
+    "tags": ["Human", "Soldier", "Firesworn", "Deploy", "Melee"]
   }
 ]

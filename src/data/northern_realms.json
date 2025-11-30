@@ -1,26 +1,18 @@
 [
   {
-    "name": "Ciri",
-    "image": "/assets/cards/ciri.webp",
-    "faction": "Neutral",
+    "name": "Reinforced Trebuchet",
+    "image": "/assets/cards/northern_realms/reinforced_trebuchet.webp",
+    "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher"]
+    "rarity": "Common",
+    "tags": ["Machine", "Siege", "Deploy", "Engine", "Order"]
   },
   {
-    "name": "Geralt of Rivia",
-    "image": "/assets/cards/geralt_of_rivia.webp",
-    "faction": "Neutral",
+    "name": "Siege Tower",
+    "image": "/assets/cards/northern_realms/siege_tower.webp",
+    "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy"]
-  },
-  {
-    "name": "Ciri Nova",
-    "image": "/assets/cards/ciri_nova.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
+    "rarity": "Common",
+    "tags": ["Machine", "Siege", "Zeal", "Engine", "Order", "Crew", "Cooldown"]
   }
 ]

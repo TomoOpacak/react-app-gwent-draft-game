@@ -5,7 +5,7 @@ export const factions = {
       {
         id: "eredin",
         name: "Eredin",
-        image: "/assets/cards/leader_eredin.webp",
+        image: "/assets/cards/leaders/leader_eredin.webp",
         cards: [
           { name: "Wild Hunt Rider", rarity: "common" },
           { name: "Wild Hunt Rider", rarity: "common" },
@@ -24,7 +24,7 @@ export const factions = {
       {
         id: "unseen elder",
         name: "Unseen Elder",
-        image: "/assets/cards/leader_unseen_elder.webp",
+        image: "/assets/cards/leaders/leader_unseen_elder.webp",
         cards: [
           // Common
           { name: "Garkain", rarity: "common" },
@@ -55,7 +55,7 @@ export const factions = {
       {
         id: "foltest",
         name: "King Foltest",
-        image: "/assets/cards/leader_foltest.webp",
+        image: "/assets/cards/leaders/leader_foltest.webp",
         cards: [
           { name: "Trebuchet Big Damage", rarity: "common" },
           { name: "Ballista", rarity: "common" },
@@ -74,7 +74,7 @@ export const factions = {
       {
         id: "radovid",
         name: "King Radovid",
-        image: "/assets/cards/leader_radovid.webp",
+        image: "/assets/cards/leaders/leader_radovid.webp",
         cards: [
           { name: "Redanian Knight", rarity: "common" },
           // ... 12 cards

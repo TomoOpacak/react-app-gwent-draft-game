@@ -1,26 +1,18 @@
 [
   {
-    "name": "Ciri",
-    "image": "/assets/cards/ciri.webp",
-    "faction": "Neutral",
+    "name": "Svalblod Priest",
+    "image": "/assets/cards/skellige/svalblod_priest.webp",
+    "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher"]
+    "rarity": "Rare",
+    "tags": ["Human", "Druid", "Cultist"]
   },
   {
-    "name": "Geralt of Rivia",
-    "image": "/assets/cards/geralt_of_rivia.webp",
-    "faction": "Neutral",
+    "name": "Tuirseach Invader",
+    "image": "/assets/cards/skellige/tuirseach_invader.webp",
+    "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy"]
-  },
-  {
-    "name": "Ciri Nova",
-    "image": "/assets/cards/ciri_nova.webp",
-    "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
+    "rarity": "Rare",
+    "tags": ["Human", "Pirate", "Warrior", "Veil", "Veteran"]
   }
 ]
