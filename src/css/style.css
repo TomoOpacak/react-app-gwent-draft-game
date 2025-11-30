@@ -30,14 +30,14 @@ body {
 }
 
 .main-button {
-  width: 200px;
-  height: 60px;
+  width: 240px;
+  height: 80px;
   border-image-source: url("/public/assets/images/button_strong.png");
   border-image-slice: 11 fill;
   border-image-width: 11px;
   border-image-repeat: stretch stretch;
   font-family: "Gwent";
-  font-size: 24px;
+  font-size: 32px;
   color: black;
 }
 .main-button:hover {
@@ -50,7 +50,7 @@ body {
 footer {
   width: 80%;
   text-align: center;
-  margin: 20px auto;
+  margin-top: 40px;
   font-size: 14px;
   color: #bebaba;
 }

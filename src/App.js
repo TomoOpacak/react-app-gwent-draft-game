@@ -27,7 +27,7 @@ function App() {
                   <button className="main-button">Card Database</button>
                 </Link>
                 <Link to="/guide">
-                  <button className="main-button">Deck Build Guide</button>
+                  <button className="main-button">Deck Guide</button>
                 </Link>
               </>
             }

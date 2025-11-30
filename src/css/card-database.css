@@ -67,3 +67,14 @@ img {
   border-radius: 8px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
+
+/* Responsive */
+@media (max-width: 380px) {
+  .card-grid {
+    img {
+      width: 100px;
+      height: auto;
+      border-radius: 6px;
+    }
+  }
+}
