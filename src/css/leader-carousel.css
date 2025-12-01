@@ -4,12 +4,15 @@
   align-items: center;
 }
 
-.monsters {
+/*.monsters {
   color: #9b1c0e;
 }
 .northern-realms {
   color: #1d4ed8;
 }
+.nilfgaard {
+  color: #ffffff;
+}*/
 .carousel-container {
   display: flex;
   flex-direction: column;
@@ -22,10 +25,11 @@
   display: flex;
 
   align-items: center;
-  gap: 20px;
 }
 
 .arrow {
+  width: 60px;
+  height: 100px;
   background: none;
   border: none;
   cursor: pointer;

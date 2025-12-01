@@ -177,7 +177,7 @@
   },
   {
     "name": "Half-Elf Hunter",
-    "image": "/assets/cards/scoiatael/half_elf_hunter.webp",
+    "image": "/assets/cards/scoiatael/half-elf_hunter.webp",
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Isengrim Faoil",
-    "image": "/assets/cards/scoiatael/isengrim_faoil.webp",
+    "image": "/assets/cards/scoiatael/isengrim_faoiltiarna.webp",
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",

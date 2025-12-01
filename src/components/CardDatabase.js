@@ -101,7 +101,7 @@ function CardDatabase() {
           <div className="card-item" key={i}>
             <img
               src={process.env.PUBLIC_URL + card.image}
-              alt={card.name}
+              /*alt={card.name}*/
               loading="lazy"
               onClick={() => handleClick(card)}
             />

@@ -1,7 +1,12 @@
+import React from "react";
+import { factions } from "../data/factions";
+import LeaderCarousel from "./LeaderCarousel";
+
 export default function NilfgaardFactionGuide() {
   return (
-    <div>
-      <h1>Nilfgaard</h1>
+    <div className="leader-container monsters">
+      <h1 className="nilfgaard">Nilfgaardian Empire</h1>
+      <LeaderCarousel leaders={factions.nilfgaard.leaders} />
     </div>
   );
 }
