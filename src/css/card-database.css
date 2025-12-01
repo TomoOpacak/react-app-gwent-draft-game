@@ -64,13 +64,20 @@ img {
 }
 
 .zoom-image {
-  width: 90%;
+  width: 500px;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 
 /* Responsive */
+@media (max-width: 500px) {
+  .zoom-image {
+    width: 90%;
+    height: auto;
+  }
+}
+
 @media (max-width: 380px) {
   .card-grid {
     img {
