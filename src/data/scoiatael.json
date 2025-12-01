@@ -1,10 +1,458 @@
 [
   {
-    "name": "dryad_fledgling",
+    "name": "Aelirenn",
+    "image": "/assets/cards/scoiatael/aelirenn.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Barclay Els",
+    "image": "/assets/cards/scoiatael/barclay_els.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Barnabas Beckenbauer",
+    "image": "/assets/cards/scoiatael/barnabas_beckenbauer.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Call of the Forest",
+    "image": "/assets/cards/scoiatael/call_of_the_forest.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Ciaran aep Easnillen",
+    "image": "/assets/cards/scoiatael/ciaran_aep_easnillen.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Crushing Trap",
+    "image": "/assets/cards/scoiatael/crushing_trap.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Deception",
+    "image": "/assets/cards/scoiatael/deception.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dennis Cranmer",
+    "image": "/assets/cards/scoiatael/dennis_cranmer.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Dol Blathanna Archer",
+    "image": "/assets/cards/scoiatael/dol_blathanna_archer.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dol Blathanna Sentry",
+    "image": "/assets/cards/scoiatael/dol_blathanna_sentry.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dryad Fledgling",
     "image": "/assets/cards/scoiatael/dryad_fledgling.webp",
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Dryad", "Harmony"]
+    "tags": []
+  },
+  {
+    "name": "Dryad Grovekeeper",
+    "image": "/assets/cards/scoiatael/dryad_grovekeeper.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Dryad Ranger",
+    "image": "/assets/cards/scoiatael/dryad_ranger.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Dryad's Caress",
+    "image": "/assets/cards/scoiatael/dryads_caress.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dwarf Berserker",
+    "image": "/assets/cards/scoiatael/dwarf_berserker.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Elven Scout",
+    "image": "/assets/cards/scoiatael/elven_scout.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Elven Swordmaster",
+    "image": "/assets/cards/scoiatael/elven_swordmaster.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Fauve",
+    "image": "/assets/cards/scoiatael/fauve.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Feign Death",
+    "image": "/assets/cards/scoiatael/feign_death.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Figgs Merluzo",
+    "image": "/assets/cards/scoiatael/figgs_merluzo.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Forest Whisperer",
+    "image": "/assets/cards/scoiatael/forest_whisperer.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Gabor Zigrin",
+    "image": "/assets/cards/scoiatael/gabor_zigrin.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Half-Elf Hunter",
+    "image": "/assets/cards/scoiatael/half_elf_hunter.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Hamadryad",
+    "image": "/assets/cards/scoiatael/hamadryad.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Incinerating Trap",
+    "image": "/assets/cards/scoiatael/incinerating_trap.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Isengrim Faoil",
+    "image": "/assets/cards/scoiatael/isengrim_faoil.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Isengrim's Council",
+    "image": "/assets/cards/scoiatael/isengrims_council.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Mahakam Defender",
+    "image": "/assets/cards/scoiatael/mahakam_defender.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Mahakam Guard",
+    "image": "/assets/cards/scoiatael/mahakam_guard.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Mahakam Horn",
+    "image": "/assets/cards/scoiatael/mahakam_horn.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Mahakam Volunteers",
+    "image": "/assets/cards/scoiatael/mahakam_volunteers.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Malena",
+    "image": "/assets/cards/scoiatael/malena.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Milaen",
+    "image": "/assets/cards/scoiatael/milaen.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Morenn",
+    "image": "/assets/cards/scoiatael/morenn.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Nature's Rebuke",
+    "image": "/assets/cards/scoiatael/natures_rebuke.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Pavko Gale",
+    "image": "/assets/cards/scoiatael/pavko_gale.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Percival Schuttenbach",
+    "image": "/assets/cards/scoiatael/percival_schuttenbach.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Pitfall Trap",
+    "image": "/assets/cards/scoiatael/pitfall_trap.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Serpent Trap",
+    "image": "/assets/cards/scoiatael/serpent_trap.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Shaping Nature",
+    "image": "/assets/cards/scoiatael/shaping_nature.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Sirssa",
+    "image": "/assets/cards/scoiatael/sirssa.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Tempering",
+    "image": "/assets/cards/scoiatael/tempering.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "The Heist",
+    "image": "/assets/cards/scoiatael/the_heist.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Trained Hawk",
+    "image": "/assets/cards/scoiatael/trained_hawk.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Trapmaker",
+    "image": "/assets/cards/scoiatael/trapmaker.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Treant Boar",
+    "image": "/assets/cards/scoiatael/treant_boar.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Vrihedd Brigade",
+    "image": "/assets/cards/scoiatael/vrihedd_brigade.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Vrihedd Officer",
+    "image": "/assets/cards/scoiatael/vrihedd_officer.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Vrihedd Vanguard",
+    "image": "/assets/cards/scoiatael/vrihedd_vanguard.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Water of Brokilon",
+    "image": "/assets/cards/scoiatael/water_of_brokilon.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Waylay",
+    "image": "/assets/cards/scoiatael/waylay.webp",
+    "faction": "Scoiatael",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Xavier Moran",
+    "image": "/assets/cards/scoiatael/xavier_moran.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Yaevinn",
+    "image": "/assets/cards/scoiatael/yaevinn.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Yarpen Zigrin",
+    "image": "/assets/cards/scoiatael/yarpen_zigrin.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Zoltan Chivay",
+    "image": "/assets/cards/scoiatael/zoltan_chivay.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Zoltan Warrior",
+    "image": "/assets/cards/scoiatael/zoltan_warrior.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Zoltan's Company",
+    "image": "/assets/cards/scoiatael/zoltans_company.webp",
+    "faction": "Scoiatael",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "name": "Ard Gaeth",
-    "image": "/assets/cards/monsters/ard_gaeth.webp",
+    "name": "Alp",
+    "image": "/assets/cards/monsters/alp.webp",
     "faction": "Monsters",
-    "type": "Special",
-    "rarity": "Legendary",
-    "tags": ["Echo", "Spawn", "Frost"]
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
   },
   {
     "name": "Arachas Nest",
@@ -24,6 +24,54 @@
     "tags": ["Deathwish", "Summon", "Reinforcement"]
   },
   {
+    "name": "Ard Gaeth",
+    "image": "/assets/cards/monsters/ard_gaeth.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Echo", "Spawn", "Frost"]
+  },
+  {
+    "name": "Auberon Conqueror",
+    "image": "/assets/cards/monsters/auberon_conqueror.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Auberon Invader",
+    "image": "/assets/cards/monsters/auberon_invader.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Barghest",
+    "image": "/assets/cards/monsters/barghest.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Deploy", "Consume", "Order", "Dominance", "Specter"]
+  },
+  {
+    "name": "Brewess",
+    "image": "/assets/cards/monsters/brewess.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Bruxa",
+    "image": "/assets/cards/monsters/bruxa.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Caranthir Ar-Feiniel",
     "image": "/assets/cards/monsters/caranthir.webp",
     "faction": "Monsters",
@@ -40,12 +88,20 @@
     ]
   },
   {
-    "name": "Barghest",
-    "image": "/assets/cards/monsters/barghest.webp",
+    "name": "Cave Troll",
+    "image": "/assets/cards/monsters/cave_troll.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": ["Deploy", "Consume", "Order", "Dominance", "Specter"]
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Crimson Curse",
+    "image": "/assets/cards/monsters/crimson_curse.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
   },
   {
     "name": "Desert Banshee",
@@ -56,11 +112,331 @@
     "tags": ["Consume", "Order", "Deathwish", "Specter"]
   },
   {
+    "name": "Endrega Eggs",
+    "image": "/assets/cards/monsters/endrega_eggs.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Endrega Larva",
+    "image": "/assets/cards/monsters/endrega_larva.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Endrega Warrior",
     "image": "/assets/cards/monsters/endrega_warrior.webp",
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
     "tags": ["Consume", "Deploy", "Spawn", "Insectoid"]
+  },
+  {
+    "name": "Feast of Blood",
+    "image": "/assets/cards/monsters/feast_of_blood.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Fiend",
+    "image": "/assets/cards/monsters/fiend.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Gael",
+    "image": "/assets/cards/monsters/gael.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Garkain",
+    "image": "/assets/cards/monsters/garkain.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Glustyworp",
+    "image": "/assets/cards/monsters/glustyworp.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Golyat",
+    "image": "/assets/cards/monsters/golyat.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Griffin",
+    "image": "/assets/cards/monsters/griffin.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Imlerith",
+    "image": "/assets/cards/monsters/imlerith.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Imleriths Wrath",
+    "image": "/assets/cards/monsters/imleriths_wrath.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Imperial Manticore",
+    "image": "/assets/cards/monsters/imperial_manticore.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Kayran",
+    "image": "/assets/cards/monsters/kayran.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Keltullis",
+    "image": "/assets/cards/monsters/keltullis.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Kikimore Queen",
+    "image": "/assets/cards/monsters/kikimore_queen.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Miruna",
+    "image": "/assets/cards/monsters/miruna.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Naglfars Crew",
+    "image": "/assets/cards/monsters/naglfars_crew.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Natural Selection",
+    "image": "/assets/cards/monsters/natural_selection.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Nekurat",
+    "image": "/assets/cards/monsters/nekurat.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Nithral",
+    "image": "/assets/cards/monsters/nithral.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Orianna",
+    "image": "/assets/cards/monsters/orianna.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Parasite",
+    "image": "/assets/cards/monsters/parasite.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Penitent",
+    "image": "/assets/cards/monsters/penitent.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Predatory Dive",
+    "image": "/assets/cards/monsters/predatory_dive.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Queen of the Night",
+    "image": "/assets/cards/monsters/queen_of_the_night.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Regis Reborn",
+    "image": "/assets/cards/monsters/regis_reborn.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Ritual Sacrifice",
+    "image": "/assets/cards/monsters/ritual_sacrifice.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Rotfiend",
+    "image": "/assets/cards/monsters/rotfiend.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Ruehin",
+    "image": "/assets/cards/monsters/ruehin.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Slyzard",
+    "image": "/assets/cards/monsters/slyzard.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "The Beast",
+    "image": "/assets/cards/monsters/the_beast.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "The Naglfar",
+    "image": "/assets/cards/monsters/the_naglfar.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Vran Warrior",
+    "image": "/assets/cards/monsters/vran_warrior.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Weavess",
+    "image": "/assets/cards/monsters/weavess.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Whispess",
+    "image": "/assets/cards/monsters/whispess.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Whispess Tribute",
+    "image": "/assets/cards/monsters/whispess_tribute.webp",
+    "faction": "Monsters",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Wild Hunt Bruiser",
+    "image": "/assets/cards/monsters/wild_hunt_bruiser.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Wild Hunt Hound",
+    "image": "/assets/cards/monsters/wild_hunt_hound.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Wild Hunt Navigator",
+    "image": "/assets/cards/monsters/wild_hunt_navigator.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Wild Hunt Rider",
+    "image": "/assets/cards/monsters/wild_hunt_rider.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
   }
 ]

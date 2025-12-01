@@ -1,5 +1,253 @@
 [
   {
+    "name": "Affan Hillergrand",
+    "image": "/assets/cards/nilfgaard/affan_hillergrand.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Alba Armored Cavalry",
+    "image": "/assets/cards/nilfgaard/alba_armored_cavalry.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Alba Pikeman",
+    "image": "/assets/cards/nilfgaard/alba_pikeman.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Amnesty",
+    "image": "/assets/cards/nilfgaard/amnesty.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Angry Mob",
+    "image": "/assets/cards/nilfgaard/angry_mob.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Artorius Vigo",
+    "image": "/assets/cards/nilfgaard/artorius_vigo.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Assassination",
+    "image": "/assets/cards/nilfgaard/assassination.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Battle Preparation",
+    "image": "/assets/cards/nilfgaard/battle_preparation.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Bribery",
+    "image": "/assets/cards/nilfgaard/bribery.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Cantarella",
+    "image": "/assets/cards/nilfgaard/cantarella.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Coated Weapons",
+    "image": "/assets/cards/nilfgaard/coated_weapons.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Coup de Grace",
+    "image": "/assets/cards/nilfgaard/coup_de_grace.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Courier",
+    "image": "/assets/cards/nilfgaard/courier.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Damien de la Tour",
+    "image": "/assets/cards/nilfgaard/damien_de_la_tour.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Ducal Guard",
+    "image": "/assets/cards/nilfgaard/ducal_guard.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Duchess's Informant",
+    "image": "/assets/cards/nilfgaard/duchesss_informant.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Emissary",
+    "image": "/assets/cards/nilfgaard/emissary.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Experimental Remedy",
+    "image": "/assets/cards/nilfgaard/experimental_remedy.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Fangs of the Empire",
+    "image": "/assets/cards/nilfgaard/fangs_of_the_empire.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Ffion var Gaernel",
+    "image": "/assets/cards/nilfgaard/ffion_var_gaernel.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Fire Scorpion",
+    "image": "/assets/cards/nilfgaard/fire_scorpion.webp",
+    "faction": "Nilfgaard",
+    "type": "Machine",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Fringila Viggo",
+    "image": "/assets/cards/nilfgaard/fringila_viggo.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Glynnis aep Loernach",
+    "image": "/assets/cards/nilfgaard/glynnis_aep_loernach.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Hefty Helge",
+    "image": "/assets/cards/nilfgaard/hefty_helge.webp",
+    "faction": "Nilfgaard",
+    "type": "Machine",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Hunting Pack",
+    "image": "/assets/cards/nilfgaard/hunting_pack.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Impera Brigade",
+    "image": "/assets/cards/nilfgaard/impera_brigade.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Imperial Diviner",
+    "image": "/assets/cards/nilfgaard/imperial_diviner.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Isbel of Hagge",
+    "image": "/assets/cards/nilfgaard/isbel_of_hagge.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Joachim de Wett",
+    "image": "/assets/cards/nilfgaard/joachim_de_wett.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Leo Bonhart",
+    "image": "/assets/cards/nilfgaard/leo_bonhart.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Mage Infiltrator",
+    "image": "/assets/cards/nilfgaard/mage_infiltrator.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
     "name": "Magne Division",
     "image": "/assets/cards/nilfgaard/magne_division.webp",
     "faction": "Nilfgaard",
@@ -8,11 +256,227 @@
     "tags": ["Deploy", "Human", "Soldier", "Tactic"]
   },
   {
+    "name": "Masquerade Ball",
+    "image": "/assets/cards/nilfgaard/masquerade_ball.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Menno Coehoorn",
+    "image": "/assets/cards/nilfgaard/menno_coehoorn.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Nilfgaardian Knight",
+    "image": "/assets/cards/nilfgaard/nilfgaardian_knight.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Peter Saar Gwynleve",
+    "image": "/assets/cards/nilfgaard/peter_saar_gwynleve.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Recruit",
+    "image": "/assets/cards/nilfgaard/recruit.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Rience",
+    "image": "/assets/cards/nilfgaard/rience.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Roderick of Dun Tynne",
+    "image": "/assets/cards/nilfgaard/roderick_of_dun_tynne.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Rot Tosser",
+    "image": "/assets/cards/nilfgaard/rot_tosser.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Seditious Aristocrats",
+    "image": "/assets/cards/nilfgaard/seditious_aristocrats.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Slave Hunter",
+    "image": "/assets/cards/nilfgaard/slave_hunter.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Slave Infantry",
+    "image": "/assets/cards/nilfgaard/slave_infantry.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Stefan Skellen",
+    "image": "/assets/cards/nilfgaard/stefan_skellen.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Sweers",
+    "image": "/assets/cards/nilfgaard/sweers.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Thanned Turncoat",
+    "image": "/assets/cards/nilfgaard/thanned_turncoat.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
     "name": "Thirsty Dame",
     "image": "/assets/cards/nilfgaard/thirsty_dame.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
     "tags": ["Vampire", "Status"]
+  },
+  {
+    "name": "Tourney Joust",
+    "image": "/assets/cards/nilfgaard/tourney_joust.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Toussaintois Knight-Errant",
+    "image": "/assets/cards/nilfgaard/toussaintois_knight_errant.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Treason",
+    "image": "/assets/cards/nilfgaard/treason.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Van Moorlehem Hunter",
+    "image": "/assets/cards/nilfgaard/van_moorlehem_hunter.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Van Moorlehem's Cupbearer",
+    "image": "/assets/cards/nilfgaard/van_moorlehems_cupbearer.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Vanhemar",
+    "image": "/assets/cards/nilfgaard/vanhemar.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Vattier de Rideaux",
+    "image": "/assets/cards/nilfgaard/vattier_de_rideaux.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Vilgefortz",
+    "image": "/assets/cards/nilfgaard/vilgefortz.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": []
+  },
+  {
+    "name": "Vincent Van Moorlehem",
+    "image": "/assets/cards/nilfgaard/vincent_van_moorlehem.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Viper Witcher Alchemist",
+    "image": "/assets/cards/nilfgaard/viper_witcher_alchemist.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Vreemde",
+    "image": "/assets/cards/nilfgaard/vreemde.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Warritt The All-Seeing",
+    "image": "/assets/cards/nilfgaard/warritt_the_all_seeing.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Yennefer's Invocation",
+    "image": "/assets/cards/nilfgaard/yennefers_invocation.webp",
+    "faction": "Nilfgaard",
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": []
   }
 ]

@@ -1,5 +1,413 @@
 [
   {
+    "name": "Abordage",
+    "image": "/assets/cards/skellige/abordage.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "An Craite Blacksmith",
+    "image": "/assets/cards/skellige/an_craite_blacksmith.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "An Craite Greatsword",
+    "image": "/assets/cards/skellige/an_craite_greatsword.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "An Craite Longship",
+    "image": "/assets/cards/skellige/an_craite_longship.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "An Craite Marauder",
+    "image": "/assets/cards/skellige/an_craite_marauder.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "An Craite Warrior",
+    "image": "/assets/cards/skellige/an_craite_warrior.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Armored Drakkar",
+    "image": "/assets/cards/skellige/armored_drakkar.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Axel Three-Eyes",
+    "image": "/assets/cards/skellige/axel_three-eyes.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Birna Bran",
+    "image": "/assets/cards/skellige/birna_bran.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Blood Eagle",
+    "image": "/assets/cards/skellige/blood_eagle.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Brokvar Hunter",
+    "image": "/assets/cards/skellige/brokvar_hunter.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Cerys an Craite",
+    "image": "/assets/cards/skellige/cerys_an_craite.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Champion of Svalblod",
+    "image": "/assets/cards/skellige/champion_of_svalblod.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Champion's Charge",
+    "image": "/assets/cards/skellige/champions_charge.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Covenant of Steel",
+    "image": "/assets/cards/skellige/covenant_of_steel.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crow Clan Druid",
+    "image": "/assets/cards/skellige/crow_clan_druid.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crow Clan Preacher",
+    "image": "/assets/cards/skellige/crow_clan_preacher.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crow Messenger",
+    "image": "/assets/cards/skellige/crow_messenger.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crow's-eye Rhizome",
+    "image": "/assets/cards/skellige/crows-eye_rhizome.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crowmother",
+    "image": "/assets/cards/skellige/crowmother.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dagur Two Blades",
+    "image": "/assets/cards/skellige/dagur_two_blades.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dimun Light Longship",
+    "image": "/assets/cards/skellige/dimun_light_longship.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dracoturtle",
+    "image": "/assets/cards/skellige/dracoturtle.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Drummond Berserker",
+    "image": "/assets/cards/skellige/drummond_berserker.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Drummond Queensguard",
+    "image": "/assets/cards/skellige/drummond_queensguard.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Drummond Shieldmaiden",
+    "image": "/assets/cards/skellige/drummond_shieldmaiden.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Drummond Warmonger",
+    "image": "/assets/cards/skellige/drummond_warmonger.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Ermion",
+    "image": "/assets/cards/skellige/ermion.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Freya's Blessing",
+    "image": "/assets/cards/skellige/freyas_blessing.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Gremist",
+    "image": "/assets/cards/skellige/gremist.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Gutting Slash",
+    "image": "/assets/cards/skellige/gutting_slash.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Heymaey Herbalist",
+    "image": "/assets/cards/skellige/heymaey_herbalist.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Heymaey Skald",
+    "image": "/assets/cards/skellige/heymaey_skald.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Heymaey Spearmaiden",
+    "image": "/assets/cards/skellige/heymaey_spearmaiden.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Highland Warlord",
+    "image": "/assets/cards/skellige/highland_warlord.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Hjalmar an Craite",
+    "image": "/assets/cards/skellige/hjalmar_an_craite.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Jutta an Dimun",
+    "image": "/assets/cards/skellige/jutta_an_dimun.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Lippy Gudmund",
+    "image": "/assets/cards/skellige/lippy_gudmund.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Mardroeme",
+    "image": "/assets/cards/skellige/mardroeme.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Morkvarg",
+    "image": "/assets/cards/skellige/morkvarg.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Morkvarg Heart of Terror",
+    "image": "/assets/cards/skellige/morkvarg_heart_of_terror.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Naval Supremacy",
+    "image": "/assets/cards/skellige/naval_supremacy.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Offering to the Sea",
+    "image": "/assets/cards/skellige/offering_to_the_sea.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Primal Savagery",
+    "image": "/assets/cards/skellige/primal_savagery.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Raging Bear",
+    "image": "/assets/cards/skellige/raging_bear.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Raiding Fleet",
+    "image": "/assets/cards/skellige/raiding_fleet.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Restore",
+    "image": "/assets/cards/skellige/restore.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Sigrdrifa's Rite",
+    "image": "/assets/cards/skellige/sigrdrifas_rite.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Stunning Blow",
+    "image": "/assets/cards/skellige/stunning_blow.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Svalblod Cultist",
+    "image": "/assets/cards/skellige/svalblod_cultist.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Svalblod Fanatic",
+    "image": "/assets/cards/skellige/svalblod_fanatic.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Svalblod Priest",
     "image": "/assets/cards/skellige/svalblod_priest.webp",
     "faction": "Skellige",
@@ -8,11 +416,91 @@
     "tags": ["Human", "Druid", "Cultist"]
   },
   {
+    "name": "Svalblod Ravager",
+    "image": "/assets/cards/skellige/svalblod_ravager.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Svalblod Totem",
+    "image": "/assets/cards/skellige/svalblod_totem.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Terror Crew Plunderer",
+    "image": "/assets/cards/skellige/terror_crew_plunderer.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Tuirseach Axeman",
+    "image": "/assets/cards/skellige/tuirseach_axeman.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Tuirseach Invader",
     "image": "/assets/cards/skellige/tuirseach_invader.webp",
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Rare",
     "tags": ["Human", "Pirate", "Warrior", "Veil", "Veteran"]
+  },
+  {
+    "name": "Tuirseach Skirmisher",
+    "image": "/assets/cards/skellige/tuirseach_skirmisher.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Vabjorn",
+    "image": "/assets/cards/skellige/vabjorn.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Vildkaarl",
+    "image": "/assets/cards/skellige/vildkaarl.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "War of Clans",
+    "image": "/assets/cards/skellige/war_of_clans.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Whale Harpooner",
+    "image": "/assets/cards/skellige/whale_harpooner.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Yoana",
+    "image": "/assets/cards/skellige/yoana.webp",
+    "faction": "Skellige",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
   }
 ]

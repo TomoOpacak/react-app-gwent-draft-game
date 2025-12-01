@@ -189,24 +189,44 @@ export const factions = {
   },
 
   nilfgaard: {
-    name: "Nilfgaard Empire",
+    name: "Nilfgaardian Empire",
     leaders: [
       {
         id: "emhyr",
         name: "Emhyr var Emreis",
-        image: "/images/emhyr.png",
+        image: "/assets/cards/leaders/emhyr.webp",
         cards: [
-          { name: "Nausicaa Cavalry", rarity: "rare" },
-          // ... 12 cards
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "legendary" },
+          { name: "Placeholder", rarity: "legendary" },
+          { name: "Placeholder", rarity: "legendary" },
         ],
       },
       {
         id: "morvran",
         name: "Morvran Voorhis",
-        image: "/images/morvran.png",
+        image: "/assets/cards/leaders/morvran.webp",
         cards: [
-          { name: "Black Infantry Archer", rarity: "common" },
-          // ... 12 cards
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "common" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "rare" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "epic" },
+          { name: "Placeholder", rarity: "legendary" },
+          { name: "Placeholder", rarity: "legendary" },
+          { name: "Placeholder", rarity: "legendary" },
         ],
       },
     ],

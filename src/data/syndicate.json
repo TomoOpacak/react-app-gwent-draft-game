@@ -1,5 +1,21 @@
 [
   {
+    "name": "Azar Javed",
+    "image": "/assets/cards/syndicate/azar_javed.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Bare-Knuckle Brawler",
+    "image": "/assets/cards/syndicate/bare-knuckle_brawler.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Beggar",
     "image": "/assets/cards/syndicate/beggar.webp",
     "faction": "Syndicate",
@@ -8,11 +24,475 @@
     "tags": ["Human", "Agent", "Blindeyes", "Profit"]
   },
   {
+    "name": "Blindeye Apothecary",
+    "image": "/assets/cards/syndicate/blindeye_apothecary.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Bloody Good Fun",
+    "image": "/assets/cards/syndicate/bloody_good_fun.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Caesar Bilzen",
+    "image": "/assets/cards/syndicate/caesar_bilzen.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Caleb Menge",
+    "image": "/assets/cards/syndicate/caleb_menge.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Casino Bouncers",
+    "image": "/assets/cards/syndicate/casino_bouncers.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Cleaver's Muscle",
+    "image": "/assets/cards/syndicate/cleavers_muscle.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Cleric of the Flaming Rose",
+    "image": "/assets/cards/syndicate/cleric_of_the_flaming_rose.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Congregation",
+    "image": "/assets/cards/syndicate/congregation.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Conjurer's Candle",
+    "image": "/assets/cards/syndicate/conjurers_candle.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Crownsplitter Thug",
+    "image": "/assets/cards/syndicate/crownsplitter_thug.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dies Irae",
+    "image": "/assets/cards/syndicate/dies_irae.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Dip in the Pontar",
+    "image": "/assets/cards/syndicate/dip_in_the_pontar.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Eavesdrop",
+    "image": "/assets/cards/syndicate/eavesdrop.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Eternal Fire Disciple",
+    "image": "/assets/cards/syndicate/eternal_fire_disciple.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Eveline Gallo",
+    "image": "/assets/cards/syndicate/eveline_gallo.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Excommunication",
+    "image": "/assets/cards/syndicate/excommunication.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Fallen Knight",
+    "image": "/assets/cards/syndicate/fallen_knight.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Ferko the Sculptor",
+    "image": "/assets/cards/syndicate/ferko_the_sculptor.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Fisstech",
+    "image": "/assets/cards/syndicate/fisstech.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Fisstech Trafficker",
+    "image": "/assets/cards/syndicate/fisstech_trafficker.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Graden",
+    "image": "/assets/cards/syndicate/graden.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Grand Inquisitor Helveed",
+    "image": "/assets/cards/syndicate/grand_inquisitor_helveed.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Hysteria",
+    "image": "/assets/cards/syndicate/hysteria.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Jacques de Aldersberg",
+    "image": "/assets/cards/syndicate/jacques_de_aldersberg.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Keeper of the Flame",
+    "image": "/assets/cards/syndicate/keeper_of_the_flame.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Kurt",
+    "image": "/assets/cards/syndicate/kurt.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Lieutenant von Herst",
+    "image": "/assets/cards/syndicate/lieutenant_von_herst.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Line of Credit",
+    "image": "/assets/cards/syndicate/line_of_credit.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Lonely Champion",
+    "image": "/assets/cards/syndicate/lonely_champion.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Ludovicus Brunenbaum",
+    "image": "/assets/cards/syndicate/ludovicus_brunenbaum.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Novigrad",
+    "image": "/assets/cards/syndicate/novigrad.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Novigradian Justice",
+    "image": "/assets/cards/syndicate/novigradian_justice.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "One Night at the Passiflora",
+    "image": "/assets/cards/syndicate/one_night_at_the_passiflora.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Payday",
+    "image": "/assets/cards/syndicate/payday.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Payroll Specialist",
+    "image": "/assets/cards/syndicate/payroll_specialist.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Philippa Eilhart",
+    "image": "/assets/cards/syndicate/philippa_eilhart.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Pickpocket",
+    "image": "/assets/cards/syndicate/pickpocket.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Procession of Penance",
+    "image": "/assets/cards/syndicate/procession_of_penance.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Pugo Boom-Breaker",
+    "image": "/assets/cards/syndicate/pugo_boom-breaker.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Purge",
+    "image": "/assets/cards/syndicate/purge.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Roderick de Wett",
+    "image": "/assets/cards/syndicate/roderick_de_wett.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Sacred Flame",
+    "image": "/assets/cards/syndicate/sacred_flame.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Shady Vendor",
+    "image": "/assets/cards/syndicate/shady_vendor.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Shakedown",
+    "image": "/assets/cards/syndicate/shakedown.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Slander",
+    "image": "/assets/cards/syndicate/slander.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Sly Seductress",
+    "image": "/assets/cards/syndicate/sly_seductress.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Smuggle",
+    "image": "/assets/cards/syndicate/smuggle.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Street Urchins",
+    "image": "/assets/cards/syndicate/street_urchins.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Tamara Strenger",
+    "image": "/assets/cards/syndicate/tamara_strenger.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Tax Collector",
+    "image": "/assets/cards/syndicate/tax_collector.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Temple Guard",
     "image": "/assets/cards/syndicate/temple_guard.webp",
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
     "tags": ["Human", "Soldier", "Firesworn", "Deploy", "Melee"]
+  },
+  {
+    "name": "The Sausage Maker",
+    "image": "/assets/cards/syndicate/the_sausage_maker.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Tinboy",
+    "image": "/assets/cards/syndicate/tinboy.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Townsfolk",
+    "image": "/assets/cards/syndicate/townsfolk.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Tunnel Drill",
+    "image": "/assets/cards/syndicate/tunnel_drill.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Vivaldi Bank",
+    "image": "/assets/cards/syndicate/vivaldi_bank.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Whoreson's Freak Show",
+    "image": "/assets/cards/syndicate/whoresons_freak_show.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Witch Hunter",
+    "image": "/assets/cards/syndicate/witch_hunter.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Witch Hunter Executioner",
+    "image": "/assets/cards/syndicate/witch_hunter_executioner.webp",
+    "faction": "Syndicate",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
   }
 ]

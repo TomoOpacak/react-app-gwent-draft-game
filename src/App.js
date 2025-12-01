@@ -3,7 +3,13 @@ import { HashRouter, Routes, Route, Link } from "react-router-dom";
 import { useEffect } from "react";
 
 import { factions } from "./data/factions";
-import cardsData from "./data/cards.json";
+import northernRealms from "./data/northern_realms.json";
+import nilfgaard from "./data/nilfgaard.json";
+import scoiatael from "./data/scoiatael.json";
+import skellige from "./data/skellige.json";
+import syndicate from "./data/syndicate.json";
+import monsters from "./data/monsters.json";
+import neutral from "./data/neutral.json";
 
 // Components
 import CardDatabase from "./components/CardDatabase";
@@ -27,28 +33,32 @@ function App() {
   useEffect(() => {
     const imagesToPreload = [];
 
-    // 1️⃣ Preload leader images
+    // Preload leader images + their deck cards
     Object.values(factions).forEach((faction) => {
       faction.leaders.forEach((leader) => {
         imagesToPreload.push(process.env.PUBLIC_URL + leader.image);
-
-        // Preload leader cards images if available
-        if (leader.cards) {
-          leader.cards.forEach((card) => {
-            if (card.image) {
-              imagesToPreload.push(process.env.PUBLIC_URL + card.image);
-            }
-          });
-        }
+        leader.cards?.forEach((card) => {
+          if (card.image)
+            imagesToPreload.push(process.env.PUBLIC_URL + card.image);
+        });
       });
     });
 
-    // 2️⃣ Preload all card database images
-    cardsData.forEach((card) => {
+    // Preload all card database images
+    const allCards = [
+      ...northernRealms,
+      ...nilfgaard,
+      ...scoiatael,
+      ...skellige,
+      ...syndicate,
+      ...monsters,
+      ...neutral,
+    ];
+    allCards.forEach((card) => {
       if (card.image) imagesToPreload.push(process.env.PUBLIC_URL + card.image);
     });
 
-    // 3️⃣ Preload faction icons
+    // Preload faction icons
     const factionIcons = [
       "/assets/images/mo.webp",
       "/assets/images/ng.webp",
