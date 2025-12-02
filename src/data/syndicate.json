@@ -4,8 +4,16 @@
     "image": "/assets/cards/syndicate/azar_javed.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": [
+      "Human",
+      "Mage",
+      "Salamandra",
+      "Profit",
+      "Deploy",
+      "Spawn",
+      "Tribute"
+    ]
   },
   {
     "name": "Bare-Knuckle Brawler",
@@ -13,7 +21,7 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Dwarf", "Crownsplitters", "Intimidate", "Fee"]
   },
   {
     "name": "Beggar",
@@ -28,32 +36,48 @@
     "image": "/assets/cards/syndicate/blindeye_apothecary.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": [
+      "Human",
+      "Blindeyes",
+      "Deploy",
+      "Melee",
+      "Heal",
+      "Ranged",
+      "Tribute"
+    ]
   },
   {
     "name": "Bloody Good Fun",
     "image": "/assets/cards/syndicate/bloody_good_fun.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Crime", "Cutups", "Profit", "Coin"]
   },
   {
     "name": "Caesar Bilzen",
     "image": "/assets/cards/syndicate/caesar_bilzen.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Dwarf", "Crownsplitters", "Deploy", "Fee"]
   },
   {
     "name": "Caleb Menge",
     "image": "/assets/cards/syndicate/caleb_menge.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": [
+      "Human",
+      "Witch Hunter",
+      "Profit",
+      "Fee",
+      "Melee",
+      "Bounty",
+      "Cooldown"
+    ]
   },
   {
     "name": "Casino Bouncers",
@@ -61,95 +85,111 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Cutups", "Reinforcement", "Fee", "Summon"]
   },
   {
     "name": "Cleaver's Muscle",
     "image": "/assets/cards/syndicate/cleavers_muscle.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Dwarf", "Crownsplitters", "Shield"]
   },
   {
     "name": "Cleric of the Flaming Rose",
     "image": "/assets/cards/syndicate/cleric_of_the_flaming_rose.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": [
+      "Human",
+      "Firesworn",
+      "Cleric",
+      "Profit",
+      "Tribute",
+      "Spawn",
+      "Fee"
+    ]
   },
   {
     "name": "Congregation",
     "image": "/assets/cards/syndicate/congregation.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Firesworn", "Spawn"]
   },
   {
     "name": "Conjurer's Candle",
     "image": "/assets/cards/syndicate/conjurers_candle.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Artifact", "Resilience", "Profit", "Fee", "Cooldown"]
   },
   {
     "name": "Crownsplitter Thug",
     "image": "/assets/cards/syndicate/crownsplitter_thug.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Dwarf", "Crownsplitters", "Intimidate", "Deploy"]
   },
   {
     "name": "Dies Irae",
     "image": "/assets/cards/syndicate/dies_irae.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Crime", "Firesworn", "Echo", "Deathblow"]
   },
   {
     "name": "Dip in the Pontar",
     "image": "/assets/cards/syndicate/dip_in_the_pontar.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Tidecloaks", "Profit"]
   },
   {
     "name": "Eavesdrop",
     "image": "/assets/cards/syndicate/eavesdrop.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Blindeyes", "Profit"]
   },
   {
     "name": "Eternal Fire Disciple",
     "image": "/assets/cards/syndicate/eternal_fire_disciple.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": [
+      "Human",
+      "Firesworn",
+      "Cleric",
+      "Profit",
+      "Fee",
+      "Spawn",
+      "Cooldown"
+    ]
   },
   {
     "name": "Eveline Gallo",
     "image": "/assets/cards/syndicate/eveline_gallo.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Elf", "Coin"]
   },
   {
     "name": "Excommunication",
     "image": "/assets/cards/syndicate/excommunication.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Crime", "Firesworn", "Banish"]
   },
   {
     "name": "Fallen Knight",
@@ -157,63 +197,63 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Knight", "Firesworn", "Veil", "Intimidate", "Spawn"]
   },
   {
     "name": "Ferko the Sculptor",
     "image": "/assets/cards/syndicate/ferko_the_sculptor.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dwarf", "Crownsplitters", "Deploy", "Melee"]
   },
   {
     "name": "Fisstech",
     "image": "/assets/cards/syndicate/fisstech.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Profit", "Poison"]
   },
   {
     "name": "Fisstech Trafficker",
     "image": "/assets/cards/syndicate/fisstech_trafficker.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Blindeyes", "Deploy", "Poison", "Coin"]
   },
   {
     "name": "Graden",
     "image": "/assets/cards/syndicate/graden.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Witch Hunter", "Deploy", "Melee", "Bounty", "Tribute"]
   },
   {
     "name": "Grand Inquisitor Helveed",
     "image": "/assets/cards/syndicate/grand_inquisitor_helveed.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Firesworn", "Cleric", "Profit", "Fee"]
   },
   {
     "name": "Hysteria",
     "image": "/assets/cards/syndicate/hysteria.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Crime", "Bounty"]
   },
   {
     "name": "Jacques de Aldersberg",
     "image": "/assets/cards/syndicate/jacques_de_aldersberg.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Firesworn", "Profit", "Tribute", "Spawn", "Fee"]
   },
   {
     "name": "Keeper of the Flame",
@@ -221,79 +261,95 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Firesworn", "Cleric", "Deploy", "Tribute"]
   },
   {
     "name": "Kurt",
     "image": "/assets/cards/syndicate/kurt.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": [
+      "Human",
+      "Witch Hunter",
+      "Deploy",
+      "Melee",
+      "Bounty",
+      "Ranged",
+      "Purify"
+    ]
   },
   {
     "name": "Lieutenant von Herst",
     "image": "/assets/cards/syndicate/lieutenant_von_herst.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Knight", "Firesworn", "Spawn", "Fee"]
   },
   {
     "name": "Line of Credit",
     "image": "/assets/cards/syndicate/line_of_credit.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Blindeyes", "Coin"]
   },
   {
     "name": "Lonely Champion",
     "image": "/assets/cards/syndicate/lonely_champion.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": [
+      "Human",
+      "Knight",
+      "Firesworn",
+      "Immunity",
+      "Zeal",
+      "Order",
+      "Cooldown"
+    ]
   },
   {
     "name": "Ludovicus Brunenbaum",
     "image": "/assets/cards/syndicate/ludovicus_brunenbaum.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Gnome", "Crownsplitters", "Timer", "Coin", "Tribute"]
   },
   {
     "name": "Novigrad",
     "image": "/assets/cards/syndicate/novigrad.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Location", "Resilience", "Profit", "Coin", "Order", "Gang"]
   },
   {
     "name": "Novigradian Justice",
     "image": "/assets/cards/syndicate/novigradian_justice.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Crime", "Crownsplitters", "Melee"]
   },
   {
     "name": "One Night at the Passiflora",
     "image": "/assets/cards/syndicate/one_night_at_the_passiflora.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Crime", "Profit"]
   },
   {
     "name": "Payday",
     "image": "/assets/cards/syndicate/payday.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Cutups", "Coin"]
   },
   {
     "name": "Payroll Specialist",
@@ -301,7 +357,7 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Blindeyes", "Tribute"]
   },
   {
     "name": "Philippa Eilhart",
@@ -309,71 +365,81 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Mage", "Deploy", "Seize", "Coin"]
   },
   {
     "name": "Pickpocket",
     "image": "/assets/cards/syndicate/pickpocket.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Crime", "Blindeyes", "Profit"]
   },
   {
     "name": "Procession of Penance",
     "image": "/assets/cards/syndicate/procession_of_penance.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Firesworn", "Deploy"]
   },
   {
     "name": "Pugo Boom-Breaker",
     "image": "/assets/cards/syndicate/pugo_boom-breaker.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Ogroid", "Cutups", "Deploy"]
   },
   {
     "name": "Purge",
     "image": "/assets/cards/syndicate/purge.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Crime"]
   },
   {
     "name": "Roderick de Wett",
     "image": "/assets/cards/syndicate/roderick_de_wett.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": [
+      "Human",
+      "Knight",
+      "Firesworn",
+      "Veil",
+      "Zeal",
+      "Order",
+      "Melee",
+      "Spawn",
+      "Coin"
+    ]
   },
   {
     "name": "Sacred Flame",
     "image": "/assets/cards/syndicate/sacred_flame.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Firesworn", "Deploy", "Spawn", "Order"]
   },
   {
     "name": "Shady Vendor",
     "image": "/assets/cards/syndicate/shady_vendor.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Profit", "Tribute", "Melee", "Ranged"]
   },
   {
     "name": "Shakedown",
     "image": "/assets/cards/syndicate/shakedown.webp",
     "faction": "Syndicate",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Crownsplitters", "Profit"]
   },
   {
     "name": "Slander",
@@ -381,47 +447,47 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Crime", "Profit", "Bounty"]
   },
   {
     "name": "Sly Seductress",
     "image": "/assets/cards/syndicate/sly_seductress.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Agent", "Blindeyes", "Fee", "Shield"]
   },
   {
     "name": "Smuggle",
     "image": "/assets/cards/syndicate/smuggle.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Crime", "Firesworn", "Profit", "Spawn"]
   },
   {
     "name": "Street Urchins",
     "image": "/assets/cards/syndicate/street_urchins.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Blindeyes", "Profit", "Fee"]
   },
   {
     "name": "Tamara Strenger",
     "image": "/assets/cards/syndicate/tamara_strenger.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Witch Hunter", "Deploy", "Tribute"]
   },
   {
     "name": "Tax Collector",
     "image": "/assets/cards/syndicate/tax_collector.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Ranged", "Coin"]
   },
   {
     "name": "Temple Guard",
@@ -436,16 +502,24 @@
     "image": "/assets/cards/syndicate/the_sausage_maker.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": [
+      "Dwarf",
+      "Crownsplitters",
+      "Intimidate",
+      "Profit",
+      "Fee",
+      "Melee",
+      "Resilience"
+    ]
   },
   {
     "name": "Tinboy",
     "image": "/assets/cards/syndicate/tinboy.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Blindeyes", "Deploy", "Tribute"]
   },
   {
     "name": "Townsfolk",
@@ -453,46 +527,46 @@
     "faction": "Syndicate",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Coin"]
   },
   {
     "name": "Tunnel Drill",
     "image": "/assets/cards/syndicate/tunnel_drill.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Machine", "Crownsplitters", "Profit", "Fee", "Cooldown"]
   },
   {
     "name": "Vivaldi Bank",
     "image": "/assets/cards/syndicate/vivaldi_bank.webp",
     "faction": "Syndicate",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Special", "Profit", "Coin"]
   },
   {
     "name": "Whoreson's Freak Show",
     "image": "/assets/cards/syndicate/whoresons_freak_show.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Cutups", "Profit", "Fee", "Melee"]
   },
   {
     "name": "Witch Hunter",
     "image": "/assets/cards/syndicate/witch_hunter.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Witch Hunter", "Deploy", "Bounty"]
   },
   {
     "name": "Witch Hunter Executioner",
     "image": "/assets/cards/syndicate/witch_hunter_executioner.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Witch Hunter", "Profit"]
   }
 ]

@@ -5,7 +5,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Elf", "Warrior", "Summon", "Melee"]
   },
   {
     "name": "Barclay Els",
@@ -13,23 +13,23 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Dwarf", "Soldier", "Deploy", "Armor"]
   },
   {
     "name": "Barnabas Beckenbauer",
     "image": "/assets/cards/scoiatael/barnabas_beckenbauer.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Gnome", "Deploy"]
   },
   {
     "name": "Call of the Forest",
     "image": "/assets/cards/scoiatael/call_of_the_forest.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Nature"]
   },
   {
     "name": "Ciaran aep Easnillen",
@@ -37,7 +37,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Elf", "Bandit", "Deploy", "Lock"]
   },
   {
     "name": "Crushing Trap",
@@ -45,15 +45,15 @@
     "faction": "Scoiatael",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Trap", "Ambush", "Timer", "Spring"]
   },
   {
     "name": "Deception",
     "image": "/assets/cards/scoiatael/deception.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Trap", "Ambush", "Timer", "Spawn", "Spring"]
   },
   {
     "name": "Dennis Cranmer",
@@ -61,7 +61,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Dwarf", "Soldier", "Deploy", "Armor"]
   },
   {
     "name": "Dol Blathanna Archer",
@@ -69,7 +69,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Elf", "Soldier", "Deploy", "Ranged", "Deatblow", "Spawn"]
   },
   {
     "name": "Dol Blathanna Sentry",
@@ -77,7 +77,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Elf", "Soldier", "Melee", "Ranged"]
   },
   {
     "name": "Dryad Fledgling",
@@ -85,23 +85,23 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Dryad", "Harmony"]
   },
   {
     "name": "Dryad Grovekeeper",
     "image": "/assets/cards/scoiatael/dryad_grovekeeper.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Dryad", "Deploy", "Vitality"]
   },
   {
     "name": "Dryad Ranger",
     "image": "/assets/cards/scoiatael/dryad_ranger.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Dryad", "Harmony", "Deploy", "Melee", "Ranged", "Poison"]
   },
   {
     "name": "Dryad's Caress",
@@ -109,15 +109,15 @@
     "faction": "Scoiatael",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Nature", "Purify", "Vitality"]
   },
   {
     "name": "Dwarf Berserker",
     "image": "/assets/cards/scoiatael/dwarf_berserker.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Dwarf", "Soldier", "Deploy", "Armor", "Barricade"]
   },
   {
     "name": "Elven Scout",
@@ -125,7 +125,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Elf", "Agent"]
   },
   {
     "name": "Elven Swordmaster",
@@ -133,47 +133,63 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Elf,Warrior", "Order", "Melee", "Cooldown"]
   },
   {
     "name": "Fauve",
     "image": "/assets/cards/scoiatael/fauve.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dryad", "Deploy"]
   },
   {
     "name": "Feign Death",
     "image": "/assets/cards/scoiatael/feign_death.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Tactic", "Spawn"]
   },
   {
     "name": "Figgs Merluzo",
     "image": "/assets/cards/scoiatael/figgs_merluzo.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dwarf", "Soldier", "Defender", "Deploy", "Armor", "Order"]
   },
   {
     "name": "Forest Whisperer",
     "image": "/assets/cards/scoiatael/forest_whisperer.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": [
+      "Dryad",
+      "Deploy",
+      "Melee",
+      "Poison",
+      "Order",
+      "Ranged",
+      "Vitality"
+    ]
   },
   {
     "name": "Gabor Zigrin",
     "image": "/assets/cards/scoiatael/gabor_zigrin.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": [
+      "Dwarf",
+      "Soldier",
+      "Deploy",
+      "Melee",
+      "Resilience",
+      "Ranged",
+      "Immunity"
+    ]
   },
   {
     "name": "Half-Elf Hunter",
@@ -181,15 +197,15 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Elf", "Bandit", "Harmony", "Deploy", "Spawn"]
   },
   {
     "name": "Hamadryad",
     "image": "/assets/cards/scoiatael/hamadryad.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Dryad", "Deploy", "Vitality"]
   },
   {
     "name": "Incinerating Trap",
@@ -197,31 +213,31 @@
     "faction": "Scoiatael",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Trap", "Ambush", "Spring"]
   },
   {
     "name": "Isengrim Faoil",
     "image": "/assets/cards/scoiatael/isengrim_faoiltiarna.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Elf", "Soldier", "Bandit", "Deploy"]
   },
   {
     "name": "Isengrim's Council",
     "image": "/assets/cards/scoiatael/isengrims_council.webp",
     "faction": "Scoiatael",
-    "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Nature"]
   },
   {
     "name": "Mahakam Defender",
     "image": "/assets/cards/scoiatael/mahakam_defender.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Dwarf", "Soldier", "Barricade"]
   },
   {
     "name": "Mahakam Guard",
@@ -229,15 +245,15 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Dwarf", "Soldier", "Deploy"]
   },
   {
     "name": "Mahakam Horn",
     "image": "/assets/cards/scoiatael/mahakam_horn.webp",
     "faction": "Scoiatael",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Trap", "Ambush", "Spring"]
   },
   {
     "name": "Mahakam Volunteers",
@@ -245,7 +261,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Dwarf", "Soldier", "Reinforcement", "Deploy", "Summon"]
   },
   {
     "name": "Malena",
@@ -253,71 +269,71 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Elf", "Bandit", "Zeal", "Order", "Cooldown"]
   },
   {
     "name": "Milaen",
     "image": "/assets/cards/scoiatael/milaen.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Elf", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Morenn",
     "image": "/assets/cards/scoiatael/morenn.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Dryad", "Warrior", "Deploy", "Melee", "Ranged", "Lock"]
   },
   {
     "name": "Nature's Rebuke",
     "image": "/assets/cards/scoiatael/natures_rebuke.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Nature", "Deatblow"]
   },
   {
     "name": "Pavko Gale",
     "image": "/assets/cards/scoiatael/pavko_gale.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Bandit", "Harmony", "Order", "Ranged", "Cooldown"]
   },
   {
     "name": "Percival Schuttenbach",
     "image": "/assets/cards/scoiatael/percival_schuttenbach.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Gnome", "Harmony", "Deploy", "Armor"]
   },
   {
     "name": "Pitfall Trap",
     "image": "/assets/cards/scoiatael/pitfall_trap.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Trap", "Ambush", "Spring"]
   },
   {
     "name": "Serpent Trap",
     "image": "/assets/cards/scoiatael/serpent_trap.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Trap", "Ambush", "Spring"]
   },
   {
     "name": "Shaping Nature",
     "image": "/assets/cards/scoiatael/shaping_nature.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Nature", "Echo", "Vitality", "Veil"]
   },
   {
     "name": "Sirssa",
@@ -325,7 +341,7 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Dryad", "Warrior", "Harmony", "Deploy"]
   },
   {
     "name": "Tempering",
@@ -333,7 +349,7 @@
     "faction": "Scoiatael",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Nature", "Armor"]
   },
   {
     "name": "The Heist",
@@ -341,71 +357,71 @@
     "faction": "Scoiatael",
     "type": "Special",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Tactic", "Echo", "Spawn"]
   },
   {
     "name": "Trained Hawk",
     "image": "/assets/cards/scoiatael/trained_hawk.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Beast", "Harmony", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Trapmaker",
     "image": "/assets/cards/scoiatael/trapmaker.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Elf", "Soldier", "Deploy"]
   },
   {
     "name": "Treant Boar",
     "image": "/assets/cards/scoiatael/treant_boar.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Treant", "Zeal", "Order", "Melee", "Ranged", "Heal", "Cooldown"]
   },
   {
     "name": "Vrihedd Brigade",
     "image": "/assets/cards/scoiatael/vrihedd_brigade.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Elf", "Soldier", "Deploy"]
   },
   {
     "name": "Vrihedd Officer",
     "image": "/assets/cards/scoiatael/vrihedd_officer.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Elf", "Soldier", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Vrihedd Vanguard",
     "image": "/assets/cards/scoiatael/vrihedd_vanguard.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Elf", "Soldier", "Deploy", "Ranged"]
   },
   {
     "name": "Water of Brokilon",
     "image": "/assets/cards/scoiatael/water_of_brokilon.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Nature", "Spawn"]
   },
   {
     "name": "Waylay",
     "image": "/assets/cards/scoiatael/waylay.webp",
     "faction": "Scoiatael",
     "type": "Special",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Tactic", "Spawn"]
   },
   {
     "name": "Xavier Moran",
@@ -413,46 +429,46 @@
     "faction": "Scoiatael",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Dwarf", "Warrior", "Melee"]
   },
   {
     "name": "Yaevinn",
     "image": "/assets/cards/scoiatael/yaevinn.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Elf", "Soldier", "Bandit", "Deploy"]
   },
   {
     "name": "Yarpen Zigrin",
     "image": "/assets/cards/scoiatael/yarpen_zigrin.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Dwarf", "Warrior", "Deploy"]
   },
   {
     "name": "Zoltan Chivay",
     "image": "/assets/cards/scoiatael/zoltan_chivay.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dwarf", "Resilience", "Deploy", "Armor"]
   },
   {
     "name": "Zoltan Warrior",
     "image": "/assets/cards/scoiatael/zoltan_warrior.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dwarf", "Soldier", "Warrior", "Deploy", "Spawn"]
   },
   {
     "name": "Zoltan's Company",
     "image": "/assets/cards/scoiatael/zoltans_company.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Nature", "Spawn"]
   }
 ]

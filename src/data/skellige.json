@@ -3,9 +3,9 @@
     "name": "Abordage",
     "image": "/assets/cards/skellige/abordage.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Raid", "Bloodthirst"]
   },
   {
     "name": "An Craite Blacksmith",
@@ -13,31 +13,31 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Order", "Charge"]
   },
   {
     "name": "An Craite Greatsword",
     "image": "/assets/cards/skellige/an_craite_greatsword.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Warrior", "Deploy", "Heal"]
   },
   {
     "name": "An Craite Longship",
     "image": "/assets/cards/skellige/an_craite_longship.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Machine", "Ship", "Melee"]
   },
   {
     "name": "An Craite Marauder",
     "image": "/assets/cards/skellige/an_craite_marauder.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Warrior", "Deploy", "Melee"]
   },
   {
     "name": "An Craite Warrior",
@@ -45,39 +45,39 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Warrior", "Deploy"]
   },
   {
     "name": "Armored Drakkar",
     "image": "/assets/cards/skellige/armored_drakkar.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Machine", "Ship", "Armor", "Exposed", "Bloodthirst"]
   },
   {
     "name": "Axel Three-Eyes",
     "image": "/assets/cards/skellige/axel_three-eyes.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Druid", "Deploy", "Melee", "Spawn", "Ranged"]
   },
   {
     "name": "Birna Bran",
     "image": "/assets/cards/skellige/birna_bran.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Deploy", "Discard"]
   },
   {
     "name": "Blood Eagle",
     "image": "/assets/cards/skellige/blood_eagle.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Raid", "Echo", "Deathblow"]
   },
   {
     "name": "Brokvar Hunter",
@@ -85,55 +85,63 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Warrior", "Zeal", "Order", "Ranged", "Cooldown"]
   },
   {
     "name": "Cerys an Craite",
     "image": "/assets/cards/skellige/cerys_an_craite.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Warrior", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Champion of Svalblod",
     "image": "/assets/cards/skellige/champion_of_svalblod.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Token", "Order", "Heal"]
   },
   {
     "name": "Champion's Charge",
     "image": "/assets/cards/skellige/champions_charge.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Raid", "Bloodthirst"]
   },
   {
     "name": "Covenant of Steel",
     "image": "/assets/cards/skellige/covenant_of_steel.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": [
+      "Human",
+      "Pirate",
+      "Warrior",
+      "Defender",
+      "Deploy",
+      "Armor",
+      "Berserk"
+    ]
   },
   {
     "name": "Crow Clan Druid",
     "image": "/assets/cards/skellige/crow_clan_druid.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Druid", "Zeal", "Order", "Banish", "Doomed"]
   },
   {
     "name": "Crow Clan Preacher",
     "image": "/assets/cards/skellige/crow_clan_preacher.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Druid", "Bonded"]
   },
   {
     "name": "Crow Messenger",
@@ -141,31 +149,31 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Beast", "Deploy", "Summon"]
   },
   {
     "name": "Crow's-eye Rhizome",
     "image": "/assets/cards/skellige/crows-eye_rhizome.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy", "Spawn"]
   },
   {
     "name": "Crowmother",
     "image": "/assets/cards/skellige/crowmother.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Druid", "Deploy", "Spawn", "Summon"]
   },
   {
     "name": "Dagur Two Blades",
     "image": "/assets/cards/skellige/dagur_two_blades.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Warrior", "Melee"]
   },
   {
     "name": "Dimun Light Longship",
@@ -173,39 +181,39 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Machine", "Ship", "Zeal", "Order", "Ranged", "Cooldown"]
   },
   {
     "name": "Dracoturtle",
     "image": "/assets/cards/skellige/dracoturtle.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Beast", "Deploy", "Armor"]
   },
   {
     "name": "Drummond Berserker",
     "image": "/assets/cards/skellige/drummond_berserker.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Cultist", "Warrior", "Berserk"]
   },
   {
     "name": "Drummond Queensguard",
     "image": "/assets/cards/skellige/drummond_queensguard.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Order", "Warrior", "Spawn", "Summon"]
   },
   {
     "name": "Drummond Shieldmaiden",
     "image": "/assets/cards/skellige/drummond_shieldmaiden.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Warrior", "Reinforcement", "Summon"]
   },
   {
     "name": "Drummond Warmonger",
@@ -213,39 +221,39 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Pirate", "Deploy", "Bloodthirst"]
   },
   {
     "name": "Ermion",
     "image": "/assets/cards/skellige/ermion.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Druid", "Deploy", "Ranged"]
   },
   {
     "name": "Freya's Blessing",
     "image": "/assets/cards/skellige/freyas_blessing.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy", "Doomed"]
   },
   {
     "name": "Gremist",
     "image": "/assets/cards/skellige/gremist.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Epic",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Druid", "Deploy", "Ranged"]
   },
   {
     "name": "Gutting Slash",
     "image": "/assets/cards/skellige/gutting_slash.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Raid", "Bloodthirst"]
   },
   {
     "name": "Heymaey Herbalist",
@@ -253,7 +261,7 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Druid", "Deploy", "Ranged", "Heal"]
   },
   {
     "name": "Heymaey Skald",
@@ -261,7 +269,7 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Deploy", "Ranged", "Discard"]
   },
   {
     "name": "Heymaey Spearmaiden",
@@ -269,135 +277,135 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Warrior", "Deploy"]
   },
   {
     "name": "Highland Warlord",
     "image": "/assets/cards/skellige/highland_warlord.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Warrior", "Veteran", "Deploy", "Armor"]
   },
   {
     "name": "Hjalmar an Craite",
     "image": "/assets/cards/skellige/hjalmar_an_craite.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Warrior", "Deploy", "Melee", "Banish"]
   },
   {
     "name": "Jutta an Dimun",
     "image": "/assets/cards/skellige/jutta_an_dimun.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Warrior", "Deploy"]
   },
   {
     "name": "Lippy Gudmund",
     "image": "/assets/cards/skellige/lippy_gudmund.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Pirate", "Deploy", "Ranged"]
   },
   {
     "name": "Mardroeme",
     "image": "/assets/cards/skellige/mardroeme.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy"]
   },
   {
     "name": "Morkvarg",
     "image": "/assets/cards/skellige/morkvarg.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Cursed", "Pirate", "Summon", "Melee", "Doomed"]
   },
   {
     "name": "Morkvarg Heart of Terror",
     "image": "/assets/cards/skellige/morkvarg_heart_of_terror.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Pirate", "Deploy"]
   },
   {
     "name": "Naval Supremacy",
     "image": "/assets/cards/skellige/naval_supremacy.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Raid"]
   },
   {
     "name": "Offering to the Sea",
     "image": "/assets/cards/skellige/offering_to_the_sea.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Alchemy", "Spawn"]
   },
   {
     "name": "Primal Savagery",
     "image": "/assets/cards/skellige/primal_savagery.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Raid", "Deathblow", "Spawn"]
   },
   {
     "name": "Raging Bear",
     "image": "/assets/cards/skellige/raging_bear.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Beast", "Deploy"]
   },
   {
     "name": "Raiding Fleet",
     "image": "/assets/cards/skellige/raiding_fleet.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Raid"]
   },
   {
     "name": "Restore",
     "image": "/assets/cards/skellige/restore.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Alchemy", "Heal"]
   },
   {
     "name": "Sigrdrifa's Rite",
     "image": "/assets/cards/skellige/sigrdrifas_rite.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Alchemy", "Summon", "Doomed"]
   },
   {
     "name": "Stunning Blow",
     "image": "/assets/cards/skellige/stunning_blow.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Raid", "Armor"]
   },
   {
     "name": "Svalblod Cultist",
     "image": "/assets/cards/skellige/svalblod_cultist.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Cultist", "Deploy", "Ranged"]
   },
   {
     "name": "Svalblod Fanatic",
@@ -405,7 +413,7 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Cultist", "Berserk"]
   },
   {
     "name": "Svalblod Priest",
@@ -421,31 +429,31 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Cultist", "Deploy", "Melee", "Bloodthirst", "Bleeding"]
   },
   {
     "name": "Svalblod Totem",
     "image": "/assets/cards/skellige/svalblod_totem.webp",
     "faction": "Skellige",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Location", "Resilience", "Deploy", "Spawn", "Order", "Cooldown"]
   },
   {
     "name": "Terror Crew Plunderer",
     "image": "/assets/cards/skellige/terror_crew_plunderer.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Pirate", "Deploy", "Armor"]
   },
   {
     "name": "Tuirseach Axeman",
     "image": "/assets/cards/skellige/tuirseach_axeman.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Warrior", "Deploy", "Melee"]
   },
   {
     "name": "Tuirseach Invader",
@@ -461,46 +469,46 @@
     "faction": "Skellige",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Warrior", "Discard", "Summon", "Melee"]
   },
   {
     "name": "Vabjorn",
     "image": "/assets/cards/skellige/vabjorn.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Cultist", "Warrior", "Deploy", "Melee"]
   },
   {
     "name": "Vildkaarl",
     "image": "/assets/cards/skellige/vildkaarl.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Cultist", "Warrior", "Berserk"]
   },
   {
     "name": "War of Clans",
     "image": "/assets/cards/skellige/war_of_clans.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Raid", "Deathblow", "Doomed"]
   },
   {
     "name": "Whale Harpooner",
     "image": "/assets/cards/skellige/whale_harpooner.webp",
     "faction": "Skellige",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Machine", "Ship", "Deploy"]
   },
   {
     "name": "Yoana",
     "image": "/assets/cards/skellige/yoana.webp",
     "faction": "Skellige",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Order", "Heal", "Charge"]
   }
 ]

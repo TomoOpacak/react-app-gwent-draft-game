@@ -37,7 +37,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Elf", "Wild Hunt", "Veil", "Deploy"]
   },
   {
     "name": "Auberon Invader",
@@ -45,7 +45,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Elf", "Wild Hunt", "Deploy", "Spawn", "Dominance", "Frost"]
   },
   {
     "name": "Barghest",
@@ -61,15 +61,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Relict", "Crone", "Zeal", "Order", "Charge"]
   },
   {
     "name": "Bruxa",
     "image": "/assets/cards/monsters/bruxa.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Vampire", "Thrive", "Deploy", "Bleeding"]
   },
   {
     "name": "Caranthir Ar-Feiniel",
@@ -92,8 +92,8 @@
     "image": "/assets/cards/monsters/cave_troll.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Ogroid", "Defender"]
   },
   {
     "name": "Crimson Curse",
@@ -101,7 +101,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Organic", "Bleeding"]
   },
   {
     "name": "Desert Banshee",
@@ -117,15 +117,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Specter", "Deploy", "Spawn", "Deathwish"]
   },
   {
     "name": "Endrega Larva",
     "image": "/assets/cards/monsters/endrega_larva.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Insectoid", "Thrive"]
   },
   {
     "name": "Endrega Warrior",
@@ -133,15 +133,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Consume", "Deploy", "Spawn", "Insectoid"]
+    "tags": ["Consume", "Deploy", "Spawn", "Insectoid", "Warrior"]
   },
   {
     "name": "Feast of Blood",
     "image": "/assets/cards/monsters/feast_of_blood.webp",
     "faction": "Monsters",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Organic", "Purify", "Bleeding"]
   },
   {
     "name": "Fiend",
@@ -149,7 +149,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Relict", "Deploy"]
   },
   {
     "name": "Gael",
@@ -157,7 +157,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Vampire", "Deploy", "Melee", "Bleeding", "Deathblow"]
   },
   {
     "name": "Garkain",
@@ -165,7 +165,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Vampire", "Deploy", "Bleeding"]
   },
   {
     "name": "Glustyworp",
@@ -173,23 +173,23 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Insectoid", "Deploy"]
   },
   {
     "name": "Golyat",
     "image": "/assets/cards/monsters/golyat.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Ogroid", "Deathwish", "Summon"]
   },
   {
     "name": "Griffin",
     "image": "/assets/cards/monsters/griffin.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Beast", "Deploy"]
   },
   {
     "name": "Imlerith",
@@ -197,31 +197,31 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Elf", "Wild Hunt", "Warrior", "Deploy", "Melee", "Discard"]
   },
   {
     "name": "Imleriths Wrath",
     "image": "/assets/cards/monsters/imleriths_wrath.webp",
     "faction": "Monsters",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Wild Hunt"]
   },
   {
     "name": "Imperial Manticore",
     "image": "/assets/cards/monsters/imperial_manticore.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Deathwish"]
   },
   {
     "name": "Kayran",
     "image": "/assets/cards/monsters/kayran.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Insectoid", "Zeal", "Order", "Consume", "Charge"]
   },
   {
     "name": "Keltullis",
@@ -229,7 +229,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Dragon", "Melee"]
   },
   {
     "name": "Kikimore Queen",
@@ -237,7 +237,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Insectoid", "Thrive"]
   },
   {
     "name": "Miruna",
@@ -245,15 +245,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Relict", "Deathwish", "Seize"]
   },
   {
     "name": "Naglfars Crew",
     "image": "/assets/cards/monsters/naglfars_crew.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Elf", "Wild Hunt", "Deploy", "Spawn", "Frost"]
   },
   {
     "name": "Natural Selection",
@@ -261,15 +261,15 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Organic", "Spawn"]
   },
   {
     "name": "Nekurat",
     "image": "/assets/cards/monsters/nekurat.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Vampire", "Zeal", "Order", "Melee", "Bleeding", "Cooldown"]
   },
   {
     "name": "Nithral",
@@ -277,31 +277,39 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": [
+      "Elf",
+      "Wild Hunt",
+      "Warrior",
+      "Order",
+      "Melee",
+      "Dominance",
+      "Cooldown"
+    ]
   },
   {
     "name": "Orianna",
     "image": "/assets/cards/monsters/orianna.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Vampire", "Deploy", "Ranged", "Bleeding"]
   },
   {
     "name": "Parasite",
     "image": "/assets/cards/monsters/parasite.webp",
     "faction": "Monsters",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Organic"]
   },
   {
     "name": "Penitent",
     "image": "/assets/cards/monsters/penitent.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Specter", "Thrive", "Deathwish", "Summon"]
   },
   {
     "name": "Predatory Dive",
@@ -309,7 +317,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Organic"]
   },
   {
     "name": "Queen of the Night",
@@ -317,7 +325,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Vampire", "Deploy", "Melee", "Bleeding", "Ranged", "Purify"]
   },
   {
     "name": "Regis Reborn",
@@ -325,7 +333,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Vampire", "Deploy", "Drain"]
   },
   {
     "name": "Ritual Sacrifice",
@@ -333,7 +341,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Organic", "Deathwish"]
   },
   {
     "name": "Rotfiend",
@@ -341,7 +349,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Necrophage", "Deathwish"]
   },
   {
     "name": "Ruehin",
@@ -349,7 +357,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Insectoid", "Deathwish", "Summon"]
   },
   {
     "name": "Slyzard",
@@ -357,15 +365,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Beast", "Order", "Consume", "Cooldown"]
   },
   {
     "name": "The Beast",
     "image": "/assets/cards/monsters/the_beast.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Specter"]
   },
   {
     "name": "The Naglfar",
@@ -373,7 +381,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Wild Hunt"]
   },
   {
     "name": "Vran Warrior",
@@ -381,7 +389,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Beast", "Warrior"]
   },
   {
     "name": "Weavess",
@@ -389,7 +397,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Relict", "Crone", "Deploy"]
   },
   {
     "name": "Whispess",
@@ -397,15 +405,15 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Relict", "Crone", "Deploy"]
   },
   {
     "name": "Whispess Tribute",
     "image": "/assets/cards/monsters/whispess_tribute.webp",
     "faction": "Monsters",
-    "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": ["Relict", "Deploy", "Ranged"]
   },
   {
     "name": "Wild Hunt Bruiser",
@@ -413,7 +421,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Elf", "Wild Hunt", "Deploy", "Frost"]
   },
   {
     "name": "Wild Hunt Hound",
@@ -421,7 +429,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Beast", "Wild Hunt", "Deathwish", "Frost"]
   },
   {
     "name": "Wild Hunt Navigator",
@@ -429,7 +437,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Elf", "Wild Hunt", "Mage", "Order", "Spawn", "Frost"]
   },
   {
     "name": "Wild Hunt Rider",
@@ -437,6 +445,13 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": [
+      "Elf",
+      "Wild Hunt",
+      "Reinforcement",
+      "Deploy",
+      "Dominance",
+      "Summon"
+    ]
   }
 ]
