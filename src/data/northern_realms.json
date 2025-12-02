@@ -1,21 +1,12 @@
 [
   {
-    "name": "Reinforced Trebuchet",
-    "image": "/assets/cards/northern_realms/reinforced_trebuchet.webp",
+    "name": "Alumni",
+    "image": "/assets/cards/northern_realms/alumni.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": ["Machine", "Siege", "Deploy", "Engine", "Order"]
+    "rarity": "Epic",
+    "tags": []
   },
-  {
-    "name": "Siege Tower",
-    "image": "/assets/cards/northern_realms/siege_tower.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": ["Machine", "Siege", "Zeal", "Engine", "Order", "Crew", "Cooldown"]
-  },
-
   {
     "name": "Amphibious Assault",
     "image": "/assets/cards/northern_realms/amphibious_assault.webp",
@@ -30,6 +21,14 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Aretuza Adept",
+    "image": "/assets/cards/northern_realms/aretuza_adept.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Common",
     "tags": []
   },
   {
@@ -57,6 +56,14 @@
     "tags": []
   },
   {
+    "name": "Boiling Oil",
+    "image": "/assets/cards/northern_realms/boiling_oil.webp",
+    "faction": "Northern Realms",
+    "type": "Special",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Bombardment",
     "image": "/assets/cards/northern_realms/bombardment.webp",
     "faction": "Northern Realms",
@@ -75,6 +82,14 @@
   {
     "name": "Cintrian Spellweaver",
     "image": "/assets/cards/northern_realms/cintrian_spellweaver.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Dethmold",
+    "image": "/assets/cards/northern_realms/dethmold.webp",
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Epic",
@@ -129,8 +144,24 @@
     "tags": []
   },
   {
+    "name": "Kaedweni Knight",
+    "image": "/assets/cards/northern_realms/kaedweni_knight.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Kaedweni Revenant",
     "image": "/assets/cards/northern_realms/kaedweni_revenant.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": []
+  },
+  {
+    "name": "Keira Metz",
+    "image": "/assets/cards/northern_realms/keira_metz.webp",
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Epic",
@@ -141,6 +172,22 @@
     "image": "/assets/cards/northern_realms/kerack_frigate.webp",
     "faction": "Northern Realms",
     "type": "Machine",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Knighthood",
+    "image": "/assets/cards/northern_realms/knighthood.webp",
+    "faction": "Northern Realms",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Lyrian Arbalest",
+    "image": "/assets/cards/northern_realms/lyrian_arbalest.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
     "rarity": "Common",
     "tags": []
   },
@@ -169,6 +216,14 @@
     "tags": []
   },
   {
+    "name": "Poor Fucking Infantry",
+    "image": "/assets/cards/northern_realms/poor_fucking_infantry.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": []
+  },
+  {
     "name": "Prince Anséis",
     "image": "/assets/cards/northern_realms/prince_anseis.webp",
     "faction": "Northern Realms",
@@ -185,6 +240,14 @@
     "tags": []
   },
   {
+    "name": "Redanian Knight",
+    "image": "/assets/cards/northern_realms/redanian_knight.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
     "name": "Reinforced Ballista",
     "image": "/assets/cards/northern_realms/reinforced_ballista.webp",
     "faction": "Northern Realms",
@@ -193,11 +256,35 @@
     "tags": []
   },
   {
+    "name": "Reinforced Trebuchet",
+    "image": "/assets/cards/northern_realms/reinforced_trebuchet.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": ["Machine", "Siege", "Deploy", "Engine", "Order"]
+  },
+  {
+    "name": "Reinforcements",
+    "image": "/assets/cards/northern_realms/reinforcements.webp",
+    "faction": "Northern Realms",
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": []
+  },
+  {
     "name": "Ronvid the Incessant",
     "image": "/assets/cards/northern_realms/ronvid_the_incessant.webp",
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Rare",
+    "tags": []
+  },
+  {
+    "name": "Runewright",
+    "image": "/assets/cards/northern_realms/runewright.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Epic",
     "tags": []
   },
   {
@@ -230,6 +317,22 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Siege Tower",
+    "image": "/assets/cards/northern_realms/siege_tower.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Common",
+    "tags": ["Machine", "Siege", "Zeal", "Engine", "Order", "Crew", "Cooldown"]
+  },
+  {
+    "name": "Sile De Tansarvile",
+    "image": "/assets/cards/northern_realms/sile_de_tansarvile.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Epic",
     "tags": []
   },
   {
@@ -270,110 +373,6 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Alumni",
-    "image": "/assets/cards/northern_realms/alumni.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
-  },
-  {
-    "name": "Aretuza Adept",
-    "image": "/assets/cards/northern_realms/aretuzza_adept.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Boiling Oil",
-    "image": "/assets/cards/northern_realms/boiling_oil.webp",
-    "faction": "Northern Realms",
-    "type": "Special",
-    "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Dethmold",
-    "image": "/assets/cards/northern_realms/dethmold.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
-  },
-  {
-    "name": "Kaedweni Knight",
-    "image": "/assets/cards/northern_realms/kaedweni_knight.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Keira Metz",
-    "image": "/assets/cards/northern_realms/keira_metz.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
-  },
-  {
-    "name": "Knighthood",
-    "image": "/assets/cards/northern_realms/knighthood.webp",
-    "faction": "Northern Realms",
-    "type": "Special",
-    "rarity": "Rare",
-    "tags": []
-  },
-  {
-    "name": "Poor Fucking Infantry",
-    "image": "/assets/cards/northern_realms/poor_fucking_infantry.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Lyrian Arbalest",
-    "image": "/assets/cards/northern_realms/lyrian_arbalest.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
-  },
-  {
-    "name": "Redanian Knight",
-    "image": "/assets/cards/northern_realms/redanian_knight.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
-  },
-  {
-    "name": "Reinforcements",
-    "image": "/assets/cards/northern_realms/reinforcements.webp",
-    "faction": "Northern Realms",
-    "type": "Special",
-    "rarity": "Rare",
-    "tags": []
-  },
-  {
-    "name": "Runewright",
-    "image": "/assets/cards/northern_realms/runewright.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
-  },
-  {
-    "name": "Sile De Tansarvile",
-    "image": "/assets/cards/northern_realms/sile_de_tansarvile.webp",
-    "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
     "tags": []
   }
 ]
