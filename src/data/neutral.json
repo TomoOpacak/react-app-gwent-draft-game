@@ -17,7 +17,7 @@
   },
   {
     "name": "Armorer's Workshop",
-    "image": "/assets/cards/neutral/armors_workshop.webp",
+    "image": "/assets/cards/neutral/armorers_workshop.webp",
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
@@ -432,7 +432,7 @@
     "tags": []
   },
   {
-    "name": "Regis_higher vampire",
+    "name": "Regis Higher Vampire",
     "image": "/assets/cards/neutral/regis_higher_vampire.webp",
     "faction": "Neutral",
     "type": "Unit",
@@ -669,6 +669,14 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
+    "tags": []
+  },
+  {
+    "name": "Zoltan Scoundrel",
+    "image": "/assets/cards/neutral/zoltan_scoundrel.webp",
+    "faction": "Neutral",
+    "type": "Unit",
+    "rarity": "Legendary",
     "tags": []
   }
 ]
