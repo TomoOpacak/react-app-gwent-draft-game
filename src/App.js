@@ -37,25 +37,7 @@ function App() {
     Object.values(factions).forEach((faction) => {
       faction.leaders.forEach((leader) => {
         imagesToPreload.push(process.env.PUBLIC_URL + leader.image);
-        leader.cards?.forEach((card) => {
-          if (card.image)
-            imagesToPreload.push(process.env.PUBLIC_URL + card.image);
-        });
       });
-    });
-
-    // Preload all card database images
-    const allCards = [
-      ...northernRealms,
-      ...nilfgaard,
-      ...scoiatael,
-      ...skellige,
-      ...syndicate,
-      ...monsters,
-      ...neutral,
-    ];
-    allCards.forEach((card) => {
-      if (card.image) imagesToPreload.push(process.env.PUBLIC_URL + card.image);
     });
 
     // Preload faction icons
