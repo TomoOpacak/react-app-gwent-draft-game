@@ -11,6 +11,19 @@
   height: 30px;
   font-family: "Gwent";
 }
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  height: 40px;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  border-radius: 3px;
+}
 .filter {
   display: flex;
   flex-direction: row;
@@ -40,7 +53,7 @@ select option {
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 5px;
-  height: 500px;
+  max-height: 500px;
   overflow-y: auto;
 }
 img {

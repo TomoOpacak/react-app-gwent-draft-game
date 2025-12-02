@@ -5,7 +5,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Vampire", "Deploy", "Bleeding", "Order"]
   },
   {
     "name": "Arachas Nest",
@@ -13,7 +13,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Common",
-    "tags": ["Spawn"]
+    "tags": ["Spawn", "Organic"]
   },
   {
     "name": "Archespore",
@@ -21,7 +21,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Deathwish", "Summon", "Reinforcement"]
+    "tags": ["Necrophage", "Deathwish", "Summon", "Reinforcement"]
   },
   {
     "name": "Ard Gaeth",
@@ -29,7 +29,7 @@
     "faction": "Monsters",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": ["Echo", "Spawn", "Frost"]
+    "tags": ["Echo", "Spawn", "Frost", "Wild Hunt"]
   },
   {
     "name": "Auberon Conqueror",
