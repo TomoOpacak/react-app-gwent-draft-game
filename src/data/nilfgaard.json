@@ -4,16 +4,16 @@
     "image": "/assets/cards/nilfgaard/affan_hillergrand.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Soldier", "Summon"]
   },
   {
     "name": "Alba Armored Cavalry",
     "image": "/assets/cards/nilfgaard/alba_armored_cavalry.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Deploy", "Melee", "Lock"]
   },
   {
     "name": "Alba Pikeman",
@@ -21,7 +21,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Deploy", "Melee"]
   },
   {
     "name": "Amnesty",
@@ -29,7 +29,7 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Tactic", "Seize", "Conspiracy"]
   },
   {
     "name": "Angry Mob",
@@ -37,23 +37,23 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Deploy", "Conspiracy"]
   },
   {
     "name": "Artorius Vigo",
     "image": "/assets/cards/nilfgaard/artorius_vigo.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Mage", "Assimilate", "Deploy"]
   },
   {
     "name": "Assassination",
     "image": "/assets/cards/nilfgaard/assassination.webp",
     "faction": "Nilfgaard",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Tactic"]
   },
   {
     "name": "Battle Preparation",
@@ -61,7 +61,7 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Tactic"]
   },
   {
     "name": "Bribery",
@@ -69,15 +69,15 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Tactic"]
   },
   {
     "name": "Cantarella",
     "image": "/assets/cards/nilfgaard/cantarella.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Agent", "Disloyal", "Deploy"]
   },
   {
     "name": "Coated Weapons",
@@ -85,7 +85,7 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Tactic", "Deathblow", "Doomed"]
   },
   {
     "name": "Coup de Grace",
@@ -93,7 +93,7 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Tactic", "Echo", "Deathblow", "Conspiracy"]
   },
   {
     "name": "Courier",
@@ -101,15 +101,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Agent", "Blindeyes", "Assimilate", "Deploy", "Melee"]
   },
   {
     "name": "Damien de la Tour",
     "image": "/assets/cards/nilfgaard/damien_de_la_tour.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Knight", "Deploy", "Melee"]
   },
   {
     "name": "Ducal Guard",
@@ -117,15 +117,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Assimilate"]
   },
   {
     "name": "Duchess's Informant",
     "image": "/assets/cards/nilfgaard/duchesss_informant.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Human", "Agent", "Disloyal", "Deploy"]
   },
   {
     "name": "Emissary",
@@ -133,7 +133,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Agent", "Disloyal", "Deploy"]
   },
   {
     "name": "Experimental Remedy",
@@ -141,31 +141,31 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Tactic"]
   },
   {
     "name": "Fangs of the Empire",
     "image": "/assets/cards/nilfgaard/fangs_of_the_empire.webp",
     "faction": "Nilfgaard",
-    "type": "Special",
+    "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Agent", "Deploy", "Poison"]
   },
   {
     "name": "Ffion var Gaernel",
     "image": "/assets/cards/nilfgaard/ffion_var_gaernel.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Defender", "Deploy"]
   },
   {
     "name": "Fire Scorpion",
     "image": "/assets/cards/nilfgaard/fire_scorpion.webp",
     "faction": "Nilfgaard",
-    "type": "Machine",
+    "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Machine", "Siege Engine", "Order", "Charge"]
   },
   {
     "name": "Fringila Viggo",
@@ -173,23 +173,23 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Mage", "Deploy"]
   },
   {
     "name": "Glynnis aep Loernach",
     "image": "/assets/cards/nilfgaard/glynnis_aep_loernach.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Assimilate"]
   },
   {
     "name": "Hefty Helge",
     "image": "/assets/cards/nilfgaard/hefty_helge.webp",
     "faction": "Nilfgaard",
-    "type": "Machine",
+    "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Machine", "Siege Engine", "Shield", "Order"]
   },
   {
     "name": "Hunting Pack",
@@ -197,15 +197,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Beast", "Reinforcement", "Deploy", "Summon"]
   },
   {
     "name": "Impera Brigade",
     "image": "/assets/cards/nilfgaard/impera_brigade.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Reinforcement", "Deploy", "Summon"]
   },
   {
     "name": "Imperial Diviner",
@@ -213,15 +213,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Human", "Mage", "Assimilate", "Deploy", "Purify"]
   },
   {
     "name": "Isbel of Hagge",
     "image": "/assets/cards/nilfgaard/isbel_of_hagge.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Order", "Ranged"]
   },
   {
     "name": "Joachim de Wett",
@@ -229,7 +229,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Soldier", "Aristocrat"]
   },
   {
     "name": "Leo Bonhart",
@@ -237,15 +237,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Soldier", "Knight", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Mage Infiltrator",
     "image": "/assets/cards/nilfgaard/mage_infiltrator.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Disloyal", "Deploy", "Deathblow", "Spying"]
   },
   {
     "name": "Magne Division",
@@ -253,7 +253,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Deploy", "Human", "Soldier", "Tactic"]
+    "tags": ["Deploy", "Human", "Soldier"]
   },
   {
     "name": "Masquerade Ball",
@@ -261,15 +261,15 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Tactic"]
   },
   {
     "name": "Menno Coehoorn",
     "image": "/assets/cards/nilfgaard/menno_coehoorn.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Soldier", "Deploy", "Ranged"]
   },
   {
     "name": "Nilfgaardian Knight",
@@ -277,7 +277,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Knight", "Deploy"]
   },
   {
     "name": "Peter Saar Gwynleve",
@@ -285,7 +285,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Soldier", "Deploy"]
   },
   {
     "name": "Recruit",
@@ -293,7 +293,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Order"]
   },
   {
     "name": "Rience",
@@ -301,7 +301,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Mage", "Agent", "Deploy", "Order"]
   },
   {
     "name": "Roderick of Dun Tynne",
@@ -309,7 +309,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Aristocrat", "Disloyal", "Deploy"]
   },
   {
     "name": "Rot Tosser",
@@ -317,15 +317,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Machine", "Siege Engine", "Order", "Spawn", "Charge"]
   },
   {
     "name": "Seditious Aristocrats",
     "image": "/assets/cards/nilfgaard/seditious_aristocrats.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Human", "Agent", "Aristocrat", "Deploy", "Spying"]
   },
   {
     "name": "Slave Hunter",
@@ -333,7 +333,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Assimilate", "Order"]
   },
   {
     "name": "Slave Infantry",
@@ -341,7 +341,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Deploy"]
   },
   {
     "name": "Stefan Skellen",
@@ -349,7 +349,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Agent", "Order", "Ranged", "Banish"]
   },
   {
     "name": "Sweers",
@@ -357,15 +357,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Soldier", "Knight", "Deploy", "Melee", "Seize"]
   },
   {
     "name": "Thanned Turncoat",
     "image": "/assets/cards/nilfgaard/thanned_turncoat.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Human", "Mage", "Agent", "Deploy", "Spying", "Cooldown"]
   },
   {
     "name": "Thirsty Dame",
@@ -373,7 +373,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Vampire", "Status"]
+    "tags": ["Vampire", "Aristocrat"]
   },
   {
     "name": "Tourney Joust",
@@ -381,7 +381,7 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Tactic", "Shield"]
   },
   {
     "name": "Toussaintois Knight-Errant",
@@ -389,15 +389,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Human", "Knight", "Deploy"]
   },
   {
     "name": "Treason",
     "image": "/assets/cards/nilfgaard/treason.webp",
     "faction": "Nilfgaard",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Tactic", "Spying"]
   },
   {
     "name": "Van Moorlehem Hunter",
@@ -405,7 +405,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Vampire", "Aristocrat", "Deploy", "Ranged", "Lock"]
   },
   {
     "name": "Van Moorlehem's Cupbearer",
@@ -413,7 +413,15 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": [
+      "Human",
+      "Assimilate",
+      "Deploy",
+      "Melee",
+      "Poison",
+      "Ranged",
+      "Purify"
+    ]
   },
   {
     "name": "Vanhemar",
@@ -421,31 +429,31 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Mage", "Deploy", "Ranged", "Lock"]
   },
   {
     "name": "Vattier de Rideaux",
     "image": "/assets/cards/nilfgaard/vattier_de_rideaux.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Agent", "Aristocrat", "Order", "Melee", "Seize", "Lock"]
   },
   {
     "name": "Vilgefortz",
     "image": "/assets/cards/nilfgaard/vilgefortz.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Mage", "Deploy", "Melee", "Summon"]
   },
   {
     "name": "Vincent Van Moorlehem",
     "image": "/assets/cards/nilfgaard/vincent_van_moorlehem.webp",
     "faction": "Nilfgaard",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Deploy"]
   },
   {
     "name": "Viper Witcher Alchemist",
@@ -453,7 +461,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Witcher", "Deploy"]
   },
   {
     "name": "Vreemde",
@@ -461,7 +469,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Soldier", "Deploy"]
   },
   {
     "name": "Warritt The All-Seeing",
@@ -469,7 +477,7 @@
     "faction": "Nilfgaard",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Witcher", "Deploy", "Melee"]
   },
   {
     "name": "Yennefer's Invocation",
@@ -477,6 +485,6 @@
     "faction": "Nilfgaard",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Spell"]
   }
 ]

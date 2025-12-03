@@ -4,6 +4,7 @@ import "../css/leader-carousel.css";
 export default function LeaderCarousel({ leaders }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const leader = leaders[currentIndex];
+  const [zoomedLeader, setZoomedLeader] = useState(null);
 
   // Preload all leader images for smooth experience
   useEffect(() => {
@@ -67,8 +68,20 @@ export default function LeaderCarousel({ leaders }) {
             alt={leader.name}
             className="leader-image"
             loading="lazy"
+            onClick={() => setZoomedLeader(leader)} // <— Enable zoom
           />
         </div>
+
+        {/* Zoom Overlay */}
+        {zoomedLeader && (
+          <div className="zoom-overlay" onClick={() => setZoomedLeader(null)}>
+            <img
+              src={process.env.PUBLIC_URL + zoomedLeader.image}
+              alt={zoomedLeader.name}
+              className="zoom-image"
+            />
+          </div>
+        )}
 
         <button className="arrow" onClick={nextLeader}>
           <svg

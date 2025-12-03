@@ -3,73 +3,73 @@
     "name": "Adrenaline Rush",
     "image": "/assets/cards/neutral/adrenaline_rush.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Organic"]
   },
   {
     "name": "Alzur's Thunder",
     "image": "/assets/cards/neutral/alzurs_thunder.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Spell"]
   },
   {
     "name": "Armorer's Workshop",
     "image": "/assets/cards/neutral/armorers_workshop.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Special", "Armor"]
   },
   {
     "name": "Artefact Compression",
     "image": "/assets/cards/neutral/artefact_compression.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Spell", "Lock"]
   },
   {
     "name": "Bekker's Dark Mirror",
     "image": "/assets/cards/neutral/bekkers_dark_mirror.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Spell"]
   },
   {
     "name": "Black Blood",
     "image": "/assets/cards/neutral/black_blood.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Alchemy"]
   },
   {
     "name": "Bone Talisman",
     "image": "/assets/cards/neutral/bone_talisman.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Organic"]
   },
   {
     "name": "Caravan Vanguard",
     "image": "/assets/cards/neutral/caravan_vanguard.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Reinforcement", "Summon"]
   },
   {
     "name": "Chironex",
     "image": "/assets/cards/neutral/chironex.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Relict", "Deploy"]
   },
   {
     "name": "Ciri",
@@ -84,8 +84,8 @@
     "image": "/assets/cards/neutral/ciri_dash.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Timer"]
   },
   {
     "name": "Ciri Nova",
@@ -93,79 +93,79 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": ["Witcher", "Deploy", "Resilience", "Shiled", "Deploy"]
+    "tags": ["Witcher", "Deploy", "Resilience", "Shield", "Veil"]
   },
   {
     "name": "Clear Skies",
     "image": "/assets/cards/neutral/clear_skies.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Nature"]
   },
   {
     "name": "Commander's Horn",
     "image": "/assets/cards/neutral/commanders_horn.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Warfare"]
   },
   {
     "name": "Curse of Corruption",
     "image": "/assets/cards/neutral/curse_of_corruption.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Spell"]
   },
   {
     "name": "Dandelion Poet",
     "image": "/assets/cards/neutral/dandelion_poet.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Deploy"]
   },
   {
     "name": "Decoy",
     "image": "/assets/cards/neutral/decoy.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Warfare"]
   },
   {
     "name": "Devil's Puffball",
     "image": "/assets/cards/neutral/devils_puffball.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Bomb", "Deathblow", "Posion"]
   },
   {
     "name": "Dimeritium Shackles",
     "image": "/assets/cards/neutral/dimeritium_shackles.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy", "Lock"]
   },
   {
     "name": "Dorregaray of Vole",
     "image": "/assets/cards/neutral/dorregaray_of_vole.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Mage", "Deploy", "Lock"]
   },
   {
     "name": "Eskel",
     "image": "/assets/cards/neutral/eskel.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Witcher", "Deploy", "Adrenaline", "Summon"]
   },
   {
     "name": "Fortune Teller",
@@ -173,47 +173,47 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Order", "Melee", "Doomed", "Ranged", "Veil"]
   },
   {
     "name": "Frost",
     "image": "/assets/cards/neutral/frost.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Weather", "Token", "Counter", "Banish"]
   },
   {
     "name": "Gaunter O'Dimm",
     "image": "/assets/cards/neutral/gaunter_odimm.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Demon", "Deploy", "Doomed", "Order"]
   },
   {
     "name": "Geralt Aard",
     "image": "/assets/cards/neutral/geralt_aard.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Geralt Axii",
     "image": "/assets/cards/neutral/geralt_axii.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy", "Armor", "Seize"]
   },
   {
     "name": "Geralt Igni",
     "image": "/assets/cards/neutral/geralt_igni.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy"]
   },
   {
     "name": "Geralt of Rivia",
@@ -228,32 +228,32 @@
     "image": "/assets/cards/neutral/geralt_quen.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Shield", "Deploy", "Adrenaline", "Shield"]
   },
   {
     "name": "Geralt Yrden",
     "image": "/assets/cards/neutral/geralt_yrden.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Witcher", "Deploy"]
   },
   {
     "name": "Germain Piquant",
     "image": "/assets/cards/neutral/germain_piquant.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Deploy", "Spawn", "Cooldown"]
   },
   {
     "name": "Ihuarraquax",
     "image": "/assets/cards/neutral/ihuarraquax.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Relict", "Zeal", "Order", "Purify", "Cooldown"]
   },
   {
     "name": "King Cobra",
@@ -261,119 +261,119 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Beast", "Deploy", "Posion"]
   },
   {
     "name": "Knickers",
     "image": "/assets/cards/neutral/knickers.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Beast", "Summon", "Melee"]
   },
   {
     "name": "Korathi Heatwave",
     "image": "/assets/cards/neutral/korathi_heatwave.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Special", "Banish"]
   },
   {
     "name": "Lacerate",
     "image": "/assets/cards/neutral/lacerate.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Organic"]
   },
   {
-    "name": "Lady of the lake",
+    "name": "Lady of the Lake",
     "image": "/assets/cards/neutral/lady_of_the_lake.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Relict", "Shield", "Order"]
   },
   {
     "name": "Lambert",
     "image": "/assets/cards/neutral/lambert.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Witcher", "Deploy", "Adrenaline", "Summon"]
   },
   {
     "name": "Mahakam Ale",
     "image": "/assets/cards/neutral/mahakam_ale.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy", "Lock"]
   },
   {
     "name": "Mandrake",
     "image": "/assets/cards/neutral/mandrake.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Organic"]
   },
   {
     "name": "Manticore Venom",
     "image": "/assets/cards/neutral/manticore_venom.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Organic"]
   },
   {
     "name": "Mantlet",
     "image": "/assets/cards/neutral/mantlet.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Machine", "Siege Engine", "Melee"]
   },
   {
     "name": "Maraal",
     "image": "/assets/cards/neutral/maraal.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Agent", "Deploy", "Posion", "Order", "Melee"]
   },
   {
     "name": "Moon Dust",
     "image": "/assets/cards/neutral/moon_dust.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Bomb", "Purify"]
   },
   {
     "name": "Necromancy",
     "image": "/assets/cards/neutral/necromancy.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Spell", "Doomed"]
   },
   {
     "name": "Nivellen",
     "image": "/assets/cards/neutral/nivellen.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Cursed", "Deploy"]
   },
   {
     "name": "Northern Wind",
     "image": "/assets/cards/neutral/northern_wind.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Bomb", "Deathblow", "Banish"]
   },
   {
     "name": "Ofiri Merchant",
@@ -381,23 +381,23 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Deploy"]
   },
   {
     "name": "Oneiromancy",
     "image": "/assets/cards/neutral/oneiromancy.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Spell", "Echo"]
   },
   {
     "name": "Pact",
     "image": "/assets/cards/neutral/pact.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Spell", "Doomed"]
   },
   {
     "name": "Pellar",
@@ -405,95 +405,95 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Deploy", "Purify"]
   },
   {
     "name": "Piercing Missile",
     "image": "/assets/cards/neutral/piercing_missile.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Special", "Armor"]
   },
   {
     "name": "Portal",
     "image": "/assets/cards/neutral/portal.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Deploy", "Summon"]
   },
   {
     "name": "Prize-Winning Cow",
     "image": "/assets/cards/neutral/prize-winning_cow.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Order"]
   },
   {
     "name": "Regis Higher Vampire",
     "image": "/assets/cards/neutral/regis_higher_vampire.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Vampire", "Order", "Melee"]
   },
   {
     "name": "Renew",
     "image": "/assets/cards/neutral/renew.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Spell", "Doomed"]
   },
   {
     "name": "Ring of Favor",
     "image": "/assets/cards/neutral/ring_of_favor.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Special"]
   },
   {
     "name": "Roach",
     "image": "/assets/cards/neutral/roach.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Beast", "Summon", "Melee"]
   },
   {
     "name": "Royal Decree",
     "image": "/assets/cards/neutral/royal_decree.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Tactic"]
   },
   {
     "name": "Saesenthessis Blaze",
     "image": "/assets/cards/neutral/saesenthessis_blaze.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dragon", "Order", "Charge"]
   },
   {
     "name": "Sandstorm",
     "image": "/assets/cards/neutral/sandstorm.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Special"]
   },
   {
     "name": "Scorch",
     "image": "/assets/cards/neutral/scorch.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Spell"]
   },
   {
     "name": "Scout",
@@ -501,23 +501,23 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Ranged", "Deploy"]
   },
   {
     "name": "Snowdrop",
     "image": "/assets/cards/neutral/snowdrop.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Zeal", "Order"]
   },
   {
     "name": "Spores",
     "image": "/assets/cards/neutral/spores.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Organic"]
   },
   {
     "name": "Squirrel",
@@ -525,7 +525,7 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Beast", "Deploy", "Banish"]
   },
   {
     "name": "Strays of Spalla",
@@ -533,143 +533,143 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Bandit", "Deploy"]
   },
   {
     "name": "Swallow",
     "image": "/assets/cards/neutral/swallow.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Alchemy"]
   },
   {
     "name": "Syanna",
     "image": "/assets/cards/neutral/syanna.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Cursed", "Order", "Deploy"]
   },
   {
     "name": "Tactical Advantage",
     "image": "/assets/cards/neutral/tactical_advantage.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Tactical",
+    "rarity": "Legendary",
+    "tags": ["Stratagem"]
   },
   {
     "name": "Teleportation",
     "image": "/assets/cards/neutral/teleportation.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Spell"]
   },
   {
     "name": "Traveling Merchant",
     "image": "/assets/cards/neutral/traveling_merchant.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Deploy", "Ranged"]
   },
   {
     "name": "Triangle Within a Triangle",
     "image": "/assets/cards/neutral/triangle_within_a_triangle.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Epic",
+    "tags": ["Spell"]
   },
   {
     "name": "Triss Butterflies",
     "image": "/assets/cards/neutral/triss_butterflies.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Deploy", "Ranged"]
   },
   {
     "name": "Triss Merigold",
     "image": "/assets/cards/neutral/triss_merigold.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Deploy", "Ranged", "Reveal"]
   },
   {
     "name": "Uma's Curse",
     "image": "/assets/cards/neutral/umas_curse.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Spell"]
   },
   {
     "name": "Undying Thirst",
     "image": "/assets/cards/neutral/undying_thirst.webp",
     "faction": "Neutral",
-    "type": "Unit",
+    "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Organic"]
   },
   {
     "name": "Unicorn",
     "image": "/assets/cards/neutral/unicorn.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Relict", "Deploy"]
   },
   {
     "name": "Vesemir",
     "image": "/assets/cards/neutral/vesemir.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Witcher", "Deploy", "Adrenaline", "Summon"]
   },
   {
     "name": "Vieviene Oriole",
     "image": "/assets/cards/neutral/vieviene_oriole.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Cursed", "Deploy"]
   },
   {
     "name": "Vigo's Muzzle",
     "image": "/assets/cards/neutral/vigos_muzzle.webp",
     "faction": "Neutral",
-    "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "type": "Special",
+    "rarity": "Legendary",
+    "tags": ["Spell", "Lock", "Seize"]
   },
   {
     "name": "Villentretenmerth",
     "image": "/assets/cards/neutral/villentretenmerth.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Dragon", "Timer"]
   },
   {
     "name": "Yennefer Conjurer",
     "image": "/assets/cards/neutral/yennefer_conjurer.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Zeal", "Order", "Cooldown"]
   },
   {
     "name": "Yennefer of Vengerberg",
     "image": "/assets/cards/neutral/yennefer_of_vengerberg.webp",
     "faction": "Neutral",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Deploy", "Melee", "Ranged"]
   },
   {
     "name": "Zoltan Scoundrel",
@@ -677,6 +677,6 @@
     "faction": "Neutral",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Dwarf", "Deploy", "Spawn", "Melee", "Ranged"]
   }
 ]

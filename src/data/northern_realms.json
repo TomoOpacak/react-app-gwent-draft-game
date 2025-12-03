@@ -4,8 +4,8 @@
     "image": "/assets/cards/northern_realms/alumni.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Mage"]
   },
   {
     "name": "Amphibious Assault",
@@ -13,15 +13,15 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Warfare", "Echo"]
   },
   {
     "name": "Anna Strenger",
     "image": "/assets/cards/northern_realms/anna_strenger.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Cursed", "Inspired"]
   },
   {
     "name": "Aretuza Adept",
@@ -29,7 +29,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Mage"]
   },
   {
     "name": "Battering Ram",
@@ -37,23 +37,31 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": [
+      "Machine",
+      "Siege Engine",
+      "Deploy",
+      "Crew",
+      "Zeal",
+      "Order",
+      "Cooldown"
+    ]
   },
   {
     "name": "Bloody Flail",
     "image": "/assets/cards/northern_realms/bloody_flail.webp",
     "faction": "Northern Realms",
     "type": "Special",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Warfare"]
   },
   {
     "name": "Blue Stripe Commando",
     "image": "/assets/cards/northern_realms/blue_stripe_commando.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Human", "Soldier", "Reinforcement", "Order", "Summon"]
   },
   {
     "name": "Boiling Oil",
@@ -61,15 +69,15 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Warfare", "Deathblow"]
   },
   {
     "name": "Bombardment",
     "image": "/assets/cards/northern_realms/bombardment.webp",
     "faction": "Northern Realms",
     "type": "Special",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Warfare"]
   },
   {
     "name": "Casting Contest",
@@ -77,15 +85,15 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Spell", "Order", "Zeal"]
   },
   {
     "name": "Cintrian Spellweaver",
     "image": "/assets/cards/northern_realms/cintrian_spellweaver.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Mage", "Order", "Charge"]
   },
   {
     "name": "Dethmold",
@@ -93,15 +101,15 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Mage", "Zeal", "Order"]
   },
   {
     "name": "Donimir of Troy",
     "image": "/assets/cards/northern_realms/donimir_of_troy.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Knight", "Defender", "Shield"]
   },
   {
     "name": "Draug",
@@ -109,39 +117,39 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Specter", "Cursed", "Knight", "Deploy", "Spawn"]
   },
   {
     "name": "Dun Banner",
     "image": "/assets/cards/northern_realms/dun_banner.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Human", "Soldier", "Reinforcement", "Summon"]
   },
   {
     "name": "Foltest_s Pride",
     "image": "/assets/cards/northern_realms/foltest_s_pride.webp",
     "faction": "Northern Realms",
-    "type": "Machine",
-    "rarity": "Epic",
-    "tags": []
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": ["Machine", "Siege Engine", "Zeal", "Order", "Cooldown", "Crew"]
   },
   {
     "name": "Forbidden Magic",
     "image": "/assets/cards/northern_realms/forbidden_magic.webp",
     "faction": "Northern Realms",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Common",
+    "tags": ["Spell", "Deathblow", "Spawn"]
   },
   {
     "name": "John Natalis",
     "image": "/assets/cards/northern_realms/john_natalis.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Soldier", "Deploy", "Melee"]
   },
   {
     "name": "Kaedweni Knight",
@@ -149,39 +157,47 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Knight", "Summon"]
   },
   {
     "name": "Kaedweni Revenant",
     "image": "/assets/cards/northern_realms/kaedweni_revenant.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Common",
+    "tags": [
+      "Specter",
+      "Cursed",
+      "Soldier",
+      "Order",
+      "Deathblow",
+      "Spawn",
+      "Summon"
+    ]
   },
   {
     "name": "Keira Metz",
     "image": "/assets/cards/northern_realms/keira_metz.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "rarity": "Legendary",
+    "tags": ["Human", "Mage", "Order", "Doomed"]
   },
   {
     "name": "Kerack Frigate",
     "image": "/assets/cards/northern_realms/kerack_frigate.webp",
     "faction": "Northern Realms",
-    "type": "Machine",
-    "rarity": "Common",
-    "tags": []
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Machine", "Siege Engine", "Order", "Spawn", "Crew", "Cooldown"]
   },
   {
     "name": "Knighthood",
     "image": "/assets/cards/northern_realms/knighthood.webp",
     "faction": "Northern Realms",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Warfare"]
   },
   {
     "name": "Lyrian Arbalest",
@@ -189,23 +205,23 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Order", "Charge"]
   },
   {
     "name": "Lyrian Scytheman",
     "image": "/assets/cards/northern_realms/lyrian_scytheman.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": []
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Deploy"]
   },
   {
     "name": "Margarita Laux-Antille",
     "image": "/assets/cards/northern_realms/margarita_laux_antille.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Mage", "Zeal", "Order", "Lock"]
   },
   {
     "name": "Odrin",
@@ -213,7 +229,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Soldier", "Resupply", "Inspired"]
   },
   {
     "name": "Poor Fucking Infantry",
@@ -221,7 +237,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Deploy", "Spawn"]
   },
   {
     "name": "Prince Anséis",
@@ -229,15 +245,15 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Knight", "Formation", "Order"]
   },
   {
     "name": "Queen Adalia",
     "image": "/assets/cards/northern_realms/queen_adalia.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Deploy", "Shield"]
   },
   {
     "name": "Redanian Knight",
@@ -245,15 +261,22 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Rare",
-    "tags": []
+    "tags": ["Human", "Soldier", "Knight", "Formation", "Order"]
   },
   {
     "name": "Reinforced Ballista",
     "image": "/assets/cards/northern_realms/reinforced_ballista.webp",
     "faction": "Northern Realms",
-    "type": "Machine",
-    "rarity": "Common",
-    "tags": []
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": [
+      "Machine",
+      "Siege Engine",
+      "Formation",
+      "Order",
+      "Cooldown",
+      "Resupply"
+    ]
   },
   {
     "name": "Reinforced Trebuchet",
@@ -261,39 +284,39 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Machine", "Siege", "Deploy", "Engine", "Order"]
+    "tags": ["Machine", "Siege", "Deploy", "Order"]
   },
   {
     "name": "Reinforcements",
     "image": "/assets/cards/northern_realms/reinforcements.webp",
     "faction": "Northern Realms",
     "type": "Special",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Warfare"]
   },
   {
     "name": "Ronvid the Incessant",
     "image": "/assets/cards/northern_realms/ronvid_the_incessant.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Rare",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Soldier", "Deploy", "Ressurect"]
   },
   {
     "name": "Runewright",
     "image": "/assets/cards/northern_realms/runewright.webp",
     "faction": "Northern Realms",
-    "type": "Unit",
-    "rarity": "Epic",
-    "tags": []
+    "type": "Special",
+    "rarity": "Rare",
+    "tags": ["Spell", "Shield"]
   },
   {
     "name": "Seltkirk of Gulet",
     "image": "/assets/cards/northern_realms/seltkirk_of_gulet.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Legendary",
-    "tags": []
+    "rarity": "Epic",
+    "tags": ["Human", "Knight", "Order", "Melee"]
   },
   {
     "name": "Shani",
@@ -301,7 +324,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Zeal", "Order", "Summon", "Doomed", "Cooldown"]
   },
   {
     "name": "Siege",
@@ -309,7 +332,7 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Warfare", "Summon", "Order", "Zeal"]
   },
   {
     "name": "Siege Master",
@@ -317,15 +340,15 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Human", "Soldier", "Order", "Resupply"]
   },
   {
     "name": "Siege Tower",
     "image": "/assets/cards/northern_realms/siege_tower.webp",
     "faction": "Northern Realms",
     "type": "Unit",
-    "rarity": "Common",
-    "tags": ["Machine", "Siege", "Zeal", "Engine", "Order", "Crew", "Cooldown"]
+    "rarity": "Rare",
+    "tags": ["Machine", "Siege", "Zeal", "Order", "Crew", "Cooldown"]
   },
   {
     "name": "Sile De Tansarvile",
@@ -333,7 +356,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Human", "Mage", "Deploy", "Order"]
   },
   {
     "name": "Smoke Them Out!",
@@ -341,7 +364,7 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Warfare", "Spawn"]
   },
   {
     "name": "Vernon Roche",
@@ -349,7 +372,7 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Soldier", "Disloyal", "Deploy"]
   },
   {
     "name": "Viraxas King",
@@ -357,15 +380,15 @@
     "faction": "Northern Realms",
     "type": "Unit",
     "rarity": "Legendary",
-    "tags": []
+    "tags": ["Human", "Veil", "Formation", "Order", "Zeal"]
   },
   {
     "name": "War Chariot",
     "image": "/assets/cards/northern_realms/war_chariot.webp",
     "faction": "Northern Realms",
-    "type": "Machine",
+    "type": "Unit",
     "rarity": "Epic",
-    "tags": []
+    "tags": ["Machine", "Siege Engine", "Order", "Melee", "Crew", "Cooldown"]
   },
   {
     "name": "Winch",
@@ -373,6 +396,6 @@
     "faction": "Northern Realms",
     "type": "Special",
     "rarity": "Common",
-    "tags": []
+    "tags": ["Warfare", "Cooldown"]
   }
 ]
