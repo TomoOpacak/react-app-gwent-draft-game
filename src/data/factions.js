@@ -9,18 +9,82 @@ export const factions = {
         name: "Eredin",
         image: "/assets/cards/leaders/leader_eredin.webp",
         cards: [
-          { name: "Wild Hunt Rider", rarity: "common" },
-          { name: "Wild Hunt Rider", rarity: "common" },
-          { name: "Wild Hunt Bruiser", rarity: "common" },
-          { name: "Wild Hunt Navigator", rarity: "rare" },
-          { name: "Naglfar Crew", rarity: "rare" },
-          { name: "Naglfar Crew", rarity: "rare" },
-          { name: "Caranthir", rarity: "epic" },
-          { name: "Nithral", rarity: "epic" },
-          { name: "Winter Queen", rarity: "epic" },
-          { name: "Auberon Conqueror", rarity: "legendary" },
-          { name: "Imlerith", rarity: "legendary" },
-          { name: "Ard Gaeth", rarity: "legendary" },
+          {
+            name: "Wild Hunt Rider",
+            rarity: "common",
+            image: "/assets/cards/monsters/wild_hunt_rider.webp",
+          },
+          {
+            name: "Wild Hunt Rider",
+            rarity: "common",
+            image: "/assets/cards/monsters/wild_hunt_rider.webp",
+          },
+          {
+            name: "Wild Hunt Bruiser",
+            rarity: "common",
+            image: "/assets/cards/monsters/wild_hunt_bruiser.webp",
+          },
+          {
+            name: "Wild Hunt Navigator",
+            rarity: "rare",
+            image: "/assets/cards/monsters/wild_hunt_navigator.webp",
+          },
+          {
+            name: "Naglfar Crew",
+            rarity: "rare",
+            image: "/assets/cards/monsters/naglfars_crew.webp",
+          },
+          {
+            name: "Naglfar Crew",
+            rarity: "rare",
+            image: "/assets/cards/monsters/naglfars_crew.webp",
+          },
+          {
+            name: "Caranthir",
+            rarity: "epic",
+            image: "/assets/cards/monsters/caranthir.webp",
+          },
+          {
+            name: "Nithral",
+            rarity: "epic",
+            image: "/assets/cards/monsters/nithral.webp",
+          },
+          {
+            name: "Winter Queen",
+            rarity: "epic",
+            image: "/assets/cards/monsters/winter_queen.webp",
+          },
+          {
+            name: "Auberon Conqueror",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/auberon_conqueror.webp",
+          },
+          {
+            name: "Imlerith",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/imlerith.webp",
+          },
+          {
+            name: "Ard Gaeth",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/ard_gaeth.webp",
+          },
+          {
+            name: "Wild Hunt Hound",
+            rarity: "common",
+            image: "/assets/cards/monsters/wild_hunt_hound.webp",
+          },
+
+          {
+            name: "Imlerith's Wrath",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imleriths_wrath.webp",
+          },
+          {
+            name: "The Naglfar",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/the_naglfar.webp",
+          },
         ],
       },
       {

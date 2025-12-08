@@ -4,6 +4,8 @@ import "../css/leader-carousel.css";
 export default function LeaderCarousel({ leaders }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const leader = leaders[currentIndex];
+  const baseCards = leader.cards ? leader.cards.slice(0, 12) : [];
+  const recommendedCards = leader.cards ? leader.cards.slice(12, 20) : [];
   const [zoomedLeader, setZoomedLeader] = useState(null);
 
   // Preload all leader images for smooth experience
@@ -102,12 +104,32 @@ export default function LeaderCarousel({ leaders }) {
         </button>
       </div>
       <h2 className="leader-name">{leader.name}</h2>
-
+      <h2 className="group-title">Base Cards</h2>
       {/* Cards Grid */}
       <div className="cards-list">
-        {leader.cards.map((card, i) => (
-          <div key={i} className={`card ${card.rarity}`}>
-            {card.name}
+        {baseCards.map((card, i) => (
+          <div key={`base-${i}`}>
+            <img
+              src={process.env.PUBLIC_URL + card.image}
+              alt={card.name}
+              className="little-card-image"
+              loading="lazy"
+            />
+          </div>
+        ))}
+      </div>
+      <h2 className="group-title">
+        Recommended Cards ({recommendedCards.length})
+      </h2>
+      <div className="cards-list-recommended">
+        {recommendedCards.map((card, i) => (
+          <div key={`rec-${i}`}>
+            <img
+              src={process.env.PUBLIC_URL + card.image}
+              alt={card.name}
+              className="little-card-image"
+              loading="lazy"
+            />
           </div>
         ))}
       </div>

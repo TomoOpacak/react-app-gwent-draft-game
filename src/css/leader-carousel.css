@@ -51,17 +51,31 @@
 }
 
 .leader-name {
-  font-size: 20px;
+  font-size: 28px;
   font-family: "Gwent";
   color: #fff;
   text-align: center;
 }
-
+.group-title {
+  font-size: 22px;
+  font-family: "Gwent";
+  color: #d9d8cb;
+  margin-top: 10px;
+}
 /* Cards Grid */
 .cards-list {
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 5px;
+}
+.cards-list-recommended {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 5px;
+}
+.little-card-image {
+  border-radius: 5px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
 }
 
 /* Card Styles */

@@ -453,5 +453,13 @@
       "Dominance",
       "Summon"
     ]
+  },
+  {
+    "name": "Winter Queen",
+    "image": "/assets/cards/monsters/winter_queen.webp",
+    "faction": "Monsters",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": ["Elf", "Wild Hunt", "Reinforcement", "Frost", "Thrive"]
   }
 ]
