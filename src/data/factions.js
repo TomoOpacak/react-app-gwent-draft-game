@@ -1,5 +1,3 @@
-import ScoiataelFactionGuide from "../components/ScoiataelFactionGuide";
-
 export const factions = {
   monsters: {
     name: "Monsters",
@@ -519,18 +517,97 @@ export const factions = {
         name: "King Foltest",
         image: "/assets/cards/leaders/leader_foltest.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Battering Ram",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/battering_ram.webp ",
+          },
+          {
+            name: "Battering Ram",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/battering_ram.webp ",
+          },
+          {
+            name: "Smoke Them Out!",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/smoke_them_out.webp ",
+          },
+          {
+            name: "Kerack Frigate",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/kerack_frigate.webp ",
+          },
+          {
+            name: "Reinforced Ballista",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/reinforced_ballista.webp ",
+          },
+          {
+            name: "Reinforced Ballista",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/reinforced_ballista.webp ",
+          },
+          {
+            name: "War Chariot",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/war_chariot.webp ",
+          },
+          {
+            name: "Reinforcements",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/reinforcements.webp ",
+          },
+          {
+            name: "John Natalis",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/john_natalis.webp ",
+          },
+          {
+            name: "Amphibious Assault",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/amphibious_assault.webp ",
+          },
+          {
+            name: "Foltest Pride",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/foltest_s_pride.webp ",
+          },
+          {
+            name: "Siege",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/siege.webp ",
+          },
+          {
+            name: "Winch",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/winch.webp ",
+          },
+          {
+            name: "Reinforced Trebuchet",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/reinforced_trebuchet.webp ",
+          },
+          {
+            name: "Siege Tower",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/siege_tower.webp ",
+          },
+
+          {
+            name: "Bombardment",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/bombardment.webp ",
+          },
+          {
+            name: "Odrin",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/odrin.webp ",
+          },
+          {
+            name: "Viraxas King",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/viraxas_king.webp ",
+          },
         ],
       },
       {
@@ -538,18 +615,81 @@ export const factions = {
         name: "King Radovid",
         image: "/assets/cards/leaders/leader_radovid.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Poor Fucking Infantry",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/poor_fucking_infantry.webp",
+          },
+          {
+            name: "Poor Fucking Infantry",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/poor_fucking_infantry.webp",
+          },
+          {
+            name: "Kaedweni Knight",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/kaedweni_knight.webp",
+          },
+          {
+            name: "Redanian Knight",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/redanian_knight.webp",
+          },
+          {
+            name: "Redanian Knight",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/redanian_knight.webp",
+          },
+          {
+            name: "Reinforced Ballista",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/reinforced_ballista.webp",
+          },
+          {
+            name: "John Natalis",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/john_natalis.webp",
+          },
+          {
+            name: "Bloody Flail",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/bloody_flail.webp",
+          },
+          {
+            name: "Ronvid the Incessant",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/ronvid_the_incessant.webp",
+          },
+          {
+            name: "Amphibious Assault",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/amphibious_assault.webp",
+          },
+          {
+            name: "Donimir of Troy",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/donimir_of_troy.webp",
+          },
+          {
+            name: "Vernon Roche",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/vernon_roche.webp",
+          },
+          {
+            name: "Smoke Them Out!",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/smoke_them_out.webp",
+          },
+          {
+            name: "Kaedweni Revenant",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/kaedweni_revenant.webp",
+          },
+          {
+            name: "Blue Stripe Commando",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/blue_stripe_commando.webp",
+          },
         ],
       },
       {
