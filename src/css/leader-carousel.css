@@ -62,20 +62,49 @@
   color: #d9d8cb;
   margin-top: 10px;
 }
-/* Cards Grid */
+.cards-lists-container {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .cards-list {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  gap: 5px;
+  position: relative;
+  width: 190px;
+  height: 230px;
+  cursor: pointer;
+  transition: transform 0.5s ease; /* smooth X move */
+  z-index: 1;
 }
-.cards-list-recommended {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  gap: 5px;
+
+.cards-list > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: transform 0.3s ease, z-index 0.3s;
+  transform-origin: top center;
+  transform: translateX(calc(var(--i) * 20px));
 }
+
 .little-card-image {
-  border-radius: 5px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+  width: 150px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+/* Spread cards when stack is open */
+.cards-list > div.spread:nth-child(1) {
+  transform: translate(-100px, 10px) rotate(-10deg);
+  z-index: 1;
+}
+.cards-list > div.spread:nth-child(2) {
+  transform: translate(40, 0) rotate(0deg);
+  z-index: 2;
+}
+.cards-list > div.spread:nth-child(3) {
+  transform: translate(140px, 10px) rotate(10deg);
+  z-index: 3;
 }
 
 /* Card Styles */

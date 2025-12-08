@@ -7,6 +7,9 @@ export default function LeaderCarousel({ leaders }) {
   const baseCards = leader.cards ? leader.cards.slice(0, 12) : [];
   const recommendedCards = leader.cards ? leader.cards.slice(12, 20) : [];
   const [zoomedLeader, setZoomedLeader] = useState(null);
+  const [openStack, setOpenStack] = useState(null);
+  const [openStackRecommended, setOpenStackRecommended] = useState(null);
+  const stacks = Array.from({ length: Math.ceil(baseCards.length / 3) });
 
   // Preload all leader images for smooth experience
   useEffect(() => {
@@ -105,31 +108,66 @@ export default function LeaderCarousel({ leaders }) {
       </div>
       <h2 className="leader-name">{leader.name}</h2>
       <h2 className="group-title">Base Cards</h2>
-      {/* Cards Grid */}
-      <div className="cards-list">
-        {baseCards.map((card, i) => (
-          <div key={`base-${i}`}>
-            <img
-              src={process.env.PUBLIC_URL + card.image}
-              alt={card.name}
-              className="little-card-image"
-              loading="lazy"
-            />
+      <div className="cards-lists-container">
+        {stacks.map((_, stackIndex) => (
+          <div
+            className="cards-list"
+            key={`stack-${stackIndex}`}
+            onClick={() =>
+              setOpenStack(openStack === stackIndex ? null : stackIndex)
+            }
+          >
+            {baseCards
+              .slice(stackIndex * 3, stackIndex * 3 + 3)
+              .map((card, i) => (
+                <div
+                  key={`card-${stackIndex}-${i}`}
+                  style={{ "--i": i }}
+                  className={openStack === stackIndex ? "spread" : ""}
+                >
+                  <img
+                    src={process.env.PUBLIC_URL + card.image}
+                    alt={card.name}
+                    className="little-card-image"
+                    loading="lazy"
+                  />
+                </div>
+              ))}
           </div>
         ))}
       </div>
       <h2 className="group-title">
         Recommended Cards ({recommendedCards.length})
       </h2>
-      <div className="cards-list-recommended">
-        {recommendedCards.map((card, i) => (
-          <div key={`rec-${i}`}>
-            <img
-              src={process.env.PUBLIC_URL + card.image}
-              alt={card.name}
-              className="little-card-image"
-              loading="lazy"
-            />
+      <div className="cards-lists-container">
+        {stacks.map((_, stackIndex) => (
+          <div
+            className="cards-list"
+            key={`stack-${stackIndex}`}
+            onClick={() =>
+              setOpenStackRecommended(
+                openStackRecommended === stackIndex ? null : stackIndex
+              )
+            }
+          >
+            {recommendedCards
+              .slice(stackIndex * 3, stackIndex * 3 + 3)
+              .map((card, i) => (
+                <div
+                  key={`card-${stackIndex}-${i}`}
+                  style={{ "--i": i }}
+                  className={
+                    openStackRecommended === stackIndex ? "spread" : ""
+                  }
+                >
+                  <img
+                    src={process.env.PUBLIC_URL + card.image}
+                    alt={card.name}
+                    className="little-card-image"
+                    loading="lazy"
+                  />
+                </div>
+              ))}
           </div>
         ))}
       </div>
