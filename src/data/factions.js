@@ -697,18 +697,84 @@ export const factions = {
         name: "Queen Meve",
         image: "/assets/cards/leaders/leader_meve.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Lyrian Arbalest",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/lyrian_arbalest.webp",
+          },
+          {
+            name: "Lyrian Arbalest",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/lyrian_arbalest.webp",
+          },
+          {
+            name: "Siege Master",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/siege_master.webp",
+          },
+
+          {
+            name: "Lyrian Scytheman",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/lyrian_scytheman.webp",
+          },
+          {
+            name: "Lyrian Scytheman",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/lyrian_scytheman.webp",
+          },
+          {
+            name: "Siege Tower",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/siege_tower.webp",
+          },
+
+          {
+            name: "Anna Strenger",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/anna_strenger.webp",
+          },
+          {
+            name: "Margarita Laux-Antille",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/margarita_laux_antille.webp",
+          },
+          {
+            name: "Reinforcements",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/reinforcements.webp",
+          },
+
+          {
+            name: "Prince Anseis",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/prince_anseis.webp",
+          },
+          {
+            name: "Amphibious Assault",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/amphibious_assault.webp",
+          },
+          {
+            name: "Viraxas King",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/viraxas_king.webp",
+          },
+          {
+            name: "Dun Banner",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/dun_banner.webp",
+          },
+          {
+            name: "Reinforced Trebuchet",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/reinforced_trebuchet.webp",
+          },
+          {
+            name: "Odrin",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/odrin.webp",
+          },
         ],
       },
       {
@@ -716,18 +782,102 @@ export const factions = {
         name: "Queen Calanthe",
         image: "/assets/cards/leaders/leader_calanthe.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Aretuza Adept",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/aretuza_adept.webp",
+          },
+          {
+            name: "Aretuza Adept",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/aretuza_adept.webp",
+          },
+          {
+            name: "Kaedweni Revenant",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/kaedweni_revenant.webp",
+          },
+
+          {
+            name: "Cintrian Spellweaver",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/cintrian_spellweaver.webp",
+          },
+          {
+            name: "Cintrian Spellweaver",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/cintrian_spellweaver.webp",
+          },
+          {
+            name: "Runeword",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/runewright.webp",
+          },
+
+          {
+            name: "Dethmold",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/dethmold.webp",
+          },
+          {
+            name: "Margarita Laux-Antille",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/margarita_laux_antille.webp",
+          },
+          {
+            name: "Sile de Tansarville",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/sile_de_tansarvile.webp",
+          },
+
+          {
+            name: "Keira Metz",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/keira_metz.webp",
+          },
+          {
+            name: "Viraxas King",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/viraxas_king.webp",
+          },
+          {
+            name: "Draug",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/draug.webp",
+          },
+
+          {
+            name: "Forbidden Magic",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/forbidden_magic.webp",
+          },
+          {
+            name: "Teleportation",
+            rarity: "common",
+            image: "/assets/cards/neutral/teleportation.webp",
+          },
+          {
+            name: "Alzur's Thunder",
+            rarity: "common",
+            image: "/assets/cards/neutral/alzurs_thunder.webp",
+          },
+          {
+            name: "Casting Contest",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/casting_contest.webp",
+          },
+
+          {
+            name: "Alumni",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/alumni.webp",
+          },
+
+          {
+            name: "Necromancy",
+            rarity: "epic",
+            image: "/assets/cards/neutral/necromancy.webp",
+          },
         ],
       },
       {
@@ -735,18 +885,85 @@ export const factions = {
         name: "King Demavend",
         image: "/assets/cards/leaders/leader_demavend.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Winch",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/winch.webp",
+          },
+          {
+            name: "Winch",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/winch.webp",
+          },
+          {
+            name: "Kaedweni Knight",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/kaedweni_knight.webp",
+          },
+
+          {
+            name: "Redanian Knight",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/redanian_knight.webp",
+          },
+          {
+            name: "Redanian Knight",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/redanian_knight.webp",
+          },
+          {
+            name: "Siege Tower",
+            rarity: "rare",
+            image: "/assets/cards/northern_realms/siege_tower.webp",
+          },
+
+          {
+            name: "Seltkirk of Gulet",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/seltkirk_of_gulet.webp",
+          },
+          {
+            name: "Knighthood",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/knighthood.webp",
+          },
+          {
+            name: "War Chariot",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/war_chariot.webp",
+          },
+
+          {
+            name: "Prince Anseis",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/prince_anseis.webp",
+          },
+          {
+            name: "Donimir of Troy",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/donimir_of_troy.webp",
+          },
+          {
+            name: "Shani",
+            rarity: "legendary",
+            image: "/assets/cards/northern_realms/shani.webp",
+          },
+
+          {
+            name: "Lyrian Arbalest",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/lyrian_arbalest.webp",
+          },
+          {
+            name: "Reinforced Trebuchet",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/reinforced_trebuchet.webp",
+          },
+          {
+            name: "Battering Ram",
+            rarity: "common",
+            image: "/assets/cards/northern_realms/battering_ram.webp",
+          },
         ],
       },
     ],
