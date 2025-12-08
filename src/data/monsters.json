@@ -244,7 +244,7 @@
     "image": "/assets/cards/monsters/miruna.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Epic",
+    "rarity": "Legendary",
     "tags": ["Relict", "Deathwish", "Seize"]
   },
   {
@@ -340,7 +340,7 @@
     "image": "/assets/cards/monsters/ritual_sacrifice.webp",
     "faction": "Monsters",
     "type": "Special",
-    "rarity": "Common",
+    "rarity": "Legendary",
     "tags": ["Organic", "Deathwish"]
   },
   {
@@ -348,7 +348,7 @@
     "image": "/assets/cards/monsters/rotfiend.webp",
     "faction": "Monsters",
     "type": "Unit",
-    "rarity": "Common",
+    "rarity": "Rare",
     "tags": ["Necrophage", "Deathwish"]
   },
   {

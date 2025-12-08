@@ -93,24 +93,87 @@ export const factions = {
         image: "/assets/cards/leaders/leader_unseen_elder.webp",
         cards: [
           // Common
-          { name: "Garkain", rarity: "common" },
-          { name: "Garkain", rarity: "common" },
-          { name: "Alp", rarity: "common" },
+          {
+            name: "Garkain",
+            rarity: "common",
+            image: "/assets/cards/monsters/garkain.webp",
+          },
+          {
+            name: "Garkain",
+            rarity: "common",
+            image: "/assets/cards/monsters/garkain.webp",
+          },
+          {
+            name: "Alp",
+            rarity: "common",
+            image: "/assets/cards/monsters/alp.webp",
+          },
 
           // Rare
-          { name: "Nekurat", rarity: "rare" },
-          { name: "Nekurat", rarity: "rare" },
-          { name: "Bruxa", rarity: "rare" },
+          {
+            name: "Nekurat",
+            rarity: "rare",
+            image: "/assets/cards/monsters/nekurat.webp",
+          },
+          {
+            name: "Nekurat",
+            rarity: "rare",
+            image: "/assets/cards/monsters/nekurat.webp",
+          },
+          {
+            name: "Bruxa",
+            rarity: "rare",
+            image: "/assets/cards/monsters/bruxa.webp",
+          },
 
           // Epic
-          { name: "Queen of Night", rarity: "epic" },
-          { name: "Gael", rarity: "epic" },
-          { name: "The Beast", rarity: "epic" },
+          {
+            name: "Queen of Night",
+            rarity: "epic",
+            image: "/assets/cards/monsters/queen_of_the_night.webp",
+          },
+          {
+            name: "Gael",
+            rarity: "epic",
+            image: "/assets/cards/monsters/gael.webp",
+          },
+          {
+            name: "The Beast",
+            rarity: "epic",
+            image: "/assets/cards/monsters/the_beast.webp",
+          },
 
           // Legendary
-          { name: "Crimson Curse", rarity: "legendary" },
-          { name: "Regis Reborn", rarity: "legendary" },
-          { name: "Orianna", rarity: "legendary" },
+          {
+            name: "Crimson Curse",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/crimson_curse.webp",
+          },
+          {
+            name: "Regis Reborn",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/regis_reborn.webp",
+          },
+          {
+            name: "Orianna",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/orianna.webp",
+          },
+          {
+            name: "Feast of Blood",
+            rarity: "common",
+            image: "/assets/cards/monsters/feast_of_blood.webp",
+          },
+          {
+            name: "Undying Thirst",
+            rarity: "common",
+            image: "/assets/cards/neutral/undying_thirst.webp",
+          },
+          {
+            name: "Regis Higher Vampire",
+            rarity: "legendary",
+            image: "/assets/cards/neutral/regis_higher_vampire.webp",
+          },
         ],
       },
       {
@@ -118,18 +181,82 @@ export const factions = {
         name: "Dettlaff van der Eretein",
         image: "/assets/cards/leaders/leader_dettlaff.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Archespore",
+            rarity: "common",
+            image: "/assets/cards/monsters/archespore.webp",
+          },
+          {
+            name: "Archespore",
+            rarity: "common",
+            image: "/assets/cards/monsters/archespore.webp",
+          },
+
+          {
+            name: "Endrega Eggs",
+            rarity: "common",
+            image: "/assets/cards/monsters/endrega_eggs.webp",
+          },
+          {
+            name: "Rotfiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/rotfiend.webp",
+          },
+          {
+            name: "Rotfiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/rotfiend.webp",
+          },
+          {
+            name: "Slyzard",
+            rarity: "rare",
+            image: "/assets/cards/monsters/slyzard.webp",
+          },
+          {
+            name: "Imlerith's Wrath",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imleriths_wrath.webp",
+          },
+          {
+            name: "Imperial Manticore",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imperial_manticore.webp",
+          },
+          {
+            name: "Kayran",
+            rarity: "epic",
+            image: "/assets/cards/monsters/kayran.webp",
+          },
+          {
+            name: "Cave Troll",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/cave_troll.webp",
+          },
+          {
+            name: "Keltullis",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/keltullis.webp",
+          },
+          {
+            name: "Ruehin",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/ruehin.webp",
+          },
+          {
+            name: "Desert Banshee",
+            rarity: "common",
+            image: "/assets/cards/monsters/desert_banshee.webp",
+          },
+          {
+            name: "Parasite",
+            rarity: "epic",
+            image: "/assets/cards/monsters/parasite.webp",
+          },
+          {
+            name: "Miruna",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/miruna.webp",
+          },
         ],
       },
       {
@@ -137,18 +264,82 @@ export const factions = {
         name: "Gernichora",
         image: "/assets/cards/leaders/leader_gernichora.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Griffin",
+            rarity: "common",
+            image: "/assets/cards/monsters/griffin.webp",
+          },
+          {
+            name: "Griffin",
+            rarity: "common",
+            image: "/assets/cards/monsters/griffin.webp",
+          },
+
+          {
+            name: "Predatory Dive",
+            rarity: "common",
+            image: "/assets/cards/monsters/predatory_dive.webp",
+          },
+          {
+            name: "Bruxa",
+            rarity: "rare",
+            image: "/assets/cards/monsters/bruxa.webp",
+          },
+          {
+            name: "Endrega Larva",
+            rarity: "rare",
+            image: "/assets/cards/monsters/endrega_larva.webp",
+          },
+          {
+            name: "Endrega Larva",
+            rarity: "rare",
+            image: "/assets/cards/monsters/endrega_larva.webp",
+          },
+          {
+            name: "Penitent",
+            rarity: "epic",
+            image: "/assets/cards/monsters/penitent.webp",
+          },
+          {
+            name: "Imlerith's Wrath",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imleriths_wrath.webp",
+          },
+          {
+            name: "The Beast",
+            rarity: "epic",
+            image: "/assets/cards/monsters/the_beast.webp",
+          },
+          {
+            name: "The Naglfar",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/the_naglfar.webp",
+          },
+          {
+            name: "Kikimore Queen",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/kikimore_queen.webp",
+          },
+          {
+            name: "Golyat",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/golyat.webp",
+          },
+          {
+            name: "Fiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/fiend.webp",
+          },
+          {
+            name: "Vran Warrior",
+            rarity: "rare",
+            image: "/assets/cards/monsters/vran_warrior.webp",
+          },
+          {
+            name: "Cave Troll",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/cave_troll.webp",
+          },
         ],
       },
       {
@@ -156,18 +347,166 @@ export const factions = {
         name: "Arachas Queen",
         image: "/assets/cards/leaders/leader_arachas_queen.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Aracha's Nest",
+            rarity: "common",
+            image: "/assets/cards/monsters/arachas_nest.webp",
+          },
+          {
+            name: "Aracha's Nest",
+            rarity: "common",
+            image: "/assets/cards/monsters/arachas_nest.webp",
+          },
+          {
+            name: "Endrega Warrior",
+            rarity: "common",
+            image: "/assets/cards/monsters/endrega_warrior.webp",
+          },
+          {
+            name: "Endrega Larva",
+            rarity: "rare",
+            image: "/assets/cards/monsters/endrega_larva.webp",
+          },
+          {
+            name: "Endrega Larva",
+            rarity: "rare",
+            image: "/assets/cards/monsters/endrega_larva.webp",
+          },
+          {
+            name: "Natural Selection",
+            rarity: "rare",
+            image: "/assets/cards/monsters/natural_selection.webp",
+          },
+          {
+            name: "Parasite",
+            rarity: "epic",
+            image: "/assets/cards/monsters/parasite.webp",
+          },
+          {
+            name: "Kayran",
+            rarity: "epic",
+            image: "/assets/cards/monsters/kayran.webp",
+          },
+          {
+            name: "Whispess Tribute",
+            rarity: "epic",
+            image: "/assets/cards/monsters/whispess_tribute.webp",
+          },
+          {
+            name: "Kikimore Queen",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/kikimore_queen.webp",
+          },
+          {
+            name: "Glustyworp",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/glustyworp.webp",
+          },
+          {
+            name: "Ruehin",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/ruehin.webp",
+          },
+          {
+            name: "Endrega Eggs",
+            rarity: "common",
+            image: "/assets/cards/monsters/endrega_eggs.webp",
+          },
+          {
+            name: "Predatory Dive",
+            rarity: "common",
+            image: "/assets/cards/monsters/predatory_dive.webp",
+          },
+
+          {
+            name: "Bone Talisman",
+            rarity: "rare",
+            image: "/assets/cards/neutral/bone_talisman.webp",
+          },
+        ],
+      },
+      {
+        id: "woodland_spirit",
+        name: "Woodland Spirit",
+        image: "/assets/cards/leaders/leader_woodland_spirit.webp",
+        cards: [
+          {
+            name: "Endrega Eggs",
+            rarity: "common",
+            image: "/assets/cards/monsters/endrega_eggs.webp",
+          },
+          {
+            name: "Endrega Eggs",
+            rarity: "common",
+            image: "/assets/cards/monsters/endrega_eggs.webp",
+          },
+
+          {
+            name: "Desert Banshee",
+            rarity: "common",
+            image: "/assets/cards/monsters/desert_banshee.webp",
+          },
+          {
+            name: "Fiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/fiend.webp",
+          },
+          {
+            name: "Fiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/fiend.webp",
+          },
+          {
+            name: "Rotfiend",
+            rarity: "rare",
+            image: "/assets/cards/monsters/rotfiend.webp",
+          },
+          {
+            name: "Brewess",
+            rarity: "epic",
+            image: "/assets/cards/monsters/brewess.webp",
+          },
+          {
+            name: "Weavess",
+            rarity: "epic",
+            image: "/assets/cards/monsters/weavess.webp",
+          },
+          {
+            name: "Whispess",
+            rarity: "epic",
+            image: "/assets/cards/monsters/whispess.webp",
+          },
+
+          {
+            name: "Miruna",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/miruna.webp",
+          },
+          {
+            name: "Cave Troll",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/cave_troll.webp",
+          },
+          {
+            name: "Ritual Sacrifice",
+            rarity: "legendary",
+            image: "/assets/cards/monsters/ritual_sacrifice.webp",
+          },
+          {
+            name: "Vran Warrior",
+            rarity: "common",
+            image: "/assets/cards/monsters/vran_warrior.webp",
+          },
+          {
+            name: "Imperial Manticore",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imperial_manticore.webp",
+          },
+          {
+            name: "Whispess Tribute",
+            rarity: "epic",
+            image: "/assets/cards/monsters/whispess_tribute.webp",
+          },
         ],
       },
     ],
