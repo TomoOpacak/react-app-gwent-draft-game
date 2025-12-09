@@ -129,9 +129,7 @@
     transform: translateY(0px) rotate(0deg);
   }
 }
-.spread {
-  z-index: 999;
-}
+
 /* Animate only when card has .spread class */
 .cards-list > div.spread .little-card-image {
   animation: floatSway 2s ease-in-out infinite;

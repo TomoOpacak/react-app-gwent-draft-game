@@ -972,18 +972,69 @@ export const factions = {
         name: "Emhyr var Emreis",
         image: "/assets/cards/leaders/leader_emhyr.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Ducal Guard",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/ducal_guard.webp",
+          },
+          {
+            name: "Ducal Guard",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/ducal_guard.webp",
+          },
+          {
+            name: "Fangs of the Empire",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/fangs_of_the_empire.webp",
+          },
+
+          {
+            name: "Experimental Remedy",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/experimental_remedy.webp",
+          },
+          {
+            name: "Imperial Diviner",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/imperial_diviner.webp",
+          },
+          {
+            name: "Imperial Diviner",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/imperial_diviner.webp",
+          },
+
+          {
+            name: "Artorious Vigo",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/artorius_vigo.webp",
+          },
+          {
+            name: "Van Moorlehem's Cupbearer",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/van_moorlehems_cupbearer.webp",
+          },
+          {
+            name: "Fringila Vigo",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/fringila_viggo.webp",
+          },
+
+          {
+            name: "Glynnis",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/glynnis_aep_loernach.webp",
+          },
+          {
+            name: "Bribery",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/bribery.webp",
+          },
+          {
+            name: "Coup De Grace",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/coup_de_grace.webp",
+          },
         ],
       },
       {
