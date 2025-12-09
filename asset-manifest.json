@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-app-gwent-draft-game/static/css/main.4670d8b2.css",
-    "main.js": "/react-app-gwent-draft-game/static/js/main.ff64205f.js",
+    "main.css": "/react-app-gwent-draft-game/static/css/main.aa704889.css",
+    "main.js": "/react-app-gwent-draft-game/static/js/main.f42a964f.js",
     "static/js/453.8050899a.chunk.js": "/react-app-gwent-draft-game/static/js/453.8050899a.chunk.js",
     "static/media/GWENTExtraBold.ttf": "/react-app-gwent-draft-game/static/media/GWENTExtraBold.8c66667bb355ebb34020.ttf",
     "index.html": "/react-app-gwent-draft-game/index.html",
-    "main.4670d8b2.css.map": "/react-app-gwent-draft-game/static/css/main.4670d8b2.css.map",
-    "main.ff64205f.js.map": "/react-app-gwent-draft-game/static/js/main.ff64205f.js.map",
+    "main.aa704889.css.map": "/react-app-gwent-draft-game/static/css/main.aa704889.css.map",
+    "main.f42a964f.js.map": "/react-app-gwent-draft-game/static/js/main.f42a964f.js.map",
     "453.8050899a.chunk.js.map": "/react-app-gwent-draft-game/static/js/453.8050899a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4670d8b2.css",
-    "static/js/main.ff64205f.js"
+    "static/css/main.aa704889.css",
+    "static/js/main.f42a964f.js"
   ]
 }
