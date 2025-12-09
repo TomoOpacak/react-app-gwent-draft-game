@@ -983,9 +983,9 @@ export const factions = {
             image: "/assets/cards/nilfgaard/ducal_guard.webp",
           },
           {
-            name: "Fangs of the Empire",
+            name: "Courier",
             rarity: "common",
-            image: "/assets/cards/nilfgaard/fangs_of_the_empire.webp",
+            image: "/assets/cards/nilfgaard/courier.webp",
           },
 
           {
@@ -1010,9 +1010,9 @@ export const factions = {
             image: "/assets/cards/nilfgaard/artorius_vigo.webp",
           },
           {
-            name: "Van Moorlehem's Cupbearer",
+            name: "Cantarella",
             rarity: "epic",
-            image: "/assets/cards/nilfgaard/van_moorlehems_cupbearer.webp",
+            image: "/assets/cards/nilfgaard/cantarella.webp",
           },
           {
             name: "Fringila Vigo",
@@ -1035,6 +1035,22 @@ export const factions = {
             rarity: "legendary",
             image: "/assets/cards/nilfgaard/coup_de_grace.webp",
           },
+
+          {
+            name: "Ducal Guard",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/ducal_guard.webp",
+          },
+          {
+            name: "Isbel of Hagge",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/isbel_of_hagge.webp",
+          },
+          {
+            name: "Yennefer Inovcation",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/yennefers_invocation.webp",
+          },
         ],
       },
       {
@@ -1042,18 +1058,90 @@ export const factions = {
         name: "Ardal aep Dahy",
         image: "/assets/cards/leaders/leader_ardal.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Battle Preparation",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/battle_preparation.webp",
+          },
+          {
+            name: "Battle Preparation",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/battle_preparation.webp",
+          },
+          {
+            name: "Assassination",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/assassination.webp",
+          },
+
+          {
+            name: "Amnesty",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/amnesty.webp",
+          },
+          {
+            name: "Amnesty",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/amnesty.webp",
+          },
+          {
+            name: "Fire Scorpion",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/fire_scorpion.webp",
+          },
+
+          {
+            name: "Treason",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/treason.webp",
+          },
+          {
+            name: "Menno Coehoorn",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/menno_coehoorn.webp",
+          },
+          {
+            name: "Hefty Helge",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/hefty_helge.webp",
+          },
+
+          {
+            name: "Bribery",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/bribery.webp",
+          },
+          {
+            name: "Coup De Grace",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/coup_de_grace.webp",
+          },
+          {
+            name: "Damien De La Tour",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/damien_de_la_tour.webp",
+          },
+          {
+            name: "Magne Division",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/magne_division.webp",
+          },
+          {
+            name: "Tourney Joust",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/tourney_joust.webp",
+          },
+          {
+            name: "Coated Weapons",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/coated_weapons.webp",
+          },
+
+          {
+            name: "Stefan Skellen",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/stefan_skellen.webp",
+          },
         ],
       },
       {
@@ -1080,18 +1168,96 @@ export const factions = {
         name: "Usurper",
         image: "/assets/cards/leaders/leader_usurper.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Thirsty Dame",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/thirsty_dame.webp",
+          },
+          {
+            name: "Thirsty Dame",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/thirsty_dame.webp",
+          },
+          {
+            name: "Emissary",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/emissary.webp",
+          },
+
+          {
+            name: "Van Moorlehem Hunter",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/van_moorlehem_hunter.webp",
+          },
+          {
+            name: "Van Moorlehem Hunter",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/van_moorlehem_hunter.webp",
+          },
+          {
+            name: "Alba Armored Cavalry",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/alba_armored_cavalry.webp",
+          },
+
+          {
+            name: "Treason",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/treason.webp",
+          },
+          {
+            name: "Vanhemar",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/vanhemar.webp",
+          },
+          {
+            name: "Menno Coehoorn",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/menno_coehoorn.webp",
+          },
+
+          {
+            name: "Masquerade Ball",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/masquerade_ball.webp",
+          },
+          {
+            name: "Leo Bonhart",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/leo_bonhart.webp",
+          },
+          {
+            name: "Coup De Grace",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/coup_de_grace.webp",
+          },
+
+          {
+            name: "Mage Infiltrator",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/mage_infiltrator.webp",
+          },
+          {
+            name: "Thanned Turncoat",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/thanned_turncoat.webp",
+          },
+          {
+            name: "Magne Division",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/magne_division.webp",
+          },
+          {
+            name: "Seditious Aristocrats",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/seditious_aristocrats.webp",
+          },
+
+          {
+            name: "Vattier de Rideaux",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/vattier_de_rideaux.webp",
+          },
         ],
       },
     ],

@@ -27,26 +27,8 @@ export default function LeaderCarousel({ leaders }) {
     setCurrentIndex((prev) => (prev === leaders.length - 1 ? 0 : prev + 1));
   };
 
-  // Swipe gesture for mobile
-  let touchStartX = 0;
-  let touchEndX = 0;
-
-  const handleTouchStart = (e) => {
-    touchStartX = e.changedTouches[0].screenX;
-  };
-
-  const handleTouchEnd = (e) => {
-    touchEndX = e.changedTouches[0].screenX;
-    if (touchEndX - touchStartX > 50) prevLeader(); // swipe right
-    else if (touchStartX - touchEndX > 50) nextLeader(); // swipe left
-  };
-
   return (
-    <div
-      className="carousel-container"
-      onTouchStart={handleTouchStart}
-      onTouchEnd={handleTouchEnd}
-    >
+    <div className="carousel-container">
       {/* Leader Carousel */}
       <div className="leader-carousel">
         <button className="arrow" onClick={prevLeader}>
