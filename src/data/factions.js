@@ -23,30 +23,9 @@ export const factions = {
             image: "/assets/cards/monsters/wild_hunt_bruiser.webp",
           },
           {
-            name: "Wild Hunt Hound",
-            rarity: "common",
-            image: "/assets/cards/monsters/wild_hunt_hound.webp",
-          },
-          {
-            name: "Wild Hunt Hound",
-            rarity: "common",
-            image: "/assets/cards/monsters/wild_hunt_hound.webp",
-          },
-
-          {
             name: "Wild Hunt Navigator",
             rarity: "rare",
             image: "/assets/cards/monsters/wild_hunt_navigator.webp",
-          },
-          {
-            name: "Wild Hunt Navigator",
-            rarity: "rare",
-            image: "/assets/cards/monsters/wild_hunt_navigator.webp",
-          },
-          {
-            name: "Barghest",
-            rarity: "rare",
-            image: "/assets/cards/monsters/barghest.webp",
           },
           {
             name: "Naglfar Crew",
@@ -74,16 +53,6 @@ export const factions = {
             image: "/assets/cards/monsters/winter_queen.webp",
           },
           {
-            name: "Imlerith's Wrath",
-            rarity: "epic",
-            image: "/assets/cards/monsters/imleriths_wrath.webp",
-          },
-          {
-            name: "The Beast",
-            rarity: "epic",
-            image: "/assets/cards/monsters/the_beast.webp",
-          },
-          {
             name: "Auberon Conqueror",
             rarity: "legendary",
             image: "/assets/cards/monsters/auberon_conqueror.webp",
@@ -100,29 +69,14 @@ export const factions = {
           },
 
           {
+            name: "Imlerith's Wrath",
+            rarity: "epic",
+            image: "/assets/cards/monsters/imleriths_wrath.webp",
+          },
+          {
             name: "The Naglfar",
             rarity: "legendary",
             image: "/assets/cards/monsters/the_naglfar.webp",
-          },
-          {
-            name: "Auberon Invader",
-            rarity: "legendary",
-            image: "/assets/cards/monsters/auberon_invader.webp",
-          },
-          {
-            name: "Parasite",
-            rarity: "epic",
-            image: "/assets/cards/monsters/parasite.webp",
-          },
-          {
-            name: "Swallow",
-            rarity: "rare",
-            image: "/assets/cards/neutral/swallow.webp",
-          },
-          {
-            name: "Pact",
-            rarity: "rare",
-            image: "/assets/cards/neutral/pact.webp",
           },
         ],
       },

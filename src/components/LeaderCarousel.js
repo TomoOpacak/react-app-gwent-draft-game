@@ -4,12 +4,12 @@ import "../css/leader-carousel.css";
 export default function LeaderCarousel({ leaders }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const leader = leaders[currentIndex];
-  const baseCards = leader.cards ? leader.cards.slice(0, 20) : [];
-  const recommendedCards = leader.cards ? leader.cards.slice(20, 30) : [];
+  const baseCards = leader.cards ? leader.cards.slice(0, 12) : [];
+  const recommendedCards = leader.cards ? leader.cards.slice(12, 18) : [];
   const [zoomedLeader, setZoomedLeader] = useState(null);
   const [openStack, setOpenStack] = useState(null);
   const [openStackRecommended, setOpenStackRecommended] = useState(null);
-  const stacks = Array.from({ length: Math.ceil(baseCards.length / 5) });
+  const stacks = Array.from({ length: Math.ceil(baseCards.length / 6) });
 
   // Preload all leader images for smooth experience
   useEffect(() => {
@@ -118,7 +118,7 @@ export default function LeaderCarousel({ leaders }) {
             }
           >
             {baseCards
-              .slice(stackIndex * 5, stackIndex * 5 + 5)
+              .slice(stackIndex * 6, stackIndex * 6 + 6)
               .map((card, i) => (
                 <div
                   key={`card-${stackIndex}-${i}`}
@@ -151,7 +151,7 @@ export default function LeaderCarousel({ leaders }) {
             }
           >
             {recommendedCards
-              .slice(stackIndex * 5, stackIndex * 5 + 5)
+              .slice(stackIndex * 6, stackIndex * 6 + 6)
               .map((card, i) => (
                 <div
                   key={`card-${stackIndex}-${i}`}

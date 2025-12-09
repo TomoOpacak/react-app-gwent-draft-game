@@ -65,13 +65,13 @@
 .cards-lists-container {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 50px;
   justify-content: center;
 }
 
 .cards-list {
   position: relative;
-  width: 270px;
+  width: 275px;
   height: 235px;
   cursor: pointer;
   transition: transform 0.5s ease; /* smooth X move */
@@ -84,7 +84,7 @@
   left: 0;
   transition: transform 0.3s ease, z-index 0.3s;
   transform-origin: top center;
-  transform: translateX(calc(var(--i) * 30px));
+  transform: translateX(calc(var(--i) * 25px));
 }
 
 .little-card-image {
@@ -94,24 +94,28 @@
 }
 
 .cards-list > div.spread:nth-child(1) {
-  transform: translate(-50px, 10px) rotate(-10deg);
+  transform: translate(-50px, 40px) rotate(-10deg);
   z-index: 1;
 }
 .cards-list > div.spread:nth-child(2) {
-  transform: translate(50px, 20px) rotate(0deg);
+  transform: translate(50px, 30px) rotate(0deg);
   z-index: 2;
 }
 .cards-list > div.spread:nth-child(3) {
-  transform: translate(170px, 10px) rotate(10deg);
+  transform: translate(170px, 40px) rotate(10deg);
   z-index: 3;
 }
 .cards-list > div.spread:nth-child(4) {
-  transform: translate(0px, -120px) rotate(-10deg);
+  transform: translate(-50px, -200px) rotate(-10deg);
   z-index: 4;
 }
 .cards-list > div.spread:nth-child(5) {
-  transform: translate(140px, -120px) rotate(10deg);
+  transform: translate(50px, -210px) rotate(0deg);
   z-index: 5;
+}
+.cards-list > div.spread:nth-child(6) {
+  transform: translate(170px, -200px) rotate(10deg);
+  z-index: 6;
 }
 
 @keyframes floatSway {
@@ -119,16 +123,18 @@
     transform: translateY(0px) rotate(0deg);
   }
   50% {
-    transform: translateY(-50px) rotate(1.5deg);
+    transform: translateY(-30px) rotate(1.5deg);
   }
   100% {
     transform: translateY(0px) rotate(0deg);
   }
 }
-
+.spread {
+  z-index: 999;
+}
 /* Animate only when card has .spread class */
 .cards-list > div.spread .little-card-image {
-  animation: floatSway 2.5s ease-in-out infinite;
+  animation: floatSway 2s ease-in-out infinite;
 }
 .cards-list > div:nth-child(1) .little-card-image {
   animation-delay: 0s;
@@ -141,10 +147,13 @@
   animation-delay: 0.3s;
 }
 .cards-list > div:nth-child(4) .little-card-image {
-  animation-delay: 0.4s;
+  animation-delay: 0.05s;
 }
 .cards-list > div:nth-child(5) .little-card-image {
-  animation-delay: 0.5s;
+  animation-delay: 0.2;
+}
+.cards-list > div:nth-child(6) .little-card-image {
+  animation-delay: 0.35s;
 }
 
 /* Card Styles */
