@@ -4,15 +4,6 @@
   align-items: center;
 }
 
-/*.monsters {
-  color: #9b1c0e;
-}
-.northern-realms {
-  color: #1d4ed8;
-}
-.nilfgaard {
-  color: #ffffff;
-}*/
 .carousel-container {
   display: flex;
   flex-direction: column;
@@ -56,6 +47,7 @@
   color: #fff;
   text-align: center;
 }
+
 .group-title {
   font-size: 22px;
   font-family: "Gwent";
@@ -92,7 +84,9 @@
   border-radius: 8px;
   transition: transform 0.3s ease;
 }
-
+.spread {
+  z-index: 10;
+}
 .cards-list > div.spread:nth-child(1) {
   transform: translate(-50px, 40px) rotate(-10deg);
   z-index: 1;

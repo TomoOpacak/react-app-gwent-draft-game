@@ -67,7 +67,11 @@ export const factions = {
             rarity: "legendary",
             image: "/assets/cards/monsters/ard_gaeth.webp",
           },
-
+          {
+            name: "Wild Hunt Hound",
+            rarity: "common",
+            image: "/assets/cards/monsters/wild_hunt_hound.webp",
+          },
           {
             name: "Imlerith's Wrath",
             rarity: "epic",

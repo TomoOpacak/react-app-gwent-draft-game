@@ -117,7 +117,7 @@
     "faction": "Monsters",
     "type": "Unit",
     "rarity": "Common",
-    "tags": ["Specter", "Deploy", "Spawn", "Deathwish"]
+    "tags": ["Insectoid", "Deploy", "Spawn", "Deathwish"]
   },
   {
     "name": "Endrega Larva",
