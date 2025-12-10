@@ -1274,18 +1274,97 @@ export const factions = {
         name: "Dana Méadbh",
         image: "/assets/cards/leaders/leader_dana.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Dryad Fledgling",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dryad_fledgling.webp",
+          },
+          {
+            name: "Dryad Fledgling",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dryad_fledgling.webp",
+          },
+          {
+            name: "Trained Hawk",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/trained_hawk.webp",
+          },
+
+          {
+            name: "Vrihedd Brigade",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/vrihedd_brigade.webp",
+          },
+          {
+            name: "Forest Whisperer",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/forest_whisperer.webp",
+          },
+          {
+            name: "Forest Whisperer",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/forest_whisperer.webp",
+          },
+
+          {
+            name: "Pavko Gale",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/pavko_gale.webp",
+          },
+          {
+            name: "Percival Schuttenbach",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/percival_schuttenbach.webp",
+          },
+          {
+            name: "Sirssa",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/sirssa.webp",
+          },
+
+          {
+            name: "Water of Borkilon",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/water_of_brokilon.webp",
+          },
+          {
+            name: "Shaping Nature",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/shaping_nature.webp",
+          },
+          {
+            name: "Call of the Forest",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/call_of_the_forest.webp",
+          },
+
+          {
+            name: "Dryad Ranger",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dryad_ranger.webp",
+          },
+          {
+            name: "Half-Elf Hunter",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/half-elf_hunter.webp",
+          },
+
+          {
+            name: "Barnabas Beckenbauer",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/barnabas_beckenbauer.webp",
+          },
+
+          {
+            name: "Fauve",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/fauve.webp",
+          },
+          {
+            name: "Isengrim's Council",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/isengrims_council.webp",
+          },
         ],
       },
       {
@@ -1293,18 +1372,97 @@ export const factions = {
         name: "Brouver Hoog ",
         image: "/assets/cards/leaders/leader_brouver.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Mahakam Volunteers",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/mahakam_volunteers.webp",
+          },
+          {
+            name: "Mahakam Volunteers",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/mahakam_volunteers.webp",
+          },
+          {
+            name: "Mahakam Guard",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/mahakam_guard.webp",
+          },
+
+          {
+            name: "Dwarf Berserker",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/dwarf_berserker.webp",
+          },
+          {
+            name: "Tempering",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/tempering.webp",
+          },
+          {
+            name: "Tempering",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/tempering.webp",
+          },
+
+          {
+            name: "Barclay Els",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/barclay_els.webp",
+          },
+          {
+            name: "Dennis Cranmer",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/dennis_cranmer.webp",
+          },
+          {
+            name: "Xavier Moran",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/xavier_moran.webp",
+          },
+
+          {
+            name: "Figgs Merluzo",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/figgs_merluzo.webp",
+          },
+          {
+            name: "Gabor Zigrin",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/gabor_zigrin.webp",
+          },
+          {
+            name: "Zoltan Chivay",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/zoltan_chivay.webp",
+          },
+
+          {
+            name: "Mahakam Defender",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/mahakam_defender.webp",
+          },
+
+          {
+            name: "Zoltan's Company",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/zoltans_company.webp",
+          },
+          {
+            name: "Yarpen Zigrin",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/yarpen_zigrin.webp",
+          },
+
+          {
+            name: "Zoltan Warrior",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/zoltan_warrior.webp",
+          },
+          {
+            name: "Zoltan Scoundrel",
+            rarity: "legendary",
+            image: "/assets/cards/neutral/zoltan_scoundrel.webp",
+          },
         ],
       },
       {
@@ -1312,18 +1470,91 @@ export const factions = {
         name: "Queen Eithné",
         image: "/assets/cards/leaders/leader_eithne.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Dol Blathanna Sentry",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dol_blathanna_sentry.webp",
+          },
+          {
+            name: "Dol Blathanna Sentry",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dol_blathanna_sentry.webp",
+          },
+          {
+            name: "Nature's Rebuke",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/natures_rebuke.webp",
+          },
+
+          {
+            name: "Forest Whisperer",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/forest_whisperer.webp",
+          },
+          {
+            name: "Vrihedd Brigade",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/vrihedd_brigade.webp",
+          },
+          {
+            name: "Vrihedd Brigade",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/vrihedd_brigade.webp",
+          },
+
+          {
+            name: "Malena",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/malena.webp",
+          },
+          {
+            name: "Morenn",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/morenn.webp",
+          },
+          {
+            name: "Treant Boar",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/treant_boar.webp",
+          },
+
+          {
+            name: "Shaping Nature",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/shaping_nature.webp",
+          },
+          {
+            name: "Fauve",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/fauve.webp",
+          },
+          {
+            name: "Figgs Merluzo",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/figgs_merluzo.webp",
+          },
+
+          {
+            name: "Hamadryad",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/hamadryad.webp",
+          },
+          {
+            name: "Dryad Grovekeeper",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dryad_grovekeeper.webp",
+          },
+          {
+            name: "Dryad's Caress",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/dryads_caress.webp",
+          },
+
+          {
+            name: "Serpent Trap",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/serpent_trap.webp",
+          },
         ],
       },
       {
@@ -1331,18 +1562,101 @@ export const factions = {
         name: "Iorveth",
         image: "/assets/cards/leaders/leader_iorveth.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Half-Elf Hunter",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/half-elf_hunter.webp",
+          },
+          {
+            name: "Half-Elf Hunter",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/half-elf_hunter.webp",
+          },
+          {
+            name: "Vrihedd Officer",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/vrihedd_officer.webp",
+          },
+
+          {
+            name: "Vrihedd Vanguard",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/vrihedd_vanguard.webp",
+          },
+          {
+            name: "Elven Swordmaster",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/elven_swordmaster.webp",
+          },
+          {
+            name: "Elven Swordmaster",
+            rarity: "rare",
+            image: "/assets/cards/scoiatael/elven_swordmaster.webp",
+          },
+
+          {
+            name: "Ciaran aep Easnillen",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/ciaran_aep_easnillen.webp",
+          },
+          {
+            name: "Milaen",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/milaen.webp",
+          },
+          {
+            name: "Yaevinn",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/yaevinn.webp",
+          },
+
+          {
+            name: "Aelirenn",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/aelirenn.webp",
+          },
+          {
+            name: "Isengrim Faoiltiarna",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/isengrim_faoiltiarna.webp",
+          },
+          {
+            name: "Feign Death",
+            rarity: "legendary",
+            image: "/assets/cards/scoiatael/feign_death.webp",
+          },
+
+          {
+            name: "Trapmaker",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/trapmaker.webp",
+          },
+          {
+            name: "Pitfall Trap",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/pitfall_trap.webp",
+          },
+          {
+            name: "Incinerating Trap",
+            rarity: "common",
+            image: "/assets/cards/scoiatael/incinerating_trap.webp",
+          },
+
+          {
+            name: "Mahakam Horn",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/mahakam_horn.webp",
+          },
+          {
+            name: "Serpent Trap",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/serpent_trap.webp",
+          },
+          {
+            name: "Deception",
+            rarity: "epic",
+            image: "/assets/cards/scoiatael/deception.webp",
+          },
         ],
       },
     ],

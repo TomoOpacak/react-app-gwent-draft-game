@@ -244,7 +244,7 @@
     "image": "/assets/cards/scoiatael/mahakam_guard.webp",
     "faction": "Scoiatael",
     "type": "Unit",
-    "rarity": "Rare",
+    "rarity": "Common",
     "tags": ["Dwarf", "Soldier", "Deploy"]
   },
   {
