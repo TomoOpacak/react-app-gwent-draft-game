@@ -1750,18 +1750,97 @@ export const factions = {
         name: "Cleaver",
         image: "/assets/cards/leaders/leader_cleaver.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Bare-Knuckle Brawler",
+            rarity: "common",
+            image: "/assets/cards/syndicate/bare-knuckle_brawler.webp",
+          },
+          {
+            name: "Bare-Knuckle Brawler",
+            rarity: "common",
+            image: "/assets/cards/syndicate/bare-knuckle_brawler.webp",
+          },
+          {
+            name: "Line of Credit",
+            rarity: "common",
+            image: "/assets/cards/syndicate/line_of_credit.webp",
+          },
+
+          {
+            name: "Sly Seductress",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/sly_seductress.webp",
+          },
+          {
+            name: "Sly Seductress",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/sly_seductress.webp",
+          },
+          {
+            name: "Cleaver's Muscle",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/cleavers_muscle.webp",
+          },
+
+          {
+            name: "Tunnel Drill",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/tunnel_drill.webp",
+          },
+          {
+            name: "Pickpocket",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/pickpocket.webp",
+          },
+          {
+            name: "Ludovicus Brunenbaum",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/ludovicus_brunenbaum.webp",
+          },
+
+          {
+            name: "Novigradian Justice",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/novigradian_justice.webp",
+          },
+          {
+            name: "One Night at the Passiflora",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/one_night_at_the_passiflora.webp",
+          },
+          {
+            name: "The Sausage Maker",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/the_sausage_maker.webp",
+          },
+
+          {
+            name: "Shakedown",
+            rarity: "common",
+            image: "/assets/cards/syndicate/shakedown.webp",
+          },
+          {
+            name: "Bloody Good Fun",
+            rarity: "common",
+            image: "/assets/cards/syndicate/bloody_good_fun.webp",
+          },
+          {
+            name: "Crownsplitter thug",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/crownsplitter_thug.webp",
+          },
+
+          {
+            name: "Shady Vendor",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/shady_vendor.webp",
+          },
+
+          {
+            name: "Ferko the Sculptor",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/ferko_the_sculptor.webp",
+          },
         ],
       },
       {
@@ -1769,18 +1848,102 @@ export const factions = {
         name: "Cyrus Engelking Hemmelfart",
         image: "/assets/cards/leaders/leader_cyrus.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Congregation",
+            rarity: "common",
+            image: "/assets/cards/syndicate/congregation.webp",
+          },
+          {
+            name: "Congregation",
+            rarity: "common",
+            image: "/assets/cards/syndicate/congregation.webp",
+          },
+          {
+            name: "Fallen Knight",
+            rarity: "common",
+            image: "/assets/cards/syndicate/fallen_knight.webp",
+          },
+
+          {
+            name: "Lonely Champion",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/lonely_champion.webp",
+          },
+          {
+            name: "Keeper of the Flame",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/keeper_of_the_flame.webp",
+          },
+          {
+            name: "Keeper of the Flame",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/keeper_of_the_flame.webp",
+          },
+
+          {
+            name: "Excommunication",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/excommunication.webp",
+          },
+          {
+            name: "Lieutenant von Herst",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/lieutenant_von_herst.webp",
+          },
+          {
+            name: "Procession of Penance",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/procession_of_penance.webp",
+          },
+
+          {
+            name: "Sacred Flame",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/sacred_flame.webp",
+          },
+          {
+            name: "Dies Irae",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/dies_irae.webp",
+          },
+          {
+            name: "Grand Inquisitor Helveed",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/grand_inquisitor_helveed.webp",
+          },
+
+          {
+            name: "Lonely Champion",
+            rarity: "common",
+            image: "/assets/cards/syndicate/lonely_champion.webp",
+          },
+          {
+            name: "Cleric of the Flaming Rose",
+            rarity: "common",
+            image: "/assets/cards/syndicate/cleric_of_the_flaming_rose.webp",
+          },
+          {
+            name: "Eternal Fire Disciple",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/eternal_fire_disciple.webp",
+          },
+
+          {
+            name: "Roderick de Wett",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/roderick_de_wett.webp",
+          },
+
+          {
+            name: "Sacred Flame",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/sacred_flame.webp",
+          },
+          {
+            name: "Jacques de Aldersberg",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/jacques_de_aldersberg.webp",
+          },
         ],
       },
       {
@@ -1788,18 +1951,103 @@ export const factions = {
         name: "Sigi Reuven",
         image: "/assets/cards/leaders/leader_sigi.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Beggar",
+            rarity: "common",
+            image: "/assets/cards/syndicate/beggar.webp",
+          },
+          {
+            name: "Beggar",
+            rarity: "common",
+            image: "/assets/cards/syndicate/beggar.webp",
+          },
+          {
+            name: "Payroll Specialist",
+            rarity: "common",
+            image: "/assets/cards/syndicate/payroll_specialist.webp",
+          },
+
+          {
+            name: "Shady Vendor",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/shady_vendor.webp",
+          },
+          {
+            name: "Blindeye Apothecary",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/blindeye_apothecary.webp",
+          },
+          {
+            name: "Blindeye Apothecary",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/blindeye_apothecary.webp",
+          },
+
+          {
+            name: "Excommunication",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/excommunication.webp",
+          },
+          {
+            name: "Lieutenant von Herst",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/lieutenant_von_herst.webp",
+          },
+          {
+            name: "Procession of Penance",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/procession_of_penance.webp",
+          },
+
+          {
+            name: "Kurt",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/kurt.webp",
+          },
+          {
+            name: "Philipa Eilhart",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/philippa_eilhart.webp",
+          },
+          {
+            name: "Tamara Strenger",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/tamara_strenger.webp",
+          },
+
+          {
+            name: "Witch Hunter Executioner",
+            rarity: "common",
+            image: "/assets/cards/syndicate/witch_hunter_executioner.webp",
+          },
+          {
+            name: "Witch Hunter",
+            rarity: "common",
+            image: "/assets/cards/syndicate/witch_hunter.webp",
+          },
+
+          {
+            name: "Hysteria",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/hysteria.webp",
+          },
+
+          {
+            name: "Street Urchins",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/street_urchins.webp",
+          },
+
+          {
+            name: "Conjurer's Candle",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/conjurers_candle.webp",
+          },
+          {
+            name: "Novigrad",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/novigrad.webp",
+          },
         ],
       },
       {
@@ -1807,18 +2055,86 @@ export const factions = {
         name: "Whoreson Junior",
         image: "/assets/cards/leaders/leader_whoreson_junior.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Casino Bouncers",
+            rarity: "common",
+            image: "/assets/cards/syndicate/casino_bouncers.webp",
+          },
+          {
+            name: "Casino Bouncers",
+            rarity: "common",
+            image: "/assets/cards/syndicate/casino_bouncers.webp",
+          },
+          {
+            name: "Payday",
+            rarity: "common",
+            image: "/assets/cards/syndicate/payday.webp",
+          },
+
+          {
+            name: "Bloody Good Fun",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/bloody_good_fun.webp",
+          },
+          {
+            name: "Street Urchins",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/street_urchins.webp",
+          },
+          {
+            name: "Street Urchins",
+            rarity: "rare",
+            image: "/assets/cards/syndicate/street_urchins.webp",
+          },
+
+          {
+            name: "Pugo Boom-Breaker",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/pugo_boom-breaker.webp",
+          },
+          {
+            name: "Whoreson's Freak Show",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/whoresons_freak_show.webp",
+          },
+          {
+            name: "Eveline Galo",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/eveline_gallo.webp",
+          },
+
+          {
+            name: "Tinboy",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/tinboy.webp",
+          },
+          {
+            name: "Novigrad",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/novigrad.webp",
+          },
+          {
+            name: "Azar Javed",
+            rarity: "legendary",
+            image: "/assets/cards/syndicate/azar_javed.webp",
+          },
+
+          {
+            name: "Fisstech",
+            rarity: "common",
+            image: "/assets/cards/syndicate/fisstech.webp",
+          },
+          {
+            name: "Tax Collector",
+            rarity: "common",
+            image: "/assets/cards/syndicate/tax_collector.webp",
+          },
+
+          {
+            name: "Pickpocket",
+            rarity: "epic",
+            image: "/assets/cards/syndicate/pickpocket.webp",
+          },
         ],
       },
     ],

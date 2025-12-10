@@ -260,7 +260,7 @@
     "image": "/assets/cards/syndicate/keeper_of_the_flame.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
+    "rarity": "Rare",
     "tags": ["Human", "Firesworn", "Cleric", "Deploy", "Tribute"]
   },
   {
@@ -364,7 +364,7 @@
     "image": "/assets/cards/syndicate/philippa_eilhart.webp",
     "faction": "Syndicate",
     "type": "Unit",
-    "rarity": "Common",
+    "rarity": "Legendary",
     "tags": ["Human", "Mage", "Deploy", "Seize", "Coin"]
   },
   {
