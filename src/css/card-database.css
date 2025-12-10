@@ -61,7 +61,9 @@ img {
   height: auto;
   border-radius: 6px;
 }
-
+.card-item:active {
+  transform: scale(0.95);
+}
 .zoom-overlay {
   position: fixed;
   top: 0;
@@ -86,7 +88,7 @@ img {
 /* Responsive */
 @media (max-width: 500px) {
   .zoom-image {
-    width: 90%;
+    width: 65%;
     height: auto;
   }
 }

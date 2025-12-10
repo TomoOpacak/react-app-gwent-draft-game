@@ -40,7 +40,9 @@
   border-radius: 12px;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
 }
-
+.leader-image:active {
+  transform: scale(0.9);
+}
 .leader-name {
   font-size: 28px;
   font-family: "Gwent";
