@@ -1153,18 +1153,85 @@ export const factions = {
         name: "Anna Henrietta",
         image: "/assets/cards/leaders/leader_anna.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Slave Infantry",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/slave_infantry.webp",
+          },
+          {
+            name: "Slave Infantry",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/slave_infantry.webp",
+          },
+          {
+            name: "Recruit",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/recruit.webp",
+          },
+
+          {
+            name: "Impera Brigade",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/impera_brigade.webp",
+          },
+          {
+            name: "Impera Brigade",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/impera_brigade.webp",
+          },
+          {
+            name: "Toussaintois Knight Errant",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/toussaintois_knight_errant.webp",
+          },
+
+          {
+            name: "Affan Hillergrand",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/affan_hillergrand.webp",
+          },
+          {
+            name: "Sweers",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/sweers.webp",
+          },
+          {
+            name: "Vreemde",
+            rarity: "epic",
+            image: "/assets/cards/nilfgaard/vreemde.webp",
+          },
+
+          {
+            name: "Joachim de Wett",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/joachim_de_wett.webp",
+          },
+          {
+            name: "Rience",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/rience.webp",
+          },
+          {
+            name: "Ffion var Gaernel",
+            rarity: "legendary",
+            image: "/assets/cards/nilfgaard/ffion_var_gaernel.webp",
+          },
+
+          {
+            name: "Nilfgaardian Knight",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/nilfgaardian_knight.webp",
+          },
+          {
+            name: "Hunting Pack",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/hunting_pack.webp",
+          },
+          {
+            name: "Alba Pikeman",
+            rarity: "common",
+            image: "/assets/cards/nilfgaard/alba_pikeman.webp",
+          },
         ],
       },
       {
@@ -1669,18 +1736,98 @@ export const factions = {
         name: "Crach an Craite",
         image: "/assets/cards/leaders/leader_crach.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Dimun Light Longship",
+            rarity: "common",
+            image: "/assets/cards/skellige/dimun_light_longship.webp",
+          },
+          {
+            name: "Dimun Light Longship",
+            rarity: "common",
+            image: "/assets/cards/skellige/dimun_light_longship.webp",
+          },
+          {
+            name: "Drummond Warmonger",
+            rarity: "common",
+            image: "/assets/cards/skellige/drummond_warmonger.webp",
+          },
+
+          {
+            name: "An Craite Longship",
+            rarity: "rare",
+            image: "/assets/cards/skellige/an_craite_longship.webp",
+          },
+          {
+            name: "An Craite Greatsword",
+            rarity: "rare",
+            image: "/assets/cards/skellige/an_craite_greatsword.webp",
+          },
+          {
+            name: "An Craite Greatsword",
+            rarity: "rare",
+            image: "/assets/cards/skellige/an_craite_greatsword.webp",
+          },
+
+          {
+            name: "Morkvarg",
+            rarity: "epic",
+            image: "/assets/cards/skellige/morkvarg.webp",
+          },
+          {
+            name: "Raiding Fleet",
+            rarity: "epic",
+            image: "/assets/cards/skellige/raiding_fleet.webp",
+          },
+          {
+            name: "Offering to the Sea",
+            rarity: "epic",
+            image: "/assets/cards/skellige/offering_to_the_sea.webp",
+          },
+
+          {
+            name: "Dagur Two Blades",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/dagur_two_blades.webp",
+          },
+
+          {
+            name: "Morkvarg Heart of Terror",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/morkvarg_heart_of_terror.webp",
+          },
+          {
+            name: "Cerys an Craite",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/cerys_an_craite.webp",
+          },
+
+          {
+            name: "An Craite Blacksmith",
+            rarity: "common",
+            image: "/assets/cards/skellige/an_craite_blacksmith.webp",
+          },
+          {
+            name: "An Craite Marauder",
+            rarity: "common",
+            image: "/assets/cards/skellige/an_craite_marauder.webp",
+          },
+
+          {
+            name: "An Craite Warrior",
+            rarity: "rare",
+            image: "/assets/cards/skellige/an_craite_warrior.webp",
+          },
+          {
+            name: "Drummond Queensguard",
+            rarity: "rare",
+            image: "/assets/cards/skellige/drummond_queensguard.webp",
+          },
+
+          {
+            name: "Naval Supremacy",
+            rarity: "epic",
+            image: "/assets/cards/skellige/naval_supremacy.webp",
+          },
         ],
       },
       {
@@ -1688,18 +1835,102 @@ export const factions = {
         name: "Harald an Craite",
         image: "/assets/cards/leaders/leader_harald.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Freya's Blessing",
+            rarity: "common",
+            image: "/assets/cards/skellige/freyas_blessing.webp",
+          },
+          {
+            name: "Freya's Blessing",
+            rarity: "common",
+            image: "/assets/cards/skellige/freyas_blessing.webp",
+          },
+          {
+            name: "Mardroeme",
+            rarity: "common",
+            image: "/assets/cards/skellige/mardroeme.webp",
+          },
+
+          {
+            name: "Crow Clan Druid",
+            rarity: "rare",
+            image: "/assets/cards/skellige/crow_clan_druid.webp",
+          },
+          {
+            name: "Crow Clan Preacher",
+            rarity: "rare",
+            image: "/assets/cards/skellige/crow_clan_preacher.webp",
+          },
+          {
+            name: "Crow Clan Preacher",
+            rarity: "rare",
+            image: "/assets/cards/skellige/crow_clan_preacher.webp",
+          },
+
+          {
+            name: "Axel Three-Eyes",
+            rarity: "epic",
+            image: "/assets/cards/skellige/axel_three-eyes.webp",
+          },
+          {
+            name: "Vildkaarl",
+            rarity: "epic",
+            image: "/assets/cards/skellige/vildkaarl.webp",
+          },
+          {
+            name: "Sigrdrifa's Rite",
+            rarity: "epic",
+            image: "/assets/cards/skellige/sigrdrifas_rite.webp",
+          },
+
+          {
+            name: "Crowmother",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/crowmother.webp",
+          },
+          {
+            name: "Dracoturtle",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/dracoturtle.webp",
+          },
+          {
+            name: "Ermion",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/ermion.webp",
+          },
+
+          {
+            name: "Heymaey Herbalist",
+            rarity: "common",
+            image: "/assets/cards/skellige/heymaey_herbalist.webp",
+          },
+          {
+            name: "Crow's-eye Rhizome",
+            rarity: "common",
+            image: "/assets/cards/skellige/crows-eye_rhizome.webp",
+          },
+
+          {
+            name: "Svalblod Priest",
+            rarity: "rare",
+            image: "/assets/cards/skellige/svalblod_priest.webp",
+          },
+          {
+            name: "Crow Messenger",
+            rarity: "rare",
+            image: "/assets/cards/skellige/crow_messenger.webp",
+          },
+
+          {
+            name: "Offering to the Sea",
+            rarity: "epic",
+            image: "/assets/cards/skellige/offering_to_the_sea.webp",
+          },
+          {
+            name: "Restore",
+            rarity: "epic",
+            image: "/assets/cards/skellige/restore.webp",
+          },
         ],
       },
       {
@@ -1707,18 +1938,103 @@ export const factions = {
         name: "Svalblod",
         image: "/assets/cards/leaders/leader_svalblod.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "Svalblod Fanatic",
+            rarity: "common",
+            image: "/assets/cards/skellige/svalblod_fanatic.webp",
+          },
+          {
+            name: "Svalblod Fanatic",
+            rarity: "common",
+            image: "/assets/cards/skellige/svalblod_fanatic.webp",
+          },
+          {
+            name: "Drummond Berserker",
+            rarity: "common",
+            image: "/assets/cards/skellige/drummond_berserker.webp",
+          },
+
+          {
+            name: "Armored Drakkar",
+            rarity: "rare",
+            image: "/assets/cards/skellige/armored_drakkar.webp",
+          },
+          {
+            name: "Svalblod Priest",
+            rarity: "rare",
+            image: "/assets/cards/skellige/svalblod_priest.webp",
+          },
+          {
+            name: "Svalblod Priest",
+            rarity: "rare",
+            image: "/assets/cards/skellige/svalblod_priest.webp",
+          },
+
+          {
+            name: "Vildkaarl",
+            rarity: "epic",
+            image: "/assets/cards/skellige/vildkaarl.webp",
+          },
+          {
+            name: "Yoanna",
+            rarity: "epic",
+            image: "/assets/cards/skellige/yoana.webp",
+          },
+          {
+            name: "Offering to the Sea",
+            rarity: "epic",
+            image: "/assets/cards/skellige/offering_to_the_sea.webp",
+          },
+
+          {
+            name: "Covenant of Steel",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/covenant_of_steel.webp",
+          },
+          {
+            name: "Dracoturtle",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/dracoturtle.webp",
+          },
+          {
+            name: "Svalblod Totem",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/svalblod_totem.webp",
+          },
+
+          {
+            name: "Heymaey Herbalist",
+            rarity: "common",
+            image: "/assets/cards/skellige/heymaey_herbalist.webp",
+          },
+          {
+            name: "Primal Savagery",
+            rarity: "common",
+            image: "/assets/cards/skellige/primal_savagery.webp",
+          },
+
+          {
+            name: "Svalblod Cultist",
+            rarity: "rare",
+            image: "/assets/cards/skellige/svalblod_cultist.webp",
+          },
+          {
+            name: "Drummond Queensguard",
+            rarity: "rare",
+            image: "/assets/cards/skellige/drummond_queensguard.webp",
+          },
+
+          {
+            name: "Svalblod Ravager",
+            rarity: "epic",
+            image: "/assets/cards/skellige/svalblod_ravager.webp",
+          },
+
+          {
+            name: "Morkvarg Heart of Terror",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/morkvarg_heart_of_terror.webp",
+          },
         ],
       },
       {
@@ -1726,18 +2042,103 @@ export const factions = {
         name: "King Bran",
         image: "/assets/cards/leaders/leader_bran.webp",
         cards: [
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "common" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "rare" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "epic" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
-          { name: "Placeholder", rarity: "legendary" },
+          {
+            name: "An Craite Warrior",
+            rarity: "common",
+            image: "/assets/cards/skellige/an_craite_warrior.webp",
+          },
+          {
+            name: "An Craite Warrior",
+            rarity: "common",
+            image: "/assets/cards/skellige/an_craite_warrior.webp",
+          },
+          {
+            name: "Stunning Blow",
+            rarity: "common",
+            image: "/assets/cards/skellige/stunning_blow.webp",
+          },
+
+          {
+            name: "An Craite Greatsword",
+            rarity: "rare",
+            image: "/assets/cards/skellige/an_craite_greatsword.webp",
+          },
+          {
+            name: "Highland Warlord",
+            rarity: "rare",
+            image: "/assets/cards/skellige/highland_warlord.webp",
+          },
+          {
+            name: "Highland Warlord",
+            rarity: "rare",
+            image: "/assets/cards/skellige/highland_warlord.webp",
+          },
+
+          {
+            name: "Jutta an Dimun",
+            rarity: "epic",
+            image: "/assets/cards/skellige/jutta_an_dimun.webp",
+          },
+          {
+            name: "Champion's Charge",
+            rarity: "epic",
+            image: "/assets/cards/skellige/champions_charge.webp",
+          },
+          {
+            name: "Morkvarg",
+            rarity: "epic",
+            image: "/assets/cards/skellige/morkvarg.webp",
+          },
+
+          {
+            name: "Vabjorn",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/vabjorn.webp",
+          },
+          {
+            name: "Blood Eagle",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/blood_eagle.webp",
+          },
+          {
+            name: "Hjalmar an Craite",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/hjalmar_an_craite.webp",
+          },
+
+          {
+            name: "Tuirseach Skirmisher",
+            rarity: "common",
+            image: "/assets/cards/skellige/tuirseach_skirmisher.webp",
+          },
+          {
+            name: "Primal Savagery",
+            rarity: "common",
+            image: "/assets/cards/skellige/primal_savagery.webp",
+          },
+
+          {
+            name: "War of Clans",
+            rarity: "rare",
+            image: "/assets/cards/skellige/war_of_clans.webp",
+          },
+          {
+            name: "Tuirseach Invader",
+            rarity: "rare",
+            image: "/assets/cards/skellige/tuirseach_invader.webp",
+          },
+
+          {
+            name: "Birna Bran",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/birna_bran.webp",
+          },
+
+          {
+            name: "Dagur Two Blades",
+            rarity: "legendary",
+            image: "/assets/cards/skellige/dagur_two_blades.webp",
+          },
         ],
       },
     ],

@@ -243,8 +243,8 @@
     "name": "Gremist",
     "image": "/assets/cards/skellige/gremist.webp",
     "faction": "Skellige",
-    "type": "Epic",
-    "rarity": "Common",
+    "type": "Unit",
+    "rarity": "Epic",
     "tags": ["Human", "Druid", "Deploy", "Ranged"]
   },
   {
