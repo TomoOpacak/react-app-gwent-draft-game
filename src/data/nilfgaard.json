@@ -40,6 +40,14 @@
     "tags": ["Human", "Deploy", "Conspiracy"]
   },
   {
+    "name": "Ard Feainn Crossbowman",
+    "image": "/assets/cards/nilfgaard/ard_feainn_crossbowman.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Deploy", "Armor", "Barricade"]
+  },
+  {
     "name": "Artorius Vigo",
     "image": "/assets/cards/nilfgaard/artorius_vigo.webp",
     "faction": "Nilfgaard",
@@ -102,6 +110,14 @@
     "type": "Unit",
     "rarity": "Common",
     "tags": ["Human", "Agent", "Blindeyes", "Assimilate", "Deploy", "Melee"]
+  },
+  {
+    "name": "Daerlan Soldier",
+    "image": "/assets/cards/nilfgaard/daerlan_soldier.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Deploy", "Spawn"]
   },
   {
     "name": "Damien de la Tour",
@@ -344,6 +360,14 @@
     "tags": ["Human", "Soldier", "Deploy"]
   },
   {
+    "name": "Standard Bearer",
+    "image": "/assets/cards/nilfgaard/standard_bearer.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier", "Deploy"]
+  },
+  {
     "name": "Stefan Skellen",
     "image": "/assets/cards/nilfgaard/stefan_skellen.webp",
     "faction": "Nilfgaard",
@@ -438,6 +462,14 @@
     "type": "Unit",
     "rarity": "Legendary",
     "tags": ["Human", "Agent", "Aristocrat", "Order", "Melee", "Seize", "Lock"]
+  },
+  {
+    "name": "Venendal Elite",
+    "image": "/assets/cards/nilfgaard/venendal_elite.webp",
+    "faction": "Nilfgaard",
+    "type": "Unit",
+    "rarity": "Rare",
+    "tags": ["Human", "Soldier"]
   },
   {
     "name": "Vilgefortz",

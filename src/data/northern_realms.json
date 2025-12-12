@@ -295,6 +295,15 @@
     "tags": ["Warfare"]
   },
   {
+    "name": "Reynard Odo",
+    "image": "/assets/cards/northern_realms/reynard_odo.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Legendary",
+    "tags": ["Human", "Soldier", "Knight", "Formation", "Order"]
+  },
+
+  {
     "name": "Ronvid the Incessant",
     "image": "/assets/cards/northern_realms/ronvid_the_incessant.webp",
     "faction": "Northern Realms",
@@ -381,6 +390,14 @@
     "type": "Unit",
     "rarity": "Legendary",
     "tags": ["Human", "Veil", "Formation", "Order", "Zeal"]
+  },
+  {
+    "name": "Voymir",
+    "image": "/assets/cards/northern_realms/voymir.webp",
+    "faction": "Northern Realms",
+    "type": "Unit",
+    "rarity": "Epic",
+    "tags": ["Human", "Soldier", "Deploy", "Armor"]
   },
   {
     "name": "War Chariot",

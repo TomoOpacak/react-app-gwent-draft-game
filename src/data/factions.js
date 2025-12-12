@@ -552,9 +552,9 @@ export const factions = {
             image: "/assets/cards/northern_realms/war_chariot.webp ",
           },
           {
-            name: "Reinforcements",
+            name: "Voymir",
             rarity: "epic",
-            image: "/assets/cards/northern_realms/reinforcements.webp ",
+            image: "/assets/cards/northern_realms/voymir.webp ",
           },
           {
             name: "John Natalis",
@@ -603,9 +603,9 @@ export const factions = {
             image: "/assets/cards/northern_realms/odrin.webp ",
           },
           {
-            name: "Viraxas King",
-            rarity: "legendary",
-            image: "/assets/cards/northern_realms/viraxas_king.webp ",
+            name: "Reinforcements",
+            rarity: "epic",
+            image: "/assets/cards/northern_realms/reinforcements.webp ",
           },
         ],
       },
@@ -734,10 +734,11 @@ export const factions = {
             image: "/assets/cards/northern_realms/anna_strenger.webp",
           },
           {
-            name: "Margarita Laux-Antille",
+            name: "Odrin",
             rarity: "epic",
-            image: "/assets/cards/northern_realms/margarita_laux_antille.webp",
+            image: "/assets/cards/northern_realms/odrin.webp",
           },
+
           {
             name: "Reinforcements",
             rarity: "epic",
@@ -755,9 +756,9 @@ export const factions = {
             image: "/assets/cards/northern_realms/amphibious_assault.webp",
           },
           {
-            name: "Viraxas King",
+            name: "Reynard Odo",
             rarity: "legendary",
-            image: "/assets/cards/northern_realms/viraxas_king.webp",
+            image: "/assets/cards/northern_realms/reynard_odo.webp",
           },
           {
             name: "Dun Banner",
@@ -770,9 +771,9 @@ export const factions = {
             image: "/assets/cards/northern_realms/reinforced_trebuchet.webp",
           },
           {
-            name: "Odrin",
+            name: "Margarita Laux-Antille",
             rarity: "epic",
-            image: "/assets/cards/northern_realms/odrin.webp",
+            image: "/assets/cards/northern_realms/margarita_laux_antille.webp",
           },
         ],
       },
@@ -1170,14 +1171,14 @@ export const factions = {
           },
 
           {
-            name: "Impera Brigade",
+            name: "Venendal Elite",
             rarity: "rare",
-            image: "/assets/cards/nilfgaard/impera_brigade.webp",
+            image: "/assets/cards/nilfgaard/venendal_elite.webp",
           },
           {
-            name: "Impera Brigade",
+            name: "Venedal Elite",
             rarity: "rare",
-            image: "/assets/cards/nilfgaard/impera_brigade.webp",
+            image: "/assets/cards/nilfgaard/venendal_elite.webp",
           },
           {
             name: "Toussaintois Knight Errant",
@@ -1228,9 +1229,24 @@ export const factions = {
             image: "/assets/cards/nilfgaard/hunting_pack.webp",
           },
           {
-            name: "Alba Pikeman",
-            rarity: "common",
-            image: "/assets/cards/nilfgaard/alba_pikeman.webp",
+            name: "Impera Brigade",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/impera_brigade.webp",
+          },
+          {
+            name: "Standard Bearer",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/standard_bearer.webp",
+          },
+          {
+            name: "Daerlan Soldier",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/daerlan_soldier.webp",
+          },
+          {
+            name: "Ard Feainn Crossbowman",
+            rarity: "rare",
+            image: "/assets/cards/nilfgaard/ard_feainn_crossbowman.webp",
           },
         ],
       },
